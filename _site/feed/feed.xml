@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>ldstephens</title>
+  <subtitle></subtitle>
+  <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
+  <link href="https://ldstephens.net/" />
+  <updated>2024-07-05T14:44:00Z</updated>
+  <id>https://ldstephens.net/</id>
+  <author>
+    <name>Loren Stephens</name>
+  </author>
+  <entry>
+    <title>Rebooting My Blog: New Site, New Format, New RSS Feed</title>
+    <link href="https://ldstephens.net/blog/rebooting-my-blog-new-site-new-format-new-rss-feed/" />
+    <updated>2024-07-05T14:44:00Z</updated>
+    <id>https://ldstephens.net/blog/rebooting-my-blog-new-site-new-format-new-rss-feed/</id>
+    <content type="html">&lt;p&gt;This is the final post on ldstephens.net. For those who have read and enjoyed this site at any time over the nearly eight year span, I thank you and hope it has truly helped you in a meaningful way.&lt;/p&gt;
+&lt;p&gt;For those that wish to continue to read my work on these and many other topics,&lt;a href=&quot;https://ldstephens.me&quot;&gt; ldstephens.me&lt;/a&gt; and &lt;a href=&quot;https://lstep.xyz&quot;&gt;lstep.xyz&lt;/a&gt; will be the place to do that for as long as I can still make words work. Please stop by.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>iPhone content capture update</title>
+    <link href="https://ldstephens.net/blog/iphone-content-capture-update/" />
+    <updated>2024-06-22T16:15:23Z</updated>
+    <id>https://ldstephens.net/blog/iphone-content-capture-update/</id>
+    <content type="html">&lt;p&gt;It’s been a little over a week since I started this &lt;a href=&quot;https://ldstephens.net/2024/06/19/trying-something-new-with-content-capture-on-iphone/&quot;&gt;experiment&lt;/a&gt;. I tried a new approach to capturing content directly into its final app instead of using Drafts. I planned to use iA Writer for blogging, Apple Notes for notes, and Things for tasks, with a “Quick Add” shortcut on my iPhone’s Dock to streamline the process. However, this experiment didn’t work out.&lt;/p&gt;
+&lt;p&gt;Here’s why:&lt;/p&gt;
+&lt;p&gt;Drafts is simply better at capturing temporary notes, quick thoughts, and ideas. It excels at quickly grabbing those fleeting thoughts and snippets of information. When I need to merge content, Drafts allows me to easily combine notes which isn’t available in iA Writer or Apple Notes. Apple Notes also lacks a simple way to export or move captured content. These limitations make it less practical for my workflow.&lt;/p&gt;
+&lt;p&gt;In conclusion, Drafts remains my go-to app for initial content capture and organization on my iPhone.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>GoodLinks to iA Writer Custom Actions</title>
+    <link href="https://ldstephens.net/blog/goodlinks-to-ia-writer-custom-actions/" />
+    <updated>2024-06-21T19:18:40Z</updated>
+    <id>https://ldstephens.net/blog/goodlinks-to-ia-writer-custom-actions/</id>
+    <content type="html">&lt;p&gt;Hey friends, as I mentioned the other day, I’m switching to &lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt; for my blogging and writing. This means capturing my ideas directly in iA Writer. Since &lt;a href=&quot;https://goodlinks.app&quot;&gt;GoodLinks&lt;/a&gt; is my go-to read-it-later app, I’ve created some Custom Actions that seamlessly transfer content from GoodLinks to iA Writer.&lt;/p&gt;
+&lt;p&gt;Previously, I wrote about &lt;a href=&quot;https://ldstephens.net/2022/12/29/how-to-create-custom-actions-in-goodlinks/&quot;&gt;creating Custom Actions in GoodLinks&lt;/a&gt; and it included actions for sending content to Drafts. I’m excited to share three Custom Actions for sending content from GoodLinks to iA Writer with you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title, Author, URL, Selection to iA&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[title]%0A{_}[author]{_}%0A[url]%0A[selection-text]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This action sends the title, author, URL, and selected text in the active article to iA Writer as plain text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selection – iA&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[selection-text]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This action sends the selected text in the active article to iA Writer as plain text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Markdown Title, URL – iA&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text={[}[title]{]}{(}[url]{)}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This action sends the title and URL of the active article to iA Writer as markdown.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Trying something new with content capture on iPhone</title>
+    <link href="https://ldstephens.net/blog/trying-something-new-with-content-capture-on-iphone/" />
+    <updated>2024-06-19T19:18:01Z</updated>
+    <id>https://ldstephens.net/blog/trying-something-new-with-content-capture-on-iphone/</id>
+    <content type="html">&lt;p&gt;As a long-time Drafts user, I’m experimenting with a new approach to capturing content.&lt;/p&gt;
+&lt;p&gt;Most of my capture happens on my iPhone. Traditionally, I’ve used Drafts to gather everything, then send it to its final destination. I’m considering bypassing Drafts and capturing content directly into its final app.&lt;/p&gt;
+&lt;p&gt;Here’s the plan:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blogging/Writing:&lt;/strong&gt; Capture in &lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Capture in Apple Notes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reminders and Tasks:&lt;/strong&gt; Capture in &lt;a href=&quot;https://culturedcode.com/things/&quot;&gt;Things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This method covers most of what I capture.&lt;/p&gt;
+&lt;p&gt;I’ve created a shortcut called Quick Add on my iPhone for quick capture to Things, Notes, and iA Writer to streamline the process. The Quick Add shortcut, in my Dock, allows me to quickly add a new task to Things, a new note to Notes, or a new idea for a blog post to iA Writer. I’ll let you know how this works out for me.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Google&#39;s AI Search Update shakes up indie bloggers and creators</title>
+    <link href="https://ldstephens.net/blog/googles-ai-search-update-shakes-up-indie-bloggers-and-creators/" />
+    <updated>2024-05-14T19:24:22Z</updated>
+    <id>https://ldstephens.net/blog/googles-ai-search-update-shakes-up-indie-bloggers-and-creators/</id>
+    <content type="html">&lt;p&gt;So, Google has decided to shake things up with its fancy new AI-powered search tool, leaving indie bloggers and creators like us feeling a little pissed off.&lt;/p&gt;
+&lt;p&gt;The Search Generative Experience (SGE) promises users direct answers to their burning questions right there in the search results. But guess who’s getting shoved to the bottom of the fucking pile? Yep, you guessed it we are.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tech research firm Gartner predicts traffic to the web from search engines will fall 25 percent by 2026. Ross Hudgens, CEO of search engine optimization consultancy Siege Media, said he estimates at least a 10 to 20 percent hit, and more for some publishers. &lt;strong&gt;“Some people are going to just get bludgeoned,” he said.[…] People who rely on the web to make a living are worried.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This has me thinking about the future of this blog. A considerable amount of its traffic comes from Google searches. Over the past few years, that traffic has dropped off. However, it appears that Google search results will soon come to an end for small indie blogs. The only other sources of traffic for this blog are email subscribers and RSS. Unfortunately, I have no way of knowing how many RSS subscribers I have. So, the question is: am I wasting my time and money continuing this blog? Buckle up, fellow indie bloggers and creators. We have some decisions to make.&lt;/p&gt;
+&lt;p&gt;If you follow this blog via RSS please let me know by sending me a message with the contact form. Thank you for being a reader!&lt;/p&gt;
+&lt;p&gt;Source: Gerrit De Vynck and Cat Zakrzewski, &lt;a href=&quot;https://www.washingtonpost.com/technology/2024/05/13/google-ai-search-io-sge/&quot;&gt;The Washington Post&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Update: My iPhone Home Screen One Page Does It All</title>
+    <link href="https://ldstephens.net/blog/update-my-iphone-home-screen-one-page-does-it-all/" />
+    <updated>2024-05-13T13:42:54Z</updated>
+    <id>https://ldstephens.net/blog/update-my-iphone-home-screen-one-page-does-it-all/</id>
+    <content type="html">&lt;p&gt;When I wrote about my &lt;a href=&quot;https://ldstephens.net/2024/05/10/my-iphone-home-screen-one-page-does-it-all/&quot;&gt;iPhone’s one page Home Screen&lt;/a&gt; I had forgotten how I had learned to create the “Choose From Menu” shortcut. Yesterday while cleaning out numerous old notes I came across the one I made on how to create the shortcut.&lt;/p&gt;
+&lt;p&gt;I learned how to create the shortcut from this article, &lt;a href=&quot;https://www.appsntips.com/learn/create-app-launcher-shortcut/&quot;&gt;How to Create an App Launcher Using Shortcuts | appsntips&lt;/a&gt;. It explains how to create the shortcut from start to finish.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Reflecting on the iPad Event</title>
+    <link href="https://ldstephens.net/blog/reflecting-on-the-ipad-event/" />
+    <updated>2024-05-11T13:19:48Z</updated>
+    <id>https://ldstephens.net/blog/reflecting-on-the-ipad-event/</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://joe-steel.com/2024-05-08-The-iPad-Event.html&quot;&gt;Joe Rosensteel&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you are someone who regularly uses an iPad, and you needed new hardware for some reason, then any new iPad hardware is an iPad for you. If you didn’t use an iPad (or had one collecting dust on a shelf) I don’t know why today’s announcements would make you want to buy an iPad. […] The consistent refrain before, and after the event is that Apple isn’t addressing the iPad software platform. […] Unlike some others, I’m not expecting any dramatic innovations at WWDC this Summer, and even if there were you’d be on a beta iPadOS until the Fall if you really wanted to use them. […] Anyway, this is my two cents, as someone that can’t remember the last time he charged his iPad Pro.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A couple of months ago, to simplify my digital life and address the constant struggle of underusing my two iPads, I made a switch. I traded them in for an iPhone 15 Pro Max. That fucking alleviated the question of “where do iPads fit”? My iPhone and MacBook Air combo handles all my needs.&lt;/p&gt;
+&lt;p&gt;The only thing that would get me to consider adding an iPad back to my tech stack would be the addition of a legitimate clipboard manager and the ability for apps like Alfred or Raycast to run on the iPad. We’ll see what happens to iPadOS at WWDC but I’m not holding my breath for that to happen.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>My iPhone Home Screen: One Page Does It All</title>
+    <link href="https://ldstephens.net/blog/my-iphone-home-screen-one-page-does-it-all/" />
+    <updated>2024-05-10T15:19:52Z</updated>
+    <id>https://ldstephens.net/blog/my-iphone-home-screen-one-page-does-it-all/</id>
+    <content type="html">&lt;p&gt;Since trading in my two iPads, my iPhone 15 Pro Max has become my daily driver. This shift made me re-evaluate how I use the Home Screen for maximum efficiency. Here’s the thing: I despise cluttered screens with multiple pages, folders, Today View widgets, or widget stacks. So, my challenge was to access everything I needed from a single, Home Screen.&lt;/p&gt;
+&lt;p&gt;Here’s where the “Choose from Menu” action in Apple Shortcuts comes in. The “Choose from Menu” action in Apple Shortcuts is designed to streamline iOS device automation. It allows you to create customizable menus, presenting options for you to choose from when the shortcut runs. Whether it’s selecting a favorite contact, choosing from a list of apps, or picking a specific destination in a navigation app, the “Choose from Menu” action lets personalize your shortcuts and tailor them to your specific needs.&lt;/p&gt;
+&lt;p&gt;I use three “Choose from Menu” shortcuts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Other Apps:&lt;/strong&gt; This shortcut houses apps I don’t use daily but still need occasionally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Shortcuts:&lt;/strong&gt; This one groups my most-used shortcuts for quick access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Read-Later Apps:&lt;/strong&gt; This shortcut brings up my favorite read-later apps like Omnivore or Instapaper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By placing these shortcut icons on my Home Screen, I have all my essential apps and shortcuts readily available on a single page.&lt;/p&gt;
+&lt;p&gt;This approach might not be for everyone, but if you want a clutter-free Home Screen, give “Choose from Menu” shortcuts a try!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Perspectives on indie blog monetization</title>
+    <link href="https://ldstephens.net/blog/perspectives-on-indie-blog-monetization/" />
+    <updated>2024-05-10T14:32:03Z</updated>
+    <id>https://ldstephens.net/blog/perspectives-on-indie-blog-monetization/</id>
+    <content type="html">&lt;p&gt;I &lt;a href=&quot;https://ldstephens.net/2024/02/23/so-youre-monetizing-your-blog/&quot;&gt;wrote about this&lt;/a&gt; very subject earlier in the year. Here’s Riccardo Mori’s stance on monetizing blogs in his interview with Manu Moreale.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://manuelmoreale.com/pb-riccardo-mori&quot;&gt;Manu P&amp;amp;B interview of Riccardo Mori&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Riccardo Mori&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since I have a job, I don’t need to monetise my blog. Some people told me I should do it anyway, because ‘you never know’, but I currently see no way to monetise it apart from resorting to a) advertising, and b) putting some content behind a paywall. And I hate both options.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I hate what advertising has become online. I hate that today if you want a great browsing experience, you need to install all kinds of ad-blockers. And I don’t want to subject my readers to all that crap. You can visit my website with all blockers and trackers disabled, there’s pretty much nothing going on in the background apart from some basic WordPress analytics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And since my blog is not a news outlet and I don’t have to pay anyone, putting what I write behind a paywall makes no sense to me. I don’t want to divide my audience into a privileged tier and a free-for-all tier. Nor do I want to create special content for ‘patrons’ that is invisible to everyone else.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>So you’re monetizing your blog</title>
+    <link href="https://ldstephens.net/blog/so-youre-monetizing-your-blog/" />
+    <updated>2024-02-23T21:47:30Z</updated>
+    <id>https://ldstephens.net/blog/so-youre-monetizing-your-blog/</id>
+    <content type="html">&lt;p&gt;Lately, I’ve noticed a growing trend among fellow bloggers as they attempt to monetize their blog. While I won’t call out specific individuals, it’s become apparent that something fundamental has changed. The content I once enjoyed reading regularly has changed, and unfortunately, not for the better.&lt;/p&gt;
+&lt;p&gt;These bloggers seem to be adjusting their writing styles and content strategy, likely in pursuit of pleasing subscribers or attracting advertisers. And the frequency of their posts has increased, but the substance has dwindled.&lt;/p&gt;
+&lt;p&gt;The question that lingers in my mind is whether the income generated from these efforts is truly making a significant impact on their lives. It’s disheartening to witness a departure from the engaging and valuable content they used to create or share through links.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

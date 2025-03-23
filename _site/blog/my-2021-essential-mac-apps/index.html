@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>My 2021 Essential Mac Apps</title>
+		<meta name="description" content="A blog by ldstephens">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="ldstephens">
+		
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">ldstephens</a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">About</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="skip">
+			<heading-anchors>
+				
+<h1 id="my-2021-essential-mac-apps">My 2021 Essential Mac Apps</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2020-12-22">22 December 2020</time></li>
+</ul>
+
+<p>Every year towards the end of December I evaluate the apps that I’ve been using and what I will use for the next year. I find that writing this out helps me better evaluate the apps that best fit my workflows. Once I complete my evaluation, I summarize it in a post on this blog.</p>
+<p>Another reason for this post is that visitors are always asking me which apps I use for specific tasks. To keep from repeating myself over and over, here’s the list of apps that I use.</p>
+<h2 id="my-setup">My setup:</h2>
+<ul>
+<li>MacBook Pro early–2015 13” (soon to be replaced with a MacBook Air M1/8gb)</li>
+<li>iPhone 11</li>
+<li>iPad 5th Generation (which I rarely use these days)</li>
+<li>Apple Watch 44 mm Series 4</li>
+</ul>
+<h3 id="table-of-contents">Table of Contents</h3>
+<ul>
+<li><a href="#my-2021-essential-mac-apps">My 2021 Essential Mac Apps</a>
+<ul>
+<li><a href="#my-setup">My setup:</a>
+<ul>
+<li><a href="#table-of-contents">Table of Contents</a>
+<ul>
+<li><a href="#web">Web</a></li>
+<li><a href="#communication">Communication</a></li>
+<li><a href="#calendar-and-tasks">Calendar and Tasks</a></li>
+<li><a href="#reading">Reading</a></li>
+<li><a href="#writing">Writing</a></li>
+<li><a href="#utilities-productivity">Utilities / Productivity</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="web">Web</h4>
+<p>Safari – Safari is my browser of choice. I use <a href="https://giorgiocalderolla.com/wipr.html">Wipr</a> with Safari to block ads, trackers, cryptocurrency miners, and other annoyances.</p>
+<p>As we all know some websites don’t play nice with Safari. In those situations I use <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>.</p>
+<h4 id="communication">Communication</h4>
+<p><a href="https://www.fastmail.com/?STKI=14726057">Fastmail</a> – I’ve been using Fastmail for email ever since <a href="https://ldstephens.medium.com/two-years-of-fastmail-and-how-it-replaced-gma-840d38bc17b">I left Gmail</a> over 6 years ago. I also use it for calendar, and contacts.</p>
+<p>Fastmail has an <a href="https://www.fastmail.com/help/clients/mobileapp.html">iOS app</a>, that I use, but none for the Mac so I use the <a href="https://github.com/joelekstrom/fastmate">Fastmate</a> app which is a native Fastmail-wrapper.</p>
+<p><a href="https://support.apple.com/explore/messages">Messages</a> – Messages is how I communicate with family and friends.</p>
+<h4 id="calendar-and-tasks">Calendar and Tasks</h4>
+<p><a href="https://flexibits.com/fantastical">Fantastical 3</a> – Fantastical is my calendar and task app. It integrates perfectly with my Fastmail calendar appointments and events and Apple <a href="https://apps.apple.com/us/app/reminders/id1108187841">Reminders</a> tasks.</p>
+<h4 id="reading">Reading</h4>
+<p><a href="https://www.reederapp.com/">Reeder</a> – Reeder is what I use for my <a href="https://feedly.com/i/welcome">Feedly</a> RSS feeds. Anything that I want to read I save to <a href="https://www.instapaper.com">Instapaper</a> for reading later.</p>
+<p><a href="https://twitter.com">Twitter</a> – Twitter is for news and the feeds for apps that I use.</p>
+<h4 id="writing">Writing</h4>
+<p><a href="https://getdrafts.com/">Drafts 5</a> – I’ve been using Drafts for several years. It’s the launching-off point for text for me. I use the actions to copy it, share it, or deep link into other apps and services.</p>
+<p><a href="https://ia.net/writer">iA Writer</a> – iA Writer is my current writing app of choice. For preview I use <a href="https://marked2app.com/">Marked 2</a> side by side with iA Writer. Everything that I write goes through <a href="https://www.grammarly.com">Grammarly</a> for proofreading grammar and spelling.</p>
+<p><a href="https://apps.apple.com/us/app/notes/id1110145109">Apple Notes</a> – Notes that I want to keep long-term go in the Notes app.</p>
+<h4 id="utilities-productivity">Utilities / Productivity</h4>
+<p><a href="https://bitwarden.com/">Bitwarden</a> – Gotta have a password manager.</p>
+<p><a href="https://www.alfredapp.com">Alfred</a> – Alfred is Spotlight on steroids. I’d be lost without it.</p>
+<p><a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a> – Keyboard Maestro is another app that I can’t live without it. I use it for keyboard shortcuts, launching apps, opening files and folders and automating actions. It has a learning curve but once you start to get the hang of it you can do amazing things. I’ve written about Keyboard Maestro <a href="https://ldstepblog.wordpress.com/category/keyboard-maestro/">here</a>.</p>
+<p><a href="http://pilotmoon.com/popclip/">PopClip</a> – I use PopClip to manage what I do with selected text. I’ve written about PopClip <a href="https://ldstephens.net/2017/09/15/how-to-open-the-popclip-menu-on-a-selection/">here</a>.</p>
+<p><a href="https://www.noodlesoft.com/">Hazel</a> – Hazel watches whatever folders I tell it to, automatically organizing my files according to the rules that I’ve created.</p>
+<p><a href="https://yoink.app/">Yoink</a> – Yoink speeds and up my workflow by simplifying drag and drop. I’ve written about Yoink <a href="https://ldstephens.net/2017/10/04/yoink-my-favorite-drag-and-drop-utility-for-mac/">here</a>.</p>
+<p><a href="https://aptonic.com/">Dropzone</a> – Dropzone makes it easy to copy or move files to my favorite folders, open applications and uploading files to the Internet right from your menu bar.</p>
+<p><a href="http://freemacsoft.net/appcleaner/">App Cleaner</a> – AppCleaner is my app uninstaller. I use it because it deletes all the junk that gets left behind when you drag the app icon to the trash.</p>
+<p><a href="https://manytricks.com/moom/">Moom</a> – I use Moom for window management.</p>
+<p><a href="https://manytricks.com/witch/">Witch</a> – Witch is my app switcher.</p>
+<p><a href="https://www.macbartender.com/Bartender4/">Bartender 4</a> – Bartender is the app I use to organize my menu bar. I’ve written about it <a href="https://ldstephens.net/2017/11/15/how-i-organize-my-mac-menu-bar-apps/">here</a>.</p>
+<p><a href="https://eternalstorms.at/ScreenFloat/ScreenFloat_-_Make_your_Shots_fly/ScreenFloat_-_Make_your_Shots_fly%21.html">ScreenFloat</a> – ScreenFloat is my app for taking screenshots and storing them.</p>
+<p><a href="https://www.tunnelbear.com">TunnelBear VPN</a> – TunnelBear is my VPN for security on public WiFi and for web browsing privacy.</p>
+<p><a href="https://pcalc.com/">PCalc</a> – PCalc is my stock calculator replacement. I use it for its additional features and customization.</p>
+<p><a href="http://ldstephens.net/2020/12/22/my-2021-essential-ios-apps/">My 2021 Essential iOS Apps</a></p>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/apple-doubles-down-on-ios-app-tracking-transparency/">Apple doubles down on iOS App Tracking Transparency</a></li><li class="links-nextprev-next">Next →<br><a href="/blog/my-2021-essential-ios-apps/">My 2021 Essential iOS Apps</a></li>
+</ul>
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p><em>Built with <a href="https://www.11ty.dev/">Eleventy v3.0.0</a></em></p>
+		</footer>
+
+		<!-- This page `/blog/my-2021-essential-mac-apps/` was built on 2025-03-23T19:26:18.010Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+	</body>
+</html>

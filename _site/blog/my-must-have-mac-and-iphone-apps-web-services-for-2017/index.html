@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>My Must-Have Mac and iPhone Apps for 2017</title>
+		<meta name="description" content="A blog by ldstephens">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="ldstephens">
+		
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">ldstephens</a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">About</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="skip">
+			<heading-anchors>
+				
+<h1 id="my-must-have-mac-and-iphone-apps-for-2017">My Must-Have Mac and iPhone Apps for 2017</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2017-01-04">04 January 2017</time></li>
+</ul>
+
+<p>I don’t know about you, but I spend a huge chunk of time using my computer and iPhone.</p>
+<p>I’m using my computer right now. And, as I type this story, my iPhone is just is just a few inches away.</p>
+<p>I use these devices almost all day every day for work stuff, family stuff, writing stuff and more.</p>
+<p>I want to share my Mac and iPhone setup with you in hopes that you’ll discover a new app that will improve your workflow or make you more productive in 2017.</p>
+<h3 id="my-mac-setup">My Mac setup:</h3>
+<p>I have two Macs. My iMac is a 21.5” late-2013 model and my MacBook Pro is a Retina 13” early-2015 model. I work from home, so my iMac is my primary work machine. My MacBook is where I do most of my reading and a lot of my browsing.</p>
+<p><picture><source type="image/avif" srcset="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2016-12-29-at--xrx6HaXLJBIt.jpeg&width=1024&format=avif&via=transform 1024w"><source type="image/webp" srcset="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2016-12-29-at--xrx6HaXLJBIt.jpeg&width=1024&format=webp&via=transform 1024w"><img loading="lazy" decoding="async" src="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2016-12-29-at--xrx6HaXLJBIt.jpeg&width=1024&format=jpeg&via=transform" alt="" width="1024" height="768"></picture></p>
+<h3 id="here-s-my-software-and-what-i-use-it-for">Here’s my software and what I use it for:</h3>
+<h4 id="productivity"><strong>Productivity</strong></h4>
+<ul>
+<li><strong>Safari</strong> — is my browser of choice. It just works best on macOS for me. I’ll occasionally use Chrome when something doesn’t go right with Safari.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/fantastical-2-calendar-reminders/id975937182?mt=12&amp;uo=4&amp;at=1000lude">Fantastical 2</a></strong> — is where I keep track of all my events and reminders for both work and personal.</li>
+<li><strong><a href="https://geo.itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?mt=12&amp;at=1000lude">Bear</a></strong> — I recently started using Bear as my notes app in place of Evernote and Apple Notes. I’ve been using it for a few months now. I upgraded to the Pro version so I would have iCloud sync across all my devices. FYI Bear is a lot like Ulysses so it would also be a good writing app if one didn’t want to pay the price of Ulysses.</li>
+<li><strong><a href="https://www.alfredapp.com">Alfred</a></strong> — is a productive app I just recently discovered. It is like Spotlight on steroids. With Alfred I’m to boost my productivity with hotkeys, keywords, text expansion and much more. In fact, I like it so much I upgraded to the Power Pack. Alfred is a free. You should definitely give it a try.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/copied-copy-paste-everywhere/id1026349850?mt=12&amp;uo=4&amp;at=1000lude">Copied</a></strong> — is for managing my clipboard. Copied allows me to collect all my clipboard data and have it quickly available to use again.</li>
+<li><strong><a href="https://www.dropbox.com/">Dropbox</a></strong> — is where I keep all my files, both personal and work.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/1password-password-manager/id443987910?mt=12&amp;uo=4&amp;at=1000lude">1Password</a></strong> — is for my password management. This is another must have app.</li>
+<li><strong><a href="https://www.postbox-inc.com">Postbox</a></strong> — is my personal and work email client. I’ve tried many email clients and never found one that accommodated all my needs until Postbox. In my work, I send a lot of repetitive emails. What sold me on Postbox is Responses. Responses allow me to send the same message without having to type it over and over. Responses are like canned responses in Gmail.</li>
+<li><strong><a href="https://www.zoho.com/crm/?src=zoho-snm">Zoho CRM</a></strong> — is a web based app where I manage all my client data.</li>
+</ul>
+<h4 id="reading"><strong>Reading</strong></h4>
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/reeder-3/id880001334?mt=12&amp;uo=4&amp;at=1000lude">Reeder</a></strong> — is my feed reader for my <a href="https://www.inoreader.com/">Inoreader</a> RSS feeds integrated with <a href="https://itunes.apple.com/us/app/pocket/id568494494?mt=12&amp;uo=4&amp;at=1000lude">Pocket</a> for reading later.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&amp;uo=4&amp;at=1000lude">Tweetbot</a></strong> — is for following my Twitter feed and saving links to Pocket for reading later.</li>
+</ul>
+<h4 id="writing"><strong>Writing</strong></h4>
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/ulysses/id623795237?mt=12&amp;uo=4&amp;at=1000lude">Ulysses</a></strong> — is the app I use to write all my stories. In fact, I’m writing this story in Ulysses right now. One of the great features of Ulysses is the ability to publish directly to WordPress and Medium right from the app.</li>
+<li><strong><a href="https://www.grammarly.com">Grammarly</a></strong> — For proof reading all my stories for grammar and punctuation.</li>
+</ul>
+<h4 id="utilities"><strong>Utilities</strong></h4>
+<ul>
+<li><strong><a href="https://justgetflux.com/">f.lux</a></strong> — to protect my eyes at night.</li>
+<li><strong><a href="http://freemacsoft.net/appcleaner/">App Cleaner</a></strong> — is for uninstalling apps you no longer want. It deletes all the junk that gets left behind when you just drag the app icon to the trash.</li>
+<li><strong><a href="https://www.tunnelbear.com">TunnelBear VPN</a></strong> — is for security on public WiFi and privacy while browsing.</li>
+</ul>
+<h3 id="my-iphone-setup">My iPhone setup:</h3>
+<p>I have an iPhone 6s in Space Gray. I’m currently considering an iPhone 7 Plus. I use my iPhone for all work and personal phone calls. When working I use a Jabra Bluetooth headset for hands free calling.</p>
+<p><picture><source type="image/avif" srcset="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2017-01-02-at--f6UBrqOUxgFW.png&width=169&format=avif&via=transform 169w"><source type="image/webp" srcset="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2017-01-02-at--f6UBrqOUxgFW.png&width=169&format=webp&via=transform 169w"><img loading="lazy" decoding="async" src="/.11ty/image/?src=content%2Fblog%2Fassets%2Fimage-copied-on-2017-01-02-at--f6UBrqOUxgFW.png&width=169&format=png&via=transform" alt="" width="169" height="300"></picture></p>
+<h3 id="here-are-my-apps-and-what-i-use-them-for">Here are my apps and what I use them for:</h3>
+<h4 id="productivity-2"><strong>Productivity</strong></h4>
+<ul>
+<li><strong>Safari</strong> — is my browser of choice.</li>
+<li><strong>Mail.app</strong> — is for my work and personal email needs.</li>
+<li><strong>iMessage</strong> — is for messaging my friends and family.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/fantastical-2-for-iphone-calendar/id718043190?mt=8&amp;uo=4&amp;at=1000lude">Fantastical 2</a></strong> — is where I keep track of all my events and reminders for both work and personal.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/copied-copy-paste-everywhere/id1015767349?mt=8&amp;uo=4&amp;at=1000lude">Copied</a></strong> — is for managing my clipboard.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1016366447?mt=8&amp;at=1000lude">Bear</a></strong> — is my note taking app.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/launch-center-pro-shortcut/id532016360?mt=8&amp;uo=4&amp;at=1000lude">Launch Center Pro</a></strong> — is my productivity app for launching actions in a single tap.</li>
+</ul>
+<h4 id="reading-2"><strong>Reading</strong></h4>
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/reeder-3/id697846300?mt=8&amp;uo=4&amp;at=1000lude">Reeder</a></strong> — is my feed reader for my <a href="https://itunes.apple.com/us/app/inoreader-rss-news-reader/id892355414?mt=8&amp;uo=4&amp;at=1000lude">Inoreader</a> RSS feeds integrated with <a href="https://itunes.apple.com/us/app/pocket-save-articles-videos/id309601447?mt=8&amp;uo=4&amp;at=1000lude">Pocket</a> for reading later.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8&amp;uo=4&amp;at=1000lude">Tweetbot</a></strong> — is for following my Twitter feed and saving links to Pocket for reading later.</li>
+</ul>
+<h4 id="writing-2"><strong>Writing</strong></h4>
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/ulysses/id950335311?mt=8&amp;uo=4&amp;at=1000lude">Ulysses</a></strong> — is on my iPhone but I rarely use it for writing. It’s there for the share sheet capability for that’s that I want to get into to Ulysses for use next time I’m writing on my Mac.</li>
+<li><strong><a href="https://itunes.apple.com/us/app/drafts-quickly-capture-notes/id905337691?mt=8&amp;uo=4&amp;at=1000lude">Drafts</a></strong> — is for multi-purpose writing and note taking.</li>
+</ul>
+<h4 id="utilities-2"><strong>Utilities</strong></h4>
+<ul>
+<li><strong><a href="https://www.tunnelbear.com">TunnelBear VPN</a></strong> — is for security on public WiFi and privacy while browsing.</li>
+</ul>
+<h4 id="fitness"><strong>Fitness</strong></h4>
+<ul>
+<li><strong><a href="https://itunes.apple.com/us/app/strava-running-and-cycling/id426826309?mt=8&amp;uo=4&amp;at=1000lude">Strava</a></strong> — is for recording and tracking all my cycling activities.</li>
+</ul>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/how-china-built-iphone-city-with-billions-in-perks-for-apples-partner/">How China Built ‘iPhone City’ With Billions in Perks for Apple’s Partner</a></li><li class="links-nextprev-next">Next →<br><a href="/blog/did-you-know-facebook-is-buying-sensitive-data-about-you-from-data-brokers/">Did you know Facebook is buying sensitive data, about you, from data brokers?</a></li>
+</ul>
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p><em>Built with <a href="https://www.11ty.dev/">Eleventy v3.0.0</a></em></p>
+		</footer>
+
+		<!-- This page `/blog/my-must-have-mac-and-iphone-apps-web-services-for-2017/` was built on 2025-03-23T19:26:18.011Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+	</body>
+</html>
