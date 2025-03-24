@@ -35,115 +35,98 @@
 </content>
   </entry>
   <entry>
-    <title>Rebooting My Blog: New Site, New Format, New RSS Feed</title>
-    <link href="https://ldstephens.net/blog/rebooting-my-blog-new-site-new-format-new-rss-feed/" />
-    <updated>2024-07-05T14:44:00Z</updated>
-    <id>https://ldstephens.net/blog/rebooting-my-blog-new-site-new-format-new-rss-feed/</id>
-    <content type="html">&lt;p&gt;This is the final post on ldstephens.net. For those who have read and enjoyed this site at any time over the nearly eight year span, I thank you and hope it has truly helped you in a meaningful way.&lt;/p&gt;
-&lt;p&gt;For those that wish to continue to read my work on these and many other topics,&lt;a href=&quot;https://ldstephens.me&quot;&gt; ldstephens.me&lt;/a&gt; and &lt;a href=&quot;https://lstep.xyz&quot;&gt;lstep.xyz&lt;/a&gt; will be the place to do that for as long as I can still make words work. Please stop by.&lt;/p&gt;
+    <title>Apple ID phishing alert</title>
+    <link href="https://ldstephens.net/blog/apple-id-phishing-alert/" />
+    <updated>2025-03-20T09:25:58Z</updated>
+    <id>https://ldstephens.net/blog/apple-id-phishing-alert/</id>
+    <content type="html">&lt;p&gt;Hey friends, just a heads-up for Mac users: there’s a &lt;a href=&quot;https://9to5mac.com/2025/03/20/this-is-one-of-the-most-sophisticated-phishing-attacks-ever-made-against-mac-users/&quot;&gt;new phishing scam&lt;/a&gt; going around. It starts with a fake security alert while you’re browsing, but this one goes a step further by freezing the page, making it seem like your Mac is locked making the scam feel more real. The goal is to trick you into entering your Apple ID and password.&lt;/p&gt;
+&lt;p&gt;If you see one of these popups and the page is frozen, press Command + Option + Esc, select Safari, and force quit to force quit the app.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>iPhone content capture update</title>
-    <link href="https://ldstephens.net/blog/iphone-content-capture-update/" />
-    <updated>2024-06-22T16:15:23Z</updated>
-    <id>https://ldstephens.net/blog/iphone-content-capture-update/</id>
-    <content type="html">&lt;p&gt;It’s been a little over a week since I started this &lt;a href=&quot;https://ldstephens.net/2024/06/19/trying-something-new-with-content-capture-on-iphone/&quot;&gt;experiment&lt;/a&gt;. I tried a new approach to capturing content directly into its final app instead of using Drafts. I planned to use iA Writer for blogging, Apple Notes for notes, and Things for tasks, with a “Quick Add” shortcut on my iPhone’s Dock to streamline the process. However, this experiment didn’t work out.&lt;/p&gt;
-&lt;p&gt;Here’s why:&lt;/p&gt;
-&lt;p&gt;Drafts is simply better at capturing temporary notes, quick thoughts, and ideas. It excels at quickly grabbing those fleeting thoughts and snippets of information. When I need to merge content, Drafts allows me to easily combine notes which isn’t available in iA Writer or Apple Notes. Apple Notes also lacks a simple way to export or move captured content. These limitations make it less practical for my workflow.&lt;/p&gt;
-&lt;p&gt;In conclusion, Drafts remains my go-to app for initial content capture and organization on my iPhone.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>GoodLinks to iA Writer Custom Actions</title>
-    <link href="https://ldstephens.net/blog/goodlinks-to-ia-writer-custom-actions/" />
-    <updated>2024-06-21T19:18:40Z</updated>
-    <id>https://ldstephens.net/blog/goodlinks-to-ia-writer-custom-actions/</id>
-    <content type="html">&lt;p&gt;Hey friends, as I mentioned the other day, I’m switching to &lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt; for my blogging and writing. This means capturing my ideas directly in iA Writer. Since &lt;a href=&quot;https://goodlinks.app&quot;&gt;GoodLinks&lt;/a&gt; is my go-to read-it-later app, I’ve created some Custom Actions that seamlessly transfer content from GoodLinks to iA Writer.&lt;/p&gt;
-&lt;p&gt;Previously, I wrote about &lt;a href=&quot;https://ldstephens.net/2022/12/29/how-to-create-custom-actions-in-goodlinks/&quot;&gt;creating Custom Actions in GoodLinks&lt;/a&gt; and it included actions for sending content to Drafts. I’m excited to share three Custom Actions for sending content from GoodLinks to iA Writer with you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Title, Author, URL, Selection to iA&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[title]%0A{_}[author]{_}%0A[url]%0A[selection-text]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This action sends the title, author, URL, and selected text in the active article to iA Writer as plain text.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Selection – iA&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[selection-text]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This action sends the selected text in the active article to iA Writer as plain text.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Markdown Title, URL – iA&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ia-writer://x-callback-url/new?text={[}[title]{]}{(}[url]{)}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This action sends the title and URL of the active article to iA Writer as markdown.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Trying something new with content capture on iPhone</title>
-    <link href="https://ldstephens.net/blog/trying-something-new-with-content-capture-on-iphone/" />
-    <updated>2024-06-19T19:18:01Z</updated>
-    <id>https://ldstephens.net/blog/trying-something-new-with-content-capture-on-iphone/</id>
-    <content type="html">&lt;p&gt;As a long-time Drafts user, I’m experimenting with a new approach to capturing content.&lt;/p&gt;
-&lt;p&gt;Most of my capture happens on my iPhone. Traditionally, I’ve used Drafts to gather everything, then send it to its final destination. I’m considering bypassing Drafts and capturing content directly into its final app.&lt;/p&gt;
-&lt;p&gt;Here’s the plan:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Blogging/Writing:&lt;/strong&gt; Capture in &lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Capture in Apple Notes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reminders and Tasks:&lt;/strong&gt; Capture in &lt;a href=&quot;https://culturedcode.com/things/&quot;&gt;Things&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This method covers most of what I capture.&lt;/p&gt;
-&lt;p&gt;I’ve created a shortcut called Quick Add on my iPhone for quick capture to Things, Notes, and iA Writer to streamline the process. The Quick Add shortcut, in my Dock, allows me to quickly add a new task to Things, a new note to Notes, or a new idea for a blog post to iA Writer. I’ll let you know how this works out for me.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Google&#39;s AI Search Update shakes up indie bloggers and creators</title>
-    <link href="https://ldstephens.net/blog/googles-ai-search-update-shakes-up-indie-bloggers-and-creators/" />
-    <updated>2024-05-14T19:24:22Z</updated>
-    <id>https://ldstephens.net/blog/googles-ai-search-update-shakes-up-indie-bloggers-and-creators/</id>
-    <content type="html">&lt;p&gt;So, Google has decided to shake things up with its fancy new AI-powered search tool, leaving indie bloggers and creators like us feeling a little pissed off.&lt;/p&gt;
-&lt;p&gt;The Search Generative Experience (SGE) promises users direct answers to their burning questions right there in the search results. But guess who’s getting shoved to the bottom of the fucking pile? Yep, you guessed it we are.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tech research firm Gartner predicts traffic to the web from search engines will fall 25 percent by 2026. Ross Hudgens, CEO of search engine optimization consultancy Siege Media, said he estimates at least a 10 to 20 percent hit, and more for some publishers. &lt;strong&gt;“Some people are going to just get bludgeoned,” he said.[…] People who rely on the web to make a living are worried.&lt;/strong&gt;&lt;/p&gt;
+    <title>Quoting Barry Hess</title>
+    <link href="https://ldstephens.net/blog/quoting-barry-hess/" />
+    <updated>2025-03-16T11:31:32Z</updated>
+    <id>https://ldstephens.net/blog/quoting-barry-hess/</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Blogging is a conversation. It’s a conversation with yourself and it’s a conversation with others.[…] You don’t have to be an essayist. (Though you can be one if you want!) Don’t let those essayists discourage you from blogging. Just write. Just blog.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;This has me thinking about the future of this blog. A considerable amount of its traffic comes from Google searches. Over the past few years, that traffic has dropped off. However, it appears that Google search results will soon come to an end for small indie blogs. The only other sources of traffic for this blog are email subscribers and RSS. Unfortunately, I have no way of knowing how many RSS subscribers I have. So, the question is: am I wasting my time and money continuing this blog? Buckle up, fellow indie bloggers and creators. We have some decisions to make.&lt;/p&gt;
-&lt;p&gt;If you follow this blog via RSS please let me know by sending me a message with the contact form. Thank you for being a reader!&lt;/p&gt;
-&lt;p&gt;Source: Gerrit De Vynck and Cat Zakrzewski, &lt;a href=&quot;https://www.washingtonpost.com/technology/2024/05/13/google-ai-search-io-sge/&quot;&gt;The Washington Post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bjhess.com/posts/you-re-a-blogger-not-an-essayist&quot;&gt;Barry Hess&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Update: My iPhone Home Screen One Page Does It All</title>
-    <link href="https://ldstephens.net/blog/update-my-iphone-home-screen-one-page-does-it-all/" />
-    <updated>2024-05-13T13:42:54Z</updated>
-    <id>https://ldstephens.net/blog/update-my-iphone-home-screen-one-page-does-it-all/</id>
-    <content type="html">&lt;p&gt;When I wrote about my &lt;a href=&quot;https://ldstephens.net/2024/05/10/my-iphone-home-screen-one-page-does-it-all/&quot;&gt;iPhone’s one page Home Screen&lt;/a&gt; I had forgotten how I had learned to create the “Choose From Menu” shortcut. Yesterday while cleaning out numerous old notes I came across the one I made on how to create the shortcut.&lt;/p&gt;
-&lt;p&gt;I learned how to create the shortcut from this article, &lt;a href=&quot;https://www.appsntips.com/learn/create-app-launcher-shortcut/&quot;&gt;How to Create an App Launcher Using Shortcuts | appsntips&lt;/a&gt;. It explains how to create the shortcut from start to finish.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Reflecting on the iPad Event</title>
-    <link href="https://ldstephens.net/blog/reflecting-on-the-ipad-event/" />
-    <updated>2024-05-11T13:19:48Z</updated>
-    <id>https://ldstephens.net/blog/reflecting-on-the-ipad-event/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://joe-steel.com/2024-05-08-The-iPad-Event.html&quot;&gt;Joe Rosensteel&lt;/a&gt;&lt;/p&gt;
+    <title>Quoting - 16 March 2025 11:13 AM</title>
+    <link href="https://ldstephens.net/blog/quoting-16-march-2025-1113-am/" />
+    <updated>2025-03-16T11:18:11Z</updated>
+    <id>https://ldstephens.net/blog/quoting-16-march-2025-1113-am/</id>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;
 &lt;blockquote&gt;
-&lt;p&gt;If you are someone who regularly uses an iPad, and you needed new hardware for some reason, then any new iPad hardware is an iPad for you. If you didn’t use an iPad (or had one collecting dust on a shelf) I don’t know why today’s announcements would make you want to buy an iPad. […] The consistent refrain before, and after the event is that Apple isn’t addressing the iPad software platform. […] Unlike some others, I’m not expecting any dramatic innovations at WWDC this Summer, and even if there were you’d be on a beta iPadOS until the Fall if you really wanted to use them. […] Anyway, this is my two cents, as someone that can’t remember the last time he charged his iPad Pro.&lt;/p&gt;
+&lt;p&gt;why write? like art i write not thinking about the reader but trying to compose my thoughts into some kind of cogent experience for me and bringing the reader along as sort of a secondary consideration. &lt;a href=&quot;https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/&quot;&gt;why write right&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;A couple of months ago, to simplify my digital life and address the constant struggle of underusing my two iPads, I made a switch. I traded them in for an iPhone 15 Pro Max. That fucking alleviated the question of “where do iPads fit”? My iPhone and MacBook Air combo handles all my needs.&lt;/p&gt;
-&lt;p&gt;The only thing that would get me to consider adding an iPad back to my tech stack would be the addition of a legitimate clipboard manager and the ability for apps like Alfred or Raycast to run on the iPad. We’ll see what happens to iPadOS at WWDC but I’m not holding my breath for that to happen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It benefits literally everyone except Apple’s shareholders if people keep their devices for years longer. Durable technology is bad business. Apple, of course, built it’s name on quality, so they can’t make their products bad. They need to be good enough for the prices they command, but not so good that you keep them too long. &lt;a href=&quot;https://gomakethings.com/durable-technology/&quot;&gt;Durable technology&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
   <entry>
-    <title>My iPhone Home Screen: One Page Does It All</title>
-    <link href="https://ldstephens.net/blog/my-iphone-home-screen-one-page-does-it-all/" />
-    <updated>2024-05-10T15:19:52Z</updated>
-    <id>https://ldstephens.net/blog/my-iphone-home-screen-one-page-does-it-all/</id>
-    <content type="html">&lt;p&gt;Since trading in my two iPads, my iPhone 15 Pro Max has become my daily driver. This shift made me re-evaluate how I use the Home Screen for maximum efficiency. Here’s the thing: I despise cluttered screens with multiple pages, folders, Today View widgets, or widget stacks. So, my challenge was to access everything I needed from a single, Home Screen.&lt;/p&gt;
-&lt;p&gt;Here’s where the “Choose from Menu” action in Apple Shortcuts comes in. The “Choose from Menu” action in Apple Shortcuts is designed to streamline iOS device automation. It allows you to create customizable menus, presenting options for you to choose from when the shortcut runs. Whether it’s selecting a favorite contact, choosing from a list of apps, or picking a specific destination in a navigation app, the “Choose from Menu” action lets personalize your shortcuts and tailor them to your specific needs.&lt;/p&gt;
-&lt;p&gt;I use three “Choose from Menu” shortcuts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Other Apps:&lt;/strong&gt; This shortcut houses apps I don’t use daily but still need occasionally.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;My Shortcuts:&lt;/strong&gt; This one groups my most-used shortcuts for quick access.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Read-Later Apps:&lt;/strong&gt; This shortcut brings up my favorite read-later apps like Omnivore or Instapaper.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;By placing these shortcut icons on my Home Screen, I have all my essential apps and shortcuts readily available on a single page.&lt;/p&gt;
-&lt;p&gt;This approach might not be for everyone, but if you want a clutter-free Home Screen, give “Choose from Menu” shortcuts a try!&lt;/p&gt;
+    <title>PSA - Amazon will log all Echo voice commands starting March 28</title>
+    <link href="https://ldstephens.net/blog/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/" />
+    <updated>2025-03-15T16:38:14Z</updated>
+    <id>https://ldstephens.net/blog/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/</id>
+    <content type="html">&lt;p&gt;I don’t use Alexa but if you do you might want to consider if you want to continue using it.&lt;/p&gt;
+&lt;p&gt;Scharon Harding, &lt;a href=&quot;https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/&quot;&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In an email sent to customers today, Amazon said that Echo users will no longer be able to set their devices to process Alexa requests locally and, therefore, avoid sending voice recordings to Amazon’s cloud. Amazon apparently sent the email to users with “Do Not Send Voice Recordings” enabled on their Echo. Starting on March 28, recordings of everything spoken to the Alexa living in Echo speakers and smart displays will automatically be sent to Amazon and processed in the cloud.[…] there are plenty of reasons why people wouldn&#39;t want Amazon to receive recordings of what they say to their personal device. For one, the idea of a conglomerate being able to listen to personal requests made in your home is, simply, unnerving.[…] Amazon &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230&quot;&gt;says&lt;/a&gt; it allows employees to listen to Alexa voice recordings to train its speech recognition and natural language understanding systems.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quoting Zsolt Benke</title>
+    <link href="https://ldstephens.net/blog/quoting-zsolt-benke/" />
+    <updated>2025-03-07T10:03:21Z</updated>
+    <id>https://ldstephens.net/blog/quoting-zsolt-benke/</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;getting recognized as a blogger these days is rarely going to work. People are increasingly consuming different types of content these days, and this is largely due to the way AI is changing the way we interact with the web.&lt;/p&gt;
+&lt;p&gt;That said, having a blog for thinking out loud is still the best way to learn and then “report” it, even if we’re the only ones reading it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://decoding.io/2025/02/read-its-still-worth-blogging-in-the-age-of-ai/&quot;&gt;Zsolt Benke&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Why write when no one’s reading?</title>
+    <link href="https://ldstephens.net/blog/why-write-when-no-ones-reading/" />
+    <updated>2025-03-02T15:06:59Z</updated>
+    <id>https://ldstephens.net/blog/why-write-when-no-ones-reading/</id>
+    <content type="html">&lt;p&gt;Writing without an audience might feel pointless. It isn’t just about being read; it’s about thinking more clearly. Putting thoughts into words forces us to process them in a way passive consumption doesn&#39;t.&lt;/p&gt;
+&lt;p&gt;But most of all, write because your voice matters even if only to you. And if just one person finds what you write useful, then that makes it even more worthwhile. I think about the things I’ve read that have stuck with me, and I hope my words can do the same for someone else.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Platforms own you, not vice versa</title>
+    <link href="https://ldstephens.net/blog/platforms-own-you-not-vice-versa/" />
+    <updated>2025-02-26T00:00:00Z</updated>
+    <id>https://ldstephens.net/blog/platforms-own-you-not-vice-versa/</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2025/02/25/chegg-google-ai-lawsuit/&quot;&gt;Hannah Ziegler&lt;/a&gt;, The Washington Post&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Online education company Chegg sues Google, says AI is killing business A new lawsuit against Google alleges that the search giant’s artificial intelligence summaries have hurt online education company Chegg’s traffic and revenue so much that the company may not survive in its current form.&lt;/p&gt;
+&lt;p&gt;Chegg, which provides students with homework help and test answers, filed the suit against Google and parent company Alphabet this week in federal court. In its quarterly report released Monday, the company tied its recent financial struggles to AI-generated search summaries and claimed Google has “unjustly retained traffic” that once flowed to Chegg’s site. Chegg reported $144 million in revenue in its fourth quarter, a 24 percent decrease from the same period last year.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Chegg&#39;s pissed because Google isn&#39;t sending them traffic any more. Welcome to the club. If your business relies on another company&#39;s platform, you&#39;re a tenant with no lease. Chegg&#39;s lawsuit? Probably a long shot. The lesson? The landlord can do whatever the hell they want and a public company like Chegg should know better than to rely on someone else’s platform.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Prickly peril</title>
+    <link href="https://ldstephens.net/blog/prickly-peril/" />
+    <updated>2025-02-24T17:03:17Z</updated>
+    <id>https://ldstephens.net/blog/prickly-peril/</id>
+    <content type="html">&lt;p&gt;Finally, a day warm enough to get outside. It was all about reclaiming a bit of our property from the wild. First on the agenda was trimming back those scraggly dead tree branches along the driveway.&lt;/p&gt;
+&lt;p&gt;But the challenge was the greenbrier. If you&#39;ve ever dealt with this, you know what I’m talking about. Common greenbrier is native to the eastern US, and it&#39;s made itself at home in our woodlands. They form dense, almost impenetrable thickets that take over everything. They have seriously sharp prickles. I learned that lesson despite wearing gloves. It&#39;s like botanical barbed wire.&lt;/p&gt;
+&lt;p&gt;Today, I tackled a section of the thicket where our woodlands border the yard. It was a battle, to say the least. Cutting, pulling, and trying to avoid getting snagged by those vicious thorns. It&#39;s amazing how quickly this plant can take over.&lt;/p&gt;
 </content>
   </entry>
 </feed>
