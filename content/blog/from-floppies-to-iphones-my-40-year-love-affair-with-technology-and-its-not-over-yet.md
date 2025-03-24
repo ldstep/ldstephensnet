@@ -1,21 +1,21 @@
 ---
 title: >-
-  From Floppies to iPhones: My 40-Year Love Affair with Technology (and
-  It's Not Over Yet!)
+   From Floppies to iPhones: My 40-Year Love Affair with Technology (and
+   It's Not Over Yet!)
 authors:
-  - name: ldstephens
-    url: https://gravatar.com/ldstephensblog
-    avatarUrl: >-
-      https://0.gravatar.com/avatar/0219e8318f1f4229ebe26084e7253765017f43ca0c631be37dc6d0b8ad6e40a4?s=96&d=identicon&r=G
+   - name: ldstephens
+     url: https://gravatar.com/ldstephensblog
+     avatarUrl: >-
+        https://0.gravatar.com/avatar/0219e8318f1f4229ebe26084e7253765017f43ca0c631be37dc6d0b8ad6e40a4?s=96&d=identicon&r=G
 date: 2024-01-01T15:56:08.000Z
 metadata:
-  categories:
-    - Uncategorized
-  tags: []
-  uuid: 11ty/import::wordpressapi-hosted::https://ldstephens.net/?p=5245
-  type: wordpressapi-hosted
-  url: >-
-    http://ldstephens.net/2024/01/01/from-floppies-to-iphones-my-40-year-love-affair-with-technology-and-its-not-over-yet/
+   categories:
+      - Uncategorized
+   tags: []
+   uuid: 11ty/import::wordpressapi-hosted::https://ldstephens.net/?p=5245
+   type: wordpressapi-hosted
+   url: >-
+      http://ldstephens.net/2024/01/01/from-floppies-to-iphones-my-40-year-love-affair-with-technology-and-its-not-over-yet/
 ---
 
 Another year wraps up, and the clock is ticking closer to another birthday. I’m turning 79 in a couple of days! Can you believe it? Forty years have whisked by since I first laid eyes on that clunky Compaq Portable at work in 1984. I was instantly hooked, and my fascination with computers, with Apple, with the whole fucking digital revolution has never flickered.
@@ -29,5 +29,3 @@ And speaking of Apple, in 2015, I decided to share my passion with all of you �
 Some might think reaching almost eight decades means slowing down and putting the keyboard aside. But not me! As long as my fingers can type and my mind keeps buzzing with ideas, I’ll be right here, sharing my stories and insights. The tech landscape is ever-shifting, and there’s always something new to explore, a new gadget to try, a new app to try. So, consider this a promise: I’m not disappearing anytime soon!
 
 Happy New Year, friends!
-
-Published first to [ldstephens.me](https://ldstephens.me/from-floppies-to-iphones-my-40-year-love-affair-with-technology-and-its-not) – January 1, 2024
