@@ -8,14 +8,14 @@ permalink: /uses/
 
 Updated: March 24, 2025
 
-### Desktop: M1 13” Macbook Air
+**Desktop: M1 13” Macbook Air**
 
-**Peripherals:**
+_Peripherals:_
 
 -  Magic Mouse 2
 -  Air Pods Pro 2
 
-**Apps:**
+_Apps:_
 
 -  macOS: 15.x
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
@@ -38,13 +38,13 @@ Updated: March 24, 2025
 -  VPN: TunnelBear
 -  Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Moom, Witch, Hidden Bar, ScreenFloat
 
-### Mobile: iPhone 15 Pro Max and M2 11” iPad Air
+**Mobile: iPhone 15 Pro Max and M2 11” iPad Air**
 
-**Peripherals:**
+_Peripherals:_
 
 -  Air Pods Pro 2
 
-**Apps:**
+_Apps:_
 
 -  iOS: 18.x
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
