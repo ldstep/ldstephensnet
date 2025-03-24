@@ -1,3 +1,10 @@
+---
+title: On - Using ChatGPT for tech support
+description:
+date: 2025-03-24T16:54:13Z
+tags:
+---
+
 > If you aren’t sure how to ask for help with software, try first asking ChatGPT or another AI chatbot to help figure out what’s going wrong. It has infinite time to help, and won’t mind if the problem turned out to be a random browser plug-in that was misbehaving.
 
 [Dave Winer](http://scripting.com/2025/03/20/151234.html?title=usingChatgptForTechSupport)
