@@ -4,6 +4,8 @@ layout: layouts/base.njk
 permalink: /uses/
 ---
 
+# Uses
+
 Updated: March 24, 2025
 
 ### Desktop: M1 13” Macbook Air
