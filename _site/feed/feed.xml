@@ -5,11 +5,46 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-03-24T14:06:13Z</updated>
+  <updated>2025-03-24T20:56:09Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://ldstephens.net/blog/on-using-chatgpt-for-tech-support/" />
+    <updated>2025-03-24T20:56:09Z</updated>
+    <id>https://ldstephens.net/blog/on-using-chatgpt-for-tech-support/</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;If you aren’t sure how to ask for help with software, try first asking ChatGPT or another AI chatbot to help figure out what’s going wrong. It has infinite time to help, and won’t mind if the problem turned out to be a random browser plug-in that was misbehaving.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://scripting.com/2025/03/20/151234.html?title=usingChatgptForTechSupport&quot;&gt;Dave Winer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I rely on ChatGPT for almost all my tech-related questions. Just the other day, I was setting up a new snippet in Alfred for the YAML front matter of a blog post. I wanted the timestamp format to be 2025-03-20T14:09:02Z, so I asked ChatGPT for the correct Alfred time and date syntax. It gave me this: &lt;code&gt;{date:yyyy-MM-dd&#39;T&#39;HH:mm:ss&#39;Z&#39;}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Now, I have a snippet that instantly inserts the front matter into a document with the current date and time:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    ---
+    title:
+    description:
+    date: 2025-03-20T14:09:02Z
+    tags:
+       - posts
+    layout: layouts/post.njk
+    ---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Way fucking easier than sifting through Google results, hoping to find the right answer. Here are some ways I’ve recently used ChatGPT for tech support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Troubleshooting common software issues&lt;/li&gt;
+&lt;li&gt;Figuring out how to do something in an app&lt;/li&gt;
+&lt;li&gt;Troubleshooting macOS problems&lt;/li&gt;
+&lt;li&gt;Running commands in Terminal&lt;/li&gt;
+&lt;li&gt;Setting up and maintaining my 11ty-powered website&lt;/li&gt;
+&lt;li&gt;Fixing hosting and deployment issues with Netlify&lt;/li&gt;
+&lt;li&gt;Debugging HTML, CSS, and JavaScript&lt;/li&gt;
+&lt;li&gt;Navigating GitHub&lt;/li&gt;
+&lt;li&gt;Automating tasks with Shortcuts, AppleScript, and Automator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re not using ChatGPT for tech support, give it a shot. It’s like having an expert on call minus the frustration of Googling.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Uses</title>
     <link href="https://ldstephens.net/blog/uses-2025-03-24/" />
@@ -166,19 +201,6 @@
     <id>https://ldstephens.net/blog/why-write-when-no-ones-reading/</id>
     <content type="html">&lt;p&gt;Writing without an audience might feel pointless. It isn’t just about being read; it’s about thinking more clearly. Putting thoughts into words forces us to process them in a way passive consumption doesn&#39;t.&lt;/p&gt;
 &lt;p&gt;But most of all, write because your voice matters even if only to you. And if just one person finds what you write useful, then that makes it even more worthwhile. I think about the things I’ve read that have stuck with me, and I hope my words can do the same for someone else.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Platforms own you, not vice versa</title>
-    <link href="https://ldstephens.net/blog/platforms-own-you-not-vice-versa/" />
-    <updated>2025-02-26T00:00:00Z</updated>
-    <id>https://ldstephens.net/blog/platforms-own-you-not-vice-versa/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2025/02/25/chegg-google-ai-lawsuit/&quot;&gt;Hannah Ziegler&lt;/a&gt;, The Washington Post&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Online education company Chegg sues Google, says AI is killing business A new lawsuit against Google alleges that the search giant’s artificial intelligence summaries have hurt online education company Chegg’s traffic and revenue so much that the company may not survive in its current form.&lt;/p&gt;
-&lt;p&gt;Chegg, which provides students with homework help and test answers, filed the suit against Google and parent company Alphabet this week in federal court. In its quarterly report released Monday, the company tied its recent financial struggles to AI-generated search summaries and claimed Google has “unjustly retained traffic” that once flowed to Chegg’s site. Chegg reported $144 million in revenue in its fourth quarter, a 24 percent decrease from the same period last year.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Chegg&#39;s pissed because Google isn&#39;t sending them traffic any more. Welcome to the club. If your business relies on another company&#39;s platform, you&#39;re a tenant with no lease. Chegg&#39;s lawsuit? Probably a long shot. The lesson? The landlord can do whatever the hell they want and a public company like Chegg should know better than to rely on someone else’s platform.&lt;/p&gt;
 </content>
   </entry>
 </feed>
