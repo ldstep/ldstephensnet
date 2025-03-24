@@ -30,7 +30,7 @@ _Apps:_
 -  Code Editor: VS Code
 -  Journal: Drafts / Day One
 -  Launcher: Alfred
--  RSS Service: iCloud
+-  RSS Service: Feedbin
 -  RSS App: Reeder Classic
 -  Bookmarks: Goodlinks
 -  Read It Later: Goodlinks
@@ -55,7 +55,7 @@ _Apps:_
 -  To-Do: Things
 -  Browser: Safari
 -  Text: Drafts
--  RSS Service: iCloud
+-  RSS Service: Feedbin
 -  RSS App: Reeder Classic
 -  Bookmarks: Goodlinks
 -  Read It Later: Goodlinks
