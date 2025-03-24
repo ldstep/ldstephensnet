@@ -1,8 +1,6 @@
 # Redirect old feed URLs to new feed URL
 /feed              https://ldstephens.net/feed/feed.xml    301
 /feed.xml          https://ldstephens.net/feed/feed.xml    301
-https://lstep.xyz/posts_feed       https://ldstephens.net/feed/feed.xml    301
-https://lstep.xyz/feed.xml   https://ldstephens.net/feed/feed.xml    301
 
 # Redirect year-based blog posts to new blog URL structure
 /2016/*/:slug/     /blog/:slug/  301!
