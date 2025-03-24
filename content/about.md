@@ -7,6 +7,14 @@ const eleventyNavigation = {
 
 # About
 
-Hello, I'm ldstephens. This marks the conclusion of ldstephens.net. To everyone who has followed and appreciated this site over the past eight years, I extend my sincere gratitude. I hope my content has been genuinely helpful to you.
+Hey there! I’m ldstephens, and welcome to my little corner of the internet.
 
-For those who wish to continue exploring my writing on these and other subjects, I invite you to visit me at [ldstephens.me](https://ldstephens.me/) and [lstep.xyz](https://lstep.xyz/). I look forward to sharing more of my insights there. Please, feel free to visit me at my new sites.
+Since 2016, I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier. I also share my personal experiences, thoughts, and reflections here.
+
+This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Netlify](https://www.netlify.com/). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/ldstephensnet).
+
+When adding new posts, changing the design, or adding new features, that is done in [VS Code](https://code.visualstudio.com/).
+
+New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in VS Code.
+
+No ads. No tracking. No cookies. Ever!
