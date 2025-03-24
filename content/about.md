@@ -21,4 +21,4 @@ No ads. No tracking. No cookies. Ever!
 
 Slash pages:
 
-[/uses](https://ldstephens.net/blog/uses-2025-03-24/)
+<a href="/uses/">/ Uses</a>
