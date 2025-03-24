@@ -5,11 +5,20 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2024-07-05T14:44:00Z</updated>
+  <updated>2025-03-24T10:22:56Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Feed Test 1</title>
+    <link href="https://ldstephens.net/blog/feed-test-1/" />
+    <updated>2025-03-24T10:22:56Z</updated>
+    <id>https://ldstephens.net/blog/feed-test-1/</id>
+    <content type="html">&lt;p&gt;Hello friends, ldstephens.net has moved from Wordpress.com to 11ty deployed on Netlify.&lt;/p&gt;
+&lt;p&gt;This is a feed test.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Rebooting My Blog: New Site, New Format, New RSS Feed</title>
     <link href="https://ldstephens.net/blog/rebooting-my-blog-new-site-new-format-new-rss-feed/" />
@@ -139,16 +148,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;And since my blog is not a news outlet and I don’t have to pay anyone, putting what I write behind a paywall makes no sense to me. I don’t want to divide my audience into a privileged tier and a free-for-all tier. Nor do I want to create special content for ‘patrons’ that is invisible to everyone else.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-  </entry>
-  <entry>
-    <title>So you’re monetizing your blog</title>
-    <link href="https://ldstephens.net/blog/so-youre-monetizing-your-blog/" />
-    <updated>2024-02-23T21:47:30Z</updated>
-    <id>https://ldstephens.net/blog/so-youre-monetizing-your-blog/</id>
-    <content type="html">&lt;p&gt;Lately, I’ve noticed a growing trend among fellow bloggers as they attempt to monetize their blog. While I won’t call out specific individuals, it’s become apparent that something fundamental has changed. The content I once enjoyed reading regularly has changed, and unfortunately, not for the better.&lt;/p&gt;
-&lt;p&gt;These bloggers seem to be adjusting their writing styles and content strategy, likely in pursuit of pleasing subscribers or attracting advertisers. And the frequency of their posts has increased, but the substance has dwindled.&lt;/p&gt;
-&lt;p&gt;The question that lingers in my mind is whether the income generated from these efforts is truly making a significant impact on their lives. It’s disheartening to witness a departure from the engaging and valuable content they used to create or share through links.&lt;/p&gt;
 </content>
   </entry>
 </feed>
