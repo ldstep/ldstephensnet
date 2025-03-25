@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+March 25, 2025, at 1:56:45 PM
+
+The rapid pace of AI developments is overwhelming, with new changes emerging almost daily. It’s simply impossible to keep up with them.
+
+---
+
 March 16, 2025, at 11:05:31 AM
 
 > why write? like art i write not thinking about the reader but trying to compose my thoughts into some kind of cogent experience for me and bringing the reader along as sort of a secondary consideration.
