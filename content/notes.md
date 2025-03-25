@@ -1,0 +1,327 @@
+---
+title: Notes
+layout: layouts/base.njk
+permalink: /notes/
+---
+
+# Notes
+
+Notes are shorter random posts, kinda like a microblog.
+
+---
+
+March 16, 2025, at 11:05:31 AM
+
+> why write? like art i write not thinking about the reader but trying to compose my thoughts into some kind of cogent experience for me and bringing the reader along as sort of a secondary consideration.
+
+[why write right](https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/) ​
+
+---
+
+March 16, 2025, at 11:04:56 AM
+
+> It benefits literally everyone except Apple’s shareholders if people keep their devices for years longer. Durable technology is bad business. Apple, of course, built it’s name on quality, so they can’t make their products bad. They need to be good enough for the prices they command, but not so good that you keep them too long.
+
+[Durable technology](https://gomakethings.com/durable-technology/)
+
+---
+
+March 15, 2025, at 10:23:28 AM
+
+> Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises.\[…\] It’s probably just another “trump-is-an-asshole” allergic reaction, but I’m finding it hard to shake.
+
+[Jack Baty](https://baty.net/journal/2025/03/13/today/)
+
+---
+
+March 7, 2025, at 9:57:48 AM
+
+> getting recognized as a blogger these days is rarely going to work. People are increasingly consuming different types of content these days, and this is largely due to the way AI is changing the way we interact with the web.
+>
+> That said, having a blog for thinking out loud is still the best way to learn and then “report” it, even if we’re the only ones reading it.
+
+[Zsolt Benke](https://decoding.io/2025/02/read-its-still-worth-blogging-in-the-age-of-ai/)
+
+---
+
+March 4, 2025, at 8:37:58 AM
+
+> What I want to do is write. No worrying about who’s reading or what they think. Just me, my thoughts, and the web.
+
+[fLaMEd, Blogging For The Hell Of It](https://flamedfury.com/posts/blogging-for-the-hell-of-it/)
+
+---
+
+February 25, 2025, at 3:47:42 PM
+
+I've tried to use iA Writer so many times, but I just can't stick with it. The app is way too opinionated and keeps forcing me to work in its own rigid way. I'm constantly fighting against how it wants me to do things.
+
+---
+
+February 7, 2025, at 1:38:25 PM
+
+I’m wondering why I keep archives in Drafts for text that gets saved as files in folders elsewhere. It serves no purpose.
+
+---
+
+February 4, 2025 at 9:53:06 AM
+
+Apple Notes on iOS 18 now has a new feature called Recent Notes. It lets you quickly jump between the last 10 notes you looked at. This makes it much easier and faster for people with lots of notes, as you don’t need to dig through all your folders.
+
+To access this feature, tap the three-dot menu in the top-right corner of the app. You’ll see a Recent Notes option. Tap it to view the last 10 notes you checked out.
+
+[Source](https://9to5mac.com/2025/02/03/apple-notes-recently-got-a-power-user-feature-ive-long-wanted/)
+
+---
+
+February 5, 2025, at 9:34:29 AM
+
+> All of this is to point out that a loss of trust in society — trust in government, trust in institutions, trust in each other — is the cause of a break down and, if left uncorrected, end to that society. Period. There is no “but”. You can not have a society without it. Society rises and falls on the strength of it.
+>
+> Consider where we are as a nation — a people — today and make of this fact what you will.
+
+[Patrick Rhone](https://www.patrickrhone.net/trust/)
+
+---
+
+January 24, 2025, at 9:15:54 AM
+
+> I’ll start sounding like a broken record but, at this point, I don’t care: social media was and still is a mistake. Enough people all bunched together in the same space with the ability to quickly interact with each other will produce more harm than good. And no, decentralising this crap won’t make it better. You can lie to yourself and pretend it will, but it won’t. But hey, I’ll be happy to be proven wrong.
+
+[Manu](https://manuelmoreale.com/modern-discourse)
+
+---
+
+January 22, 2025, at 9:20:21 AM
+
+> You’re either going to work for an AI or have an AI work for you. Which would you prefer?
+
+[Seth’s Blog](https://seths.blog/2025/01/trusting-ai/)
+
+I chose to have AI work for me.
+
+---
+
+January 20, 2025, at 2:52:22 PM
+
+It snowed here again last night and it’s fucking cold. As I write this, it’s about time to take Trix out for her afternoon walk and it’s only 25° and feels like 13°. We have three more days of this Arctic weather. I like the cold weather. Getting all bundled up in layers of my winter clothes.
+
+---
+
+January 17, 2025, at 5:34:58 PM
+
+I detest posting political content on my blog, but this certainly falls under the tech category.
+
+Emma Roth
+
+> Sens. Elizabeth Warren (D-MA) and Michael Bennet (D-CO) are putting pressure on big tech firms to explain their motives for donating to President-elect Donald Trump’s inauguration fund. In letters to Amazon, Apple, Google, Meta, Microsoft, OpenAI, and Uber, the lawmakers express concerns about the companies making contributions to “avoid scrutiny, limit regulation, and buy favor.”
+
+I think they call it kissing ass!
+
+---
+
+January 17, 2025, at 5:36:57 PM
+
+> OpenAI on Tuesday announced a new feature coming to ChatGPT, which will turn the chatbot into a reminder app. Called “Tasks,” the feature will let users ask ChatGPT to remind them about their tasks and even create periodic alerts for specific situations.
+
+[Filipe Espósito](https://9to5mac.com/2025/01/14/chatgpt-reminder-tasks/)
+
+That ought to be interesting?
+
+---
+
+January 15, 2025, at 10:41:05 AM
+
+> A 28-year-old woman with a busy social life spends hours on end talking to her A.I. boyfriend for advice and consolation. And yes, they do have sex.
+
+[Kashmir Hill, writing for The NY Times](https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html)
+
+This is some crazy shit!
+
+---
+
+January 10, 2025 at 11:25:28 AM
+
+> Abandoning Alfred for Raycast was hard, and it even took me two tries because it felt unthinkable, but Raycast is really good and wonderfully connected to other things I use.
+
+[Matt Stein](https://mattstein.com/thoughts/default-apps-2023/)
+
+I think I need to try again.
+
+---
+
+January 8, 2025 at 3:37:52 PM
+
+Ops! It’s my 80th Birthday today!
+
+I’m thinking about where I write blog posts. I usually do it in Drafts, but sometimes I think I should do it in iA Writer instead. It’s a more distraction-free environment.
+
+---
+
+January 8, 2025 at 2:04:13 PM
+
+> Be A Property Owner And Not A Renter On The Internet.\[…\] My job is not to get every single person to build their content outside the popular networks but rather encourage those that were on the fence and able to make the jump into owning their own internet property rather than rent the space from someone who is not invested in their success.
+
+[Den Delimarsky](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
+
+---
+
+January 7, 2025 at 2:53:41 PM
+
+> I’m rethinking my blogs and websites …
+>
+> Yes, I know, it’s dangerous to go down this road. But I’ve decided not to pander to what everyone else wants, but what I want. And what I want is … everything in one place.
+>
+> We will see how this works out.
+
+[Alexandra Wolfe](https://alexink.ca/2025/01/03/im-rethinking-my-blogs-and.html)
+
+---
+
+January 7, 2025
+
+> Anyway, I’m glad I got off Twitter, Facebook, Instagram and mastodon. You can quit. It’s difficult at first, and inconvenient always, but I can unequivocally state that my life is better without them.
+
+[Dave Rogers](https://nice-marmot.net/Archives/2025/January_2025.html#note_2621)
+
+Excellent fucking advice!
+
+---
+
+January 6, 2025
+
+Rhoneisms
+
+> Opinions are like assholes. Everyone has one. It doesn’t mean you have to share yours or be one.
+
+[Patrick Rhone](https://www.patrickrhone.net/15449-2/)
+
+---
+
+January 6, 2025
+
+This morning, I got out early for my walk, hoping to beat the start of the snowstorm that’s bearing down on us. Well, I almost got it finished before the snow started falling.
+
+---
+
+January 4, 2025
+
+After my fall down the basement stairs the other day, I decided that I need to work on improving my balance. Falling is problem when you’re a senior. Lisa encouraged me to start doing yoga. Today was my first workout. It made me realize how shitty my balance is!
+
+---
+
+December 31, 2024
+
+It’s on my mind again–the constant battle between my MacBook and iPad. Why can’t I just accept that I can use both? I can pick whichever one suits me in the moment. There’s no need to choose just one or the other.
+
+---
+
+December 27, 2024
+
+Flip flopping on my task manager again. Back to Things 3 from Reminders/GoodTask.
+
+---
+
+December 21, 2024
+
+It’s the first day of Winter, and we woke up to snow this morning. About 2 inches. Knowing that it was going to snow overnight, I was curious about how Trix (our dog) would like it or if she would. She loved it. It was fun to watch her run around, jump up and down, and eat the snow.
+
+🌤 Current Weather: 29°F and Windy
+
+---
+
+December 20, 2024
+
+“I’ve become overwhelmed as a result of my never-ending urge to tinker (combined with boredom).”
+
+[Jack Baty](https://baty.net/journal/2024/12/19/today/)
+
+---
+
+December 20, 2024
+
+“writing is thinking. In fact there’s a kind of thinking that can only be done by writing.\[…\] If you’re thinking without writing, you only think you’re thinking.”
+
+[Paul Graham](https://paulgraham.com/writes.html)
+
+---
+
+December 18, 2024
+
+I'm in the process of migrating all the blog posts from 2023 to here.
+
+---
+
+December 15, 2024
+
+A couple of weeks ago we retired our tired Keurig. In its place we bought a Ninja Espresso and Coffee Barista System. We’re enjoying brewed coffee and the occasional espresso.
+
+---
+
+December 14, 2024
+
+Site Analytics: I don't have them on this site, and I don't need them because knowing won't make a difference. The fact that I don't know them actually makes me feel more comfortable with what I'm going to post.
+
+---
+
+December 9, 2024
+
+One of my digital friends is a big fan of EMACS, so I decided to watch a beginner’s guide in order to gain a basic understanding of what it is. Looks complicated with a huge learning curve.
+
+---
+
+December 4, 2024
+
+My tech stack plan for 2025 is files over apps and to use non-subscription apps where possible.
+
+---
+
+December 4, 2024
+
+> File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.
+>
+> File over app is an appeal to tool makers: accept that all software is ephemeral, and give people ownership over their data.
+
+[File over app — Steph Ango](https://stephango.com/file-over-app)
+
+I’ve been thinking about this a lot lately.
+
+---
+
+December 3, 2024
+
+What a novel idea: The Consumer Financial Protection Bureau (CFPB) proposes stricter regulations on data brokers, requiring them to adhere to the Fair Credit Reporting Act (FCRA). This would restrict brokers from selling sensitive data, like Social Security numbers, unless for legitimate purposes (e.g., credit eligibility). The move aims to protect against identity theft and scams, ensuring brokers follow consumer protection laws similar to credit bureaus. It may also reduce the scale of data sales, forcing some brokers out of business. The proposal has broad support despite not addressing data breaches directly. Read more: [9to5Mac](https://9to5mac.com/2024/12/03/data-brokers-may-be-banned-from-selling-your-personal-data-without-good-reason/).
+
+---
+
+November 29, 2024
+
+> Whenever I change blogging platforms or domain names or simply post to several places, I feel a twinge of guilt. How will my “audience” feel about the changes? Does it confuse things?\[…\] I don’t get a lot of traffic, but it’s also not zero traffic, so I feel some responsibility. But why? I am not writing for money or influence or popularity. I write to better understand my thoughts, and sometimes share the result. I write so that I have a record of those things. I write, almost entirely, for me.\[…\] In that light, I shouldn’t need to worry about whether my RSS feed is consistent or if people need to follow me in too many places. I don’t want to be a dick about it, but c’mon, it’s an unimportant personal blog by some nobody on the internet. Let’s not overthink it.
+
+[Jack Baty](https://baty.net/2024/07/who-am-i-responsible-to-here/)
+
+---
+
+November 26, 2024
+
+I gave up on Raycast + Keyboard Maestro and I’m back to Alfred as my launcher.
+
+---
+
+November 23, 2024
+
+I already deleted Ulysses and requested a refund. I forgot how poorly it handles markdown and code.
+
+---
+
+November 23, 2024
+
+I’m fucking crazy! I just installed [Ulysses](https://ulysses.app/) and renewed my subscription for a year. Like it or not it’s a great writing app.
+
+---
+
+November 22, 2024
+
+Switching launchers on my MacBook from Alfred to Raycast. I’m also configuring Raycast to replace some of my Keyboard Maestro macros.
+
+---

@@ -22,3 +22,5 @@ No ads. No tracking. No cookies. Ever!
 Slash pages:
 
 <a href="/uses/">/ Uses</a>
+
+<a href="/notes/">/ Notes</a>

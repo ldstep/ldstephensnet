@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/png" href="/favicon.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Notes</title>
+		<meta name="description" content="A blog by ldstephens">
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="ldstephens">
+		
+		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Defaults */
+:root {
+	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+@view-transition {
+	navigation: auto;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+main :first-child {
+	margin-top: 0;
+}
+
+header {
+	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+	gap: .5em 1em;
+	list-style: "";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+.links-nextprev > * {
+	flex-grow: 1;
+}
+.links-nextprev-next {
+	text-align: right;
+}
+
+table {
+	margin: 1em 0;
+}
+table td,
+table th {
+	padding-right: 1em;
+}
+
+pre,
+code {
+	font-family: var(--font-family-monospace);
+}
+pre:not([class*="language-"]) {
+	margin: .5em 0;
+	line-height: 1.375; /* 22px /16 */
+	-moz-tab-size: var(--syntax-tab-size);
+	-o-tab-size: var(--syntax-tab-size);
+	tab-size: var(--syntax-tab-size);
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	overflow-x: auto;
+}
+code {
+	word-break: break-all;
+}
+
+/* Header */
+header {
+	display: flex;
+	gap: 1em;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1em;
+}
+.home-link {
+	flex-grow: 1;
+	font-size: 1em; /* 16px /16 */
+	font-weight: 700;
+}
+.home-link:link:not(:hover) {
+	text-decoration: none;
+}
+
+/* Nav */
+.nav {
+	display: flex;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.nav-item {
+	display: inline-block;
+}
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+}
+.nav a[href][aria-current="page"] {
+	text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+/* Tags list */
+.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.post-metadata time {
+	margin-right: 1em;
+}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header>
+			<a href="/" class="home-link">ldstephens</a>
+			<nav>
+				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
+				<ul class="nav">
+					<li class="nav-item"><a href="/">Home</a></li>
+					<li class="nav-item"><a href="/blog/">Archive</a></li>
+					<li class="nav-item"><a href="/about/">About</a></li>
+					<li class="nav-item"><a href="/feed/feed.xml">Feed</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main id="skip">
+			<heading-anchors>
+				<h1 id="notes">Notes</h1>
+<p>Notes are shorter random posts, kinda like a microblog.</p>
+<hr>
+<p>March 16, 2025, at 11:05:31 AM</p>
+<blockquote>
+<p>why write? like art i write not thinking about the reader but trying to compose my thoughts into some kind of cogent experience for me and bringing the reader along as sort of a secondary consideration.</p>
+</blockquote>
+<p><a href="https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/">why write right</a> ​</p>
+<hr>
+<p>March 16, 2025, at 11:04:56 AM</p>
+<blockquote>
+<p>It benefits literally everyone except Apple’s shareholders if people keep their devices for years longer. Durable technology is bad business. Apple, of course, built it’s name on quality, so they can’t make their products bad. They need to be good enough for the prices they command, but not so good that you keep them too long.</p>
+</blockquote>
+<p><a href="https://gomakethings.com/durable-technology/">Durable technology</a></p>
+<hr>
+<p>March 15, 2025, at 10:23:28 AM</p>
+<blockquote>
+<p>Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises.[…] It’s probably just another “trump-is-an-asshole” allergic reaction, but I’m finding it hard to shake.</p>
+</blockquote>
+<p><a href="https://baty.net/journal/2025/03/13/today/">Jack Baty</a></p>
+<hr>
+<p>March 7, 2025, at 9:57:48 AM</p>
+<blockquote>
+<p>getting recognized as a blogger these days is rarely going to work. People are increasingly consuming different types of content these days, and this is largely due to the way AI is changing the way we interact with the web.</p>
+<p>That said, having a blog for thinking out loud is still the best way to learn and then “report” it, even if we’re the only ones reading it.</p>
+</blockquote>
+<p><a href="https://decoding.io/2025/02/read-its-still-worth-blogging-in-the-age-of-ai/">Zsolt Benke</a></p>
+<hr>
+<p>March 4, 2025, at 8:37:58 AM</p>
+<blockquote>
+<p>What I want to do is write. No worrying about who’s reading or what they think. Just me, my thoughts, and the web.</p>
+</blockquote>
+<p><a href="https://flamedfury.com/posts/blogging-for-the-hell-of-it/">fLaMEd, Blogging For The Hell Of It</a></p>
+<hr>
+<p>February 25, 2025, at 3:47:42 PM</p>
+<p>I've tried to use iA Writer so many times, but I just can't stick with it. The app is way too opinionated and keeps forcing me to work in its own rigid way. I'm constantly fighting against how it wants me to do things.</p>
+<hr>
+<p>February 7, 2025, at 1:38:25 PM</p>
+<p>I’m wondering why I keep archives in Drafts for text that gets saved as files in folders elsewhere. It serves no purpose.</p>
+<hr>
+<p>February 4, 2025 at 9:53:06 AM</p>
+<p>Apple Notes on iOS 18 now has a new feature called Recent Notes. It lets you quickly jump between the last 10 notes you looked at. This makes it much easier and faster for people with lots of notes, as you don’t need to dig through all your folders.</p>
+<p>To access this feature, tap the three-dot menu in the top-right corner of the app. You’ll see a Recent Notes option. Tap it to view the last 10 notes you checked out.</p>
+<p><a href="https://9to5mac.com/2025/02/03/apple-notes-recently-got-a-power-user-feature-ive-long-wanted/">Source</a></p>
+<hr>
+<p>February 5, 2025, at 9:34:29 AM</p>
+<blockquote>
+<p>All of this is to point out that a loss of trust in society — trust in government, trust in institutions, trust in each other — is the cause of a break down and, if left uncorrected, end to that society. Period. There is no “but”. You can not have a society without it. Society rises and falls on the strength of it.</p>
+<p>Consider where we are as a nation — a people — today and make of this fact what you will.</p>
+</blockquote>
+<p><a href="https://www.patrickrhone.net/trust/">Patrick Rhone</a></p>
+<hr>
+<p>January 24, 2025, at 9:15:54 AM</p>
+<blockquote>
+<p>I’ll start sounding like a broken record but, at this point, I don’t care: social media was and still is a mistake. Enough people all bunched together in the same space with the ability to quickly interact with each other will produce more harm than good. And no, decentralising this crap won’t make it better. You can lie to yourself and pretend it will, but it won’t. But hey, I’ll be happy to be proven wrong.</p>
+</blockquote>
+<p><a href="https://manuelmoreale.com/modern-discourse">Manu</a></p>
+<hr>
+<p>January 22, 2025, at 9:20:21 AM</p>
+<blockquote>
+<p>You’re either going to work for an AI or have an AI work for you. Which would you prefer?</p>
+</blockquote>
+<p><a href="https://seths.blog/2025/01/trusting-ai/">Seth’s Blog</a></p>
+<p>I chose to have AI work for me.</p>
+<hr>
+<p>January 20, 2025, at 2:52:22 PM</p>
+<p>It snowed here again last night and it’s fucking cold. As I write this, it’s about time to take Trix out for her afternoon walk and it’s only 25° and feels like 13°. We have three more days of this Arctic weather. I like the cold weather. Getting all bundled up in layers of my winter clothes.</p>
+<hr>
+<p>January 17, 2025, at 5:34:58 PM</p>
+<p>I detest posting political content on my blog, but this certainly falls under the tech category.</p>
+<p>Emma Roth</p>
+<blockquote>
+<p>Sens. Elizabeth Warren (D-MA) and Michael Bennet (D-CO) are putting pressure on big tech firms to explain their motives for donating to President-elect Donald Trump’s inauguration fund. In letters to Amazon, Apple, Google, Meta, Microsoft, OpenAI, and Uber, the lawmakers express concerns about the companies making contributions to “avoid scrutiny, limit regulation, and buy favor.”</p>
+</blockquote>
+<p>I think they call it kissing ass!</p>
+<hr>
+<p>January 17, 2025, at 5:36:57 PM</p>
+<blockquote>
+<p>OpenAI on Tuesday announced a new feature coming to ChatGPT, which will turn the chatbot into a reminder app. Called “Tasks,” the feature will let users ask ChatGPT to remind them about their tasks and even create periodic alerts for specific situations.</p>
+</blockquote>
+<p><a href="https://9to5mac.com/2025/01/14/chatgpt-reminder-tasks/">Filipe Espósito</a></p>
+<p>That ought to be interesting?</p>
+<hr>
+<p>January 15, 2025, at 10:41:05 AM</p>
+<blockquote>
+<p>A 28-year-old woman with a busy social life spends hours on end talking to her A.I. boyfriend for advice and consolation. And yes, they do have sex.</p>
+</blockquote>
+<p><a href="https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html">Kashmir Hill, writing for The NY Times</a></p>
+<p>This is some crazy shit!</p>
+<hr>
+<p>January 10, 2025 at 11:25:28 AM</p>
+<blockquote>
+<p>Abandoning Alfred for Raycast was hard, and it even took me two tries because it felt unthinkable, but Raycast is really good and wonderfully connected to other things I use.</p>
+</blockquote>
+<p><a href="https://mattstein.com/thoughts/default-apps-2023/">Matt Stein</a></p>
+<p>I think I need to try again.</p>
+<hr>
+<p>January 8, 2025 at 3:37:52 PM</p>
+<p>Ops! It’s my 80th Birthday today!</p>
+<p>I’m thinking about where I write blog posts. I usually do it in Drafts, but sometimes I think I should do it in iA Writer instead. It’s a more distraction-free environment.</p>
+<hr>
+<p>January 8, 2025 at 2:04:13 PM</p>
+<blockquote>
+<p>Be A Property Owner And Not A Renter On The Internet.[…] My job is not to get every single person to build their content outside the popular networks but rather encourage those that were on the fence and able to make the jump into owning their own internet property rather than rent the space from someone who is not invested in their success.</p>
+</blockquote>
+<p><a href="https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/">Den Delimarsky</a></p>
+<hr>
+<p>January 7, 2025 at 2:53:41 PM</p>
+<blockquote>
+<p>I’m rethinking my blogs and websites …</p>
+<p>Yes, I know, it’s dangerous to go down this road. But I’ve decided not to pander to what everyone else wants, but what I want. And what I want is … everything in one place.</p>
+<p>We will see how this works out.</p>
+</blockquote>
+<p><a href="https://alexink.ca/2025/01/03/im-rethinking-my-blogs-and.html">Alexandra Wolfe</a></p>
+<hr>
+<p>January 7, 2025</p>
+<blockquote>
+<p>Anyway, I’m glad I got off Twitter, Facebook, Instagram and mastodon. You can quit. It’s difficult at first, and inconvenient always, but I can unequivocally state that my life is better without them.</p>
+</blockquote>
+<p><a href="https://nice-marmot.net/Archives/2025/January_2025.html#note_2621">Dave Rogers</a></p>
+<p>Excellent fucking advice!</p>
+<hr>
+<p>January 6, 2025</p>
+<p>Rhoneisms</p>
+<blockquote>
+<p>Opinions are like assholes. Everyone has one. It doesn’t mean you have to share yours or be one.</p>
+</blockquote>
+<p><a href="https://www.patrickrhone.net/15449-2/">Patrick Rhone</a></p>
+<hr>
+<p>January 6, 2025</p>
+<p>This morning, I got out early for my walk, hoping to beat the start of the snowstorm that’s bearing down on us. Well, I almost got it finished before the snow started falling.</p>
+<hr>
+<p>January 4, 2025</p>
+<p>After my fall down the basement stairs the other day, I decided that I need to work on improving my balance. Falling is problem when you’re a senior. Lisa encouraged me to start doing yoga. Today was my first workout. It made me realize how shitty my balance is!</p>
+<hr>
+<p>December 31, 2024</p>
+<p>It’s on my mind again–the constant battle between my MacBook and iPad. Why can’t I just accept that I can use both? I can pick whichever one suits me in the moment. There’s no need to choose just one or the other.</p>
+<hr>
+<p>December 27, 2024</p>
+<p>Flip flopping on my task manager again. Back to Things 3 from Reminders/GoodTask.</p>
+<hr>
+<p>December 21, 2024</p>
+<p>It’s the first day of Winter, and we woke up to snow this morning. About 2 inches. Knowing that it was going to snow overnight, I was curious about how Trix (our dog) would like it or if she would. She loved it. It was fun to watch her run around, jump up and down, and eat the snow.</p>
+<p>🌤 Current Weather: 29°F and Windy</p>
+<hr>
+<p>December 20, 2024</p>
+<p>“I’ve become overwhelmed as a result of my never-ending urge to tinker (combined with boredom).”</p>
+<p><a href="https://baty.net/journal/2024/12/19/today/">Jack Baty</a></p>
+<hr>
+<p>December 20, 2024</p>
+<p>“writing is thinking. In fact there’s a kind of thinking that can only be done by writing.[…] If you’re thinking without writing, you only think you’re thinking.”</p>
+<p><a href="https://paulgraham.com/writes.html">Paul Graham</a></p>
+<hr>
+<p>December 18, 2024</p>
+<p>I'm in the process of migrating all the blog posts from 2023 to here.</p>
+<hr>
+<p>December 15, 2024</p>
+<p>A couple of weeks ago we retired our tired Keurig. In its place we bought a Ninja Espresso and Coffee Barista System. We’re enjoying brewed coffee and the occasional espresso.</p>
+<hr>
+<p>December 14, 2024</p>
+<p>Site Analytics: I don't have them on this site, and I don't need them because knowing won't make a difference. The fact that I don't know them actually makes me feel more comfortable with what I'm going to post.</p>
+<hr>
+<p>December 9, 2024</p>
+<p>One of my digital friends is a big fan of EMACS, so I decided to watch a beginner’s guide in order to gain a basic understanding of what it is. Looks complicated with a huge learning curve.</p>
+<hr>
+<p>December 4, 2024</p>
+<p>My tech stack plan for 2025 is files over apps and to use non-subscription apps where possible.</p>
+<hr>
+<p>December 4, 2024</p>
+<blockquote>
+<p>File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.</p>
+<p>File over app is an appeal to tool makers: accept that all software is ephemeral, and give people ownership over their data.</p>
+</blockquote>
+<p><a href="https://stephango.com/file-over-app">File over app — Steph Ango</a></p>
+<p>I’ve been thinking about this a lot lately.</p>
+<hr>
+<p>December 3, 2024</p>
+<p>What a novel idea: The Consumer Financial Protection Bureau (CFPB) proposes stricter regulations on data brokers, requiring them to adhere to the Fair Credit Reporting Act (FCRA). This would restrict brokers from selling sensitive data, like Social Security numbers, unless for legitimate purposes (e.g., credit eligibility). The move aims to protect against identity theft and scams, ensuring brokers follow consumer protection laws similar to credit bureaus. It may also reduce the scale of data sales, forcing some brokers out of business. The proposal has broad support despite not addressing data breaches directly. Read more: <a href="https://9to5mac.com/2024/12/03/data-brokers-may-be-banned-from-selling-your-personal-data-without-good-reason/">9to5Mac</a>.</p>
+<hr>
+<p>November 29, 2024</p>
+<blockquote>
+<p>Whenever I change blogging platforms or domain names or simply post to several places, I feel a twinge of guilt. How will my “audience” feel about the changes? Does it confuse things?[…] I don’t get a lot of traffic, but it’s also not zero traffic, so I feel some responsibility. But why? I am not writing for money or influence or popularity. I write to better understand my thoughts, and sometimes share the result. I write so that I have a record of those things. I write, almost entirely, for me.[…] In that light, I shouldn’t need to worry about whether my RSS feed is consistent or if people need to follow me in too many places. I don’t want to be a dick about it, but c’mon, it’s an unimportant personal blog by some nobody on the internet. Let’s not overthink it.</p>
+</blockquote>
+<p><a href="https://baty.net/2024/07/who-am-i-responsible-to-here/">Jack Baty</a></p>
+<hr>
+<p>November 26, 2024</p>
+<p>I gave up on Raycast + Keyboard Maestro and I’m back to Alfred as my launcher.</p>
+<hr>
+<p>November 23, 2024</p>
+<p>I already deleted Ulysses and requested a refund. I forgot how poorly it handles markdown and code.</p>
+<hr>
+<p>November 23, 2024</p>
+<p>I’m fucking crazy! I just installed <a href="https://ulysses.app/">Ulysses</a> and renewed my subscription for a year. Like it or not it’s a great writing app.</p>
+<hr>
+<p>November 22, 2024</p>
+<p>Switching launchers on my MacBook from Alfred to Raycast. I’m also configuring Raycast to replace some of my Keyboard Maestro macros.</p>
+<hr>
+
+			</heading-anchors>
+		</main>
+
+		<footer>
+			<p>Built with <a href="https://www.11ty.dev/">Eleventy v3.0.0</a> | 
+				Licensed under
+				<a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0</a> | <a href="https://letterbird.co/ldstephens">Email Me</a>
+			 </p>
+		</footer>
+
+		<!-- This page `/notes/` was built on 2025-03-25T17:39:30.868Z -->
+		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
+	</body>
+</html>
