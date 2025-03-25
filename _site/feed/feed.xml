@@ -5,11 +5,24 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-03-24T16:54:13Z</updated>
+  <updated>2025-03-25T11:09:32Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>🔗 Link Post - I&#39;m an American software developer and the &quot;broligarchs&quot; don&#39;t speak for me</title>
+    <link href="https://ldstephens.net/blog/link-post-im-an-american-software-developer-and-the-broligarchs-dont-speak-for-me/" />
+    <updated>2025-03-25T11:09:32Z</updated>
+    <id>https://ldstephens.net/blog/link-post-im-an-american-software-developer-and-the-broligarchs-dont-speak-for-me/</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://ratfactor.com/tech-nope&quot;&gt;Dave Gauer&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sometimes you just want to be understood.&lt;/p&gt;
+&lt;p&gt;Here I am, a software developer in the year 2025. I look around at &amp;quot;tech&amp;quot; in the news and in culture and I don’t like what I see. Something has gone really, really wrong with the Big Tech &amp;quot;bros&amp;quot; and I cannot keep silent about it any longer. Because the broligarchs do not represent me &lt;em&gt;at all&lt;/em&gt;.[…] If all I can accomplish here is to be understood, that’s enough. I can, after all, only speak for myself. But I have a feeling I’m not alone. I have a feeling that there are a lot of other people in the tech world who do not want to be thought of as the cold-blooded instruments of mad kings bent on destroying everything in order to remake the world as a dystopian techno-state.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is an excellent read, even if you’re not a developer.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On - Using ChatGPT for tech support</title>
     <link href="https://ldstephens.net/blog/on-using-chatgpt-for-tech-support/" />
@@ -192,15 +205,6 @@
 &lt;p&gt;That said, having a blog for thinking out loud is still the best way to learn and then “report” it, even if we’re the only ones reading it.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://decoding.io/2025/02/read-its-still-worth-blogging-in-the-age-of-ai/&quot;&gt;Zsolt Benke&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Why write when no one’s reading?</title>
-    <link href="https://ldstephens.net/blog/why-write-when-no-ones-reading/" />
-    <updated>2025-03-02T15:06:59Z</updated>
-    <id>https://ldstephens.net/blog/why-write-when-no-ones-reading/</id>
-    <content type="html">&lt;p&gt;Writing without an audience might feel pointless. It isn’t just about being read; it’s about thinking more clearly. Putting thoughts into words forces us to process them in a way passive consumption doesn&#39;t.&lt;/p&gt;
-&lt;p&gt;But most of all, write because your voice matters even if only to you. And if just one person finds what you write useful, then that makes it even more worthwhile. I think about the things I’ve read that have stuck with me, and I hope my words can do the same for someone else.&lt;/p&gt;
 </content>
   </entry>
 </feed>
