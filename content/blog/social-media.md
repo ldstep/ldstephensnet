@@ -5,7 +5,7 @@ date: 2024-07-24
 tags:
 ---
 
-Hey friends, let's talk social media. It's been around forever, and you know what? I gotta confess, I've never been a huge fan. Facebook, Instagram, TikTok, Snapchat – I’ve had an account on any of them.
+Hey friends, let's talk social media. It's been around forever, and you know what? I gotta confess, I've never been a huge fan. Facebook, Instagram, TikTok, Snapchat – I’ve never had an account on any of them.
 
 The closest I came was Twitter. Used to have it on and off, mainly to keep up with current events. But after that whole thing with the shitposter buying XTwitter I said fuck this and deleted my account for good.
 

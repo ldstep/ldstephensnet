@@ -1,5 +1,5 @@
 ---
-title: 🔗 Link Post - I'm an American software developer and the "broligarchs" don't speak for me
+title: Link Post - I'm an American software developer and the "broligarchs" don't speak for me
 description:
 date: 2025-03-25T11:09:32Z
 tags:
