@@ -5,11 +5,22 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-03-25T11:09:32Z</updated>
+  <updated>2025-03-27T15:55:06Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Update regarding ldstephens - March 27, 2025</title>
+    <link href="https://ldstephens.net/blog/update-regarding-ldstephens-march-27-2025/" />
+    <updated>2025-03-27T15:55:06Z</updated>
+    <id>https://ldstephens.net/blog/update-regarding-ldstephens-march-27-2025/</id>
+    <content type="html">&lt;p&gt;Hey friends, you may have noticed a flurry of activity here at ldstephens in the last few days. As long-time followers know, this site started on WordPress.com in 2016. Around the time WordPress made changes to the editor forcing users to use the new block editor that I fucking hated I basically stopped posting here.&lt;/p&gt;
+&lt;p&gt;Over the past several months, I’ve been experimenting with static sites, and I’ve grown particularly fond of the static site generator Eleventy. The other day, I came across an article on &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;migrating from WordPress to Eleventy&lt;/a&gt;. Using the &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/#use-11ty-import&quot;&gt;11ty/import tool&lt;/a&gt;, I could import all my content into an Eleventy build. Now, &lt;strong&gt;ldstephens.net&lt;/strong&gt; is a static site built with Eleventy, using HTML and CSS, and deployed on Netlify.&lt;/p&gt;
+&lt;p&gt;The final step: Today, I transferred the domain ldstephens.net from WordPress.com to Hover. I’m now completely free from WordPress.&lt;/p&gt;
+&lt;p&gt;I’ll be posting here on a regular basis going forward.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Link Post - I&#39;m an American software developer and the &quot;broligarchs&quot; don&#39;t speak for me</title>
     <link href="https://ldstephens.net/blog/link-post-im-an-american-software-developer-and-the-broligarchs-dont-speak-for-me/" />
@@ -194,17 +205,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;In an email sent to customers today, Amazon said that Echo users will no longer be able to set their devices to process Alexa requests locally and, therefore, avoid sending voice recordings to Amazon’s cloud. Amazon apparently sent the email to users with “Do Not Send Voice Recordings” enabled on their Echo. Starting on March 28, recordings of everything spoken to the Alexa living in Echo speakers and smart displays will automatically be sent to Amazon and processed in the cloud.[…] there are plenty of reasons why people wouldn&#39;t want Amazon to receive recordings of what they say to their personal device. For one, the idea of a conglomerate being able to listen to personal requests made in your home is, simply, unnerving.[…] Amazon &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230&quot;&gt;says&lt;/a&gt; it allows employees to listen to Alexa voice recordings to train its speech recognition and natural language understanding systems.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Thinking about the M4 MacBook Air</title>
-    <link href="https://ldstephens.net/blog/thinking-about-the-m4-macbook-air/" />
-    <updated>2025-03-14T00:00:00Z</updated>
-    <id>https://ldstephens.net/blog/thinking-about-the-m4-macbook-air/</id>
-    <content type="html">&lt;p&gt;Hey friends, I have been thinking about the new M4 MacBook Air. My current Mac is a base model M1 Air that I bought for $999 in October 2022. At the time, I skipped the M2 MacBook Air, which launched a few months earlier at $1,199, because I didn&#39;t see the point in spending an extra $200. Most of what I do on a computer is email, web browsing, writing and other things that don’t require much power.&lt;/p&gt;
-&lt;p&gt;Which brings me to my fucking desire for the new M4 MacBook Air. The question is: just because I can buy it, should I?&lt;/p&gt;
-&lt;p&gt;Yes, the new Air has the M4 chip, 16GB of RAM, and is supposedly &amp;quot;&lt;a href=&quot;https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/#:~:text=The%20M4%20chip%20features%20a,up%20to%202x%20faster%20than&amp;amp;text=M4%3A%20Performance%20to%20the%20Next%20Level&amp;amp;When%20compared%20to%20the%20fastest,up%20to%2023x%20faster%20performance&quot;&gt;2x faster&lt;/a&gt;&amp;quot; than the M1 for certain tasks. &lt;em&gt;But here&#39;s the thing, I do undemanding tasks. Even if the M4 is twice as fast, would I even notice? Probably not.&lt;/em&gt; Meanwhile, my M1 Air is in excellent shape. Battery health is at 96%, I&#39;ve only used 89GB of my 256GB storage, and it runs perfectly fine.&lt;/p&gt;
-&lt;p&gt;I wrote all this to remind myself that I &lt;em&gt;don&#39;t&lt;/em&gt; need to drop money on a new MacBook Air when my current one more than meets my needs.&lt;/p&gt;
 </content>
   </entry>
 </feed>
