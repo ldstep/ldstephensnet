@@ -10,6 +10,14 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+March 30, 2025, at 2:27:32 PM
+
+File over app workflow
+
+Drafts > save file to folder > index in Devonthink
+
+---
+
 March 25, 2025, at 1:56:45 PM
 
 The rapid pace of AI developments is overwhelming, with new changes emerging almost daily. It’s simply impossible to keep up with them.
