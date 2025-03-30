@@ -5,11 +5,54 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-03-27T15:55:06Z</updated>
+  <updated>2025-03-30T15:50:57Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>The power of _redirects</title>
+    <link href="https://ldstephens.net/blog/the-power-of-redirects/" />
+    <updated>2025-03-30T15:50:57Z</updated>
+    <id>https://ldstephens.net/blog/the-power-of-redirects/</id>
+    <content type="html">&lt;p&gt;Hey friends, when I migrated ldstephens from &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;WordPress to Eleventy&lt;/a&gt;, I had a three goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make sure old links redirected to the new structure.&lt;/li&gt;
+&lt;li&gt;Ensure the old RSS feed redirected to the new one.&lt;/li&gt;
+&lt;li&gt;Keep RSS subscribers from ldstephens.me connected, so they wouldn&#39;t have to change anything.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With Netlify redirects, I made all of this happen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Redirecting Old URLs to New URLs&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/2016/*/:slug/ /blog/:slug/ 301!
+/2017/*/:slug/ /blog/:slug/ 301!
+/2018/*/:slug/ /blog/:slug/ 301!
+/2019/*/:slug/ /blog/:slug/ 301!
+/2020/*/:slug/ /blog/:slug/ 301!
+/2021/*/:slug/ /blog/:slug/ 301!
+/2022/*/:slug/ /blog/:slug/ 301!
+/2023/*/:slug/ /blog/:slug/ 301!
+/2024/*/:slug/ /blog/:slug/ 301!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This does three things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Redirects /YYYY/MM/DD/slug/ to /blog/slug/&lt;/li&gt;
+&lt;li&gt;Keeps the original post slug intact&lt;/li&gt;
+&lt;li&gt;Uses a 301 permanent redirect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Redirecting the Old RSS Feed&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/feed      https://ldstephens.net/feed/feed.xml    301
+/feed.xml  https://ldstephens.net/feed/feed.xml    301
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, anyone subscribed to the old feed gets the new one automatically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keeping ldstephens.me RSS Subscribers Connected&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On ldstephens.me, I updated the _redirects file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/feed      https://ldstephens.net/feed  200!
+/feed.xml  https://ldstephens.net/feed.xml  200!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Instead of redirecting, this proxies requests to the new feed. The 200! ensures the feed loads from ldstephens.net instead of bouncing users around. The catch, both sites need to be on Netlify for this to work.&lt;/p&gt;
+&lt;p&gt;I&#39;m new to this kind of thing, so being able to set up redirects felt like fucking magic. You just can&#39;t do this if your site is locked into a hosted platform. This is why owning your blog matters.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Update regarding ldstephens - March 27, 2025</title>
     <link href="https://ldstephens.net/blog/update-regarding-ldstephens-march-27-2025/" />
@@ -193,18 +236,6 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>PSA - Amazon will log all Echo voice commands starting March 28</title>
-    <link href="https://ldstephens.net/blog/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/" />
-    <updated>2025-03-15T16:38:14Z</updated>
-    <id>https://ldstephens.net/blog/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/</id>
-    <content type="html">&lt;p&gt;I don’t use Alexa but if you do you might want to consider if you want to continue using it.&lt;/p&gt;
-&lt;p&gt;Scharon Harding, &lt;a href=&quot;https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/&quot;&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In an email sent to customers today, Amazon said that Echo users will no longer be able to set their devices to process Alexa requests locally and, therefore, avoid sending voice recordings to Amazon’s cloud. Amazon apparently sent the email to users with “Do Not Send Voice Recordings” enabled on their Echo. Starting on March 28, recordings of everything spoken to the Alexa living in Echo speakers and smart displays will automatically be sent to Amazon and processed in the cloud.[…] there are plenty of reasons why people wouldn&#39;t want Amazon to receive recordings of what they say to their personal device. For one, the idea of a conglomerate being able to listen to personal requests made in your home is, simply, unnerving.[…] Amazon &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230&quot;&gt;says&lt;/a&gt; it allows employees to listen to Alexa voice recordings to train its speech recognition and natural language understanding systems.&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>
