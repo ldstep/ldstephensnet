@@ -5,7 +5,7 @@ date: 2025-04-01T14:46:51Z
 tags:
 ---
 
-Hey friends, I’ve been bouncing between Things 3 and GoodTask with Reminders as the back-end for a few years. Lately, I've been using Things. But yesterday, I was bored[^That happens when you're retired.], so I decided to brush off GoodTask and start using it again[^Someday, Things 4 is going to come and I won’t want to spend the money for the upgrade or possible subscription.].
+Hey friends, I’ve been bouncing between Things 3 and GoodTask with Reminders as the back-end for a few years. Lately, I've been using Things. But yesterday, I was bored (that happens when you're retired), so I decided to brush off GoodTask and start using it again.
 
 The only problem? I have GoodTask on my iPhone and iPad, but not on my MacBook. I've tried the Mac trial, but I don't like it. Plus, it’s a $40 purchase that I don't want to make. I dislike the Reminders app even more. So I needed a way to access Reminders on my Mac.
 
