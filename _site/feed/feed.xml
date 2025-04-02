@@ -5,11 +5,25 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-01T14:46:51Z</updated>
+  <updated>2025-04-02T15:39:50Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Update - on ditching my Feedbin subscription</title>
+    <link href="https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/" />
+    <updated>2025-04-02T15:39:50Z</updated>
+    <id>https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/</id>
+    <content type="html">&lt;p&gt;A while back, I &lt;a href=&quot;https://ldstephens.net/blog/ditching-my-feedbin-subscription/&quot;&gt;mentioned&lt;/a&gt; ditching my Feedbin subscription.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My Feedbin renewal is coming up in a couple of months, and I’ve made up my mind I’m not renewing. So today, I updated my feeds in NetNewsWire and started using it full-time. That way, by the time my Feedbin subscription expires, I’ll be comfortable with the switch.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here’s an update.&lt;/p&gt;
+&lt;p&gt;iCloud sync is a total pain in the ass. It’s especially bad in Reeder Classic. NetNewsWire handles it a bit better, but I just can’t keep using it. It’s a fantastic free app, and I’d definitely recommend it to others, but it’s not for me.&lt;/p&gt;
+&lt;p&gt;So, I’ve decided to change my mind, I’ll keep my Feedbin subscription and stick with Reeder.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Reminders MenuBar</title>
     <link href="https://ldstephens.net/blog/reminders-menubar/" />
@@ -217,17 +231,6 @@
     <id>https://ldstephens.net/blog/apple-id-phishing-alert/</id>
     <content type="html">&lt;p&gt;Hey friends, just a heads-up for Mac users: there’s a &lt;a href=&quot;https://9to5mac.com/2025/03/20/this-is-one-of-the-most-sophisticated-phishing-attacks-ever-made-against-mac-users/&quot;&gt;new phishing scam&lt;/a&gt; going around. It starts with a fake security alert while you’re browsing, but this one goes a step further by freezing the page, making it seem like your Mac is locked making the scam feel more real. The goal is to trick you into entering your Apple ID and password.&lt;/p&gt;
 &lt;p&gt;If you see one of these popups and the page is frozen, press Command + Option + Esc, select Safari, and force quit to force quit the app.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Quoting Barry Hess</title>
-    <link href="https://ldstephens.net/blog/quoting-barry-hess/" />
-    <updated>2025-03-16T11:31:32Z</updated>
-    <id>https://ldstephens.net/blog/quoting-barry-hess/</id>
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;Blogging is a conversation. It’s a conversation with yourself and it’s a conversation with others.[…] You don’t have to be an essayist. (Though you can be one if you want!) Don’t let those essayists discourage you from blogging. Just write. Just blog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://bjhess.com/posts/you-re-a-blogger-not-an-essayist&quot;&gt;Barry Hess&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
