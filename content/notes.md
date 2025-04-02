@@ -10,6 +10,14 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 2, 2025, at 10:21:08 AM
+
+> I went to bed last night exhausted by overthinking everything I do. Correction, what’s exhausting is overthinking the minutiae and underthinking the important stuff. I'm overthinking things that are mostly solved problems with proper, simple solutions: email, RSS reading, blogging, taking notes, etc. I spend an inordinate amount of time playing with things when I should be using them to, you know, do things.
+
+[Jack Baty](https://baty.net/journal/2025/03/19/overthinking-everything-again)
+
+---
+
 March 30, 2025, at 2:27:32 PM
 
 File over app workflow
