@@ -5,11 +5,20 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-02T15:39:50Z</updated>
+  <updated>2025-04-05T15:21:05Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Still waffling on Feedbin</title>
+    <link href="https://ldstephens.net/blog/still-waffling-on-feedbin/" />
+    <updated>2025-04-05T15:21:05Z</updated>
+    <id>https://ldstephens.net/blog/still-waffling-on-feedbin/</id>
+    <content type="html">&lt;p&gt;Yesterday, I was flipping back and forth between Feedbin and iCloud sync in Reeder, still debating whether I could drop my Feedbin subscription, even though I had already &lt;a href=&quot;https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/&quot;&gt;decided to keep it&lt;/a&gt;. In the middle of all that, I noticed the “On My iPhone” feed option. I hadn’t really thought about using that before (oops). So I uploaded all my feeds to it and have been using it since. And you know what? It works great. It’s not quite as fast as Feedbin, but it’s fast enough.&lt;/p&gt;
+&lt;p&gt;One big plus is privacy, since everything’s stored on my iPhone, no service is tracking what I follow or read. That might not work for folks who need their feeds to sync across devices, but I do all my RSS reading on my iPhone, so it’s a perfect fit for me. This means I can finally ditch my Feedbin subscription.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Update - on ditching my Feedbin subscription</title>
     <link href="https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/" />
@@ -222,15 +231,6 @@
     <content type="html">&lt;p&gt;Ben Lovejoy &lt;a href=&quot;https://9to5mac.com/2025/03/21/buying-a-five-year-old-macbook-air-was-the-right-decision-for-me/&quot;&gt;wrote this on 9to5Mac&lt;/a&gt;, and it hit home. He said, “Having had the chance to try out the new machine in an Apple Store, I&#39;m not &lt;em&gt;100%&lt;/em&gt; sure I&#39;d favor an upgrade even if it were the same price … […] But it doesn&#39;t offer any real benefit to me[…] In fact, when I visited an Apple Store to compare the M1 and M4 models side-by-side[…] But if like me your usage will be a mix of writing, other light tasks like email and web, and perhaps a bit of photo editing, then any Apple Silicon MacBook Air is good enough. At that point, you have to figure out whether any of the M4 features are worth the price difference to you.”&lt;/p&gt;
 &lt;p&gt;Ben&#39;s experience reinforces what &lt;a href=&quot;https://ldstephens.me/posts/thinking-about-the-m4-macbook-air/&quot;&gt;I wrote&lt;/a&gt; the other day. He actually went to an Apple Store and compared the M1 and M4 models side-by-side! And even after that, he wasn&#39;t convinced the upgrade was necessary for his workflow. That&#39;s exactly how I feel. I&#39;ve been using my M1 for everyday tasks, and it handles everything without breaking a sweat. If someone who&#39;s tested both models doesn&#39;t see a significant benefit, then I definitely don&#39;t need to upgrade.&lt;/p&gt;
 &lt;p&gt;It&#39;s tempting to get caught up in the hype of new tech, but Ben&#39;s quote is a great reminder to be realistic about my needs. Why spend extra money on something I won&#39;t even fully utilize? Ben&#39;s words have solidified my decision to stick with my M1 Air.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Apple ID phishing alert</title>
-    <link href="https://ldstephens.net/blog/apple-id-phishing-alert/" />
-    <updated>2025-03-20T09:25:58Z</updated>
-    <id>https://ldstephens.net/blog/apple-id-phishing-alert/</id>
-    <content type="html">&lt;p&gt;Hey friends, just a heads-up for Mac users: there’s a &lt;a href=&quot;https://9to5mac.com/2025/03/20/this-is-one-of-the-most-sophisticated-phishing-attacks-ever-made-against-mac-users/&quot;&gt;new phishing scam&lt;/a&gt; going around. It starts with a fake security alert while you’re browsing, but this one goes a step further by freezing the page, making it seem like your Mac is locked making the scam feel more real. The goal is to trick you into entering your Apple ID and password.&lt;/p&gt;
-&lt;p&gt;If you see one of these popups and the page is frozen, press Command + Option + Esc, select Safari, and force quit to force quit the app.&lt;/p&gt;
 </content>
   </entry>
 </feed>
