@@ -5,11 +5,20 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-05T15:21:05Z</updated>
+  <updated>2025-04-06T15:55:38Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Remind Me Faster</title>
+    <link href="https://ldstephens.net/blog/remind-me-faster/" />
+    <updated>2025-04-06T15:55:38Z</updated>
+    <id>https://ldstephens.net/blog/remind-me-faster/</id>
+    <content type="html">&lt;p&gt;Last week, I was &lt;a href=&quot;https://ldstephens.net/blog/reminders-menubar/&quot;&gt;messing around&lt;/a&gt; with Apple’s Reminders app. I’m still using Things, but I found a handy iOS app called &lt;a href=&quot;https://apps.apple.com/us/app/remind-me-faster/id985555908&quot;&gt;Remind Me Faster&lt;/a&gt; that makes adding tasks to Reminders super quick. Why does that matter if I’m using Things? Because Things 3 can import tasks from the Reminders Inbox list.&lt;/p&gt;
+&lt;p&gt;When you use the iOS share sheet to send something to Things, you can’t set a due date or time. But with Remind Me Faster, you can. It lets you create a reminder with a due date and time in the Reminders Inbox, ready for Things to import. Whether you’re using Reminders or Things I think you’ll like this little app.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Still waffling on Feedbin</title>
     <link href="https://ldstephens.net/blog/still-waffling-on-feedbin/" />
@@ -221,16 +230,6 @@
 &lt;p&gt;It’s not like we’re getting a freebie here. We all paid into Social Security and Medicare our entire working lives. I started working when I was 15 years old and was never without a job until I retired. So I paid my fucking dues and so did all other seniors.&lt;/p&gt;
 &lt;p&gt;Oh, but sure, let&#39;s just skip a payment, what could possibly go wrong? Maybe Lutnick thinks we can all just hop on our yachts and ride out the month, or maybe we should start selling off our prescription meds to make rent. The sheer arrogance of a billionaire pretending he knows what it&#39;s like to rely on Social Security is bullshit. News flash: We&#39;re not asking for a favor. We&#39;re demanding what we &lt;em&gt;earned&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Maybe you can tell I’m pissed. &lt;em&gt;Don’t fuck with our Social Security and Medicare!&lt;/em&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>More thoughts on the M4 MacBook Air</title>
-    <link href="https://ldstephens.net/blog/more-thoughts-on-the-m4-macbook-airs/" />
-    <updated>2025-03-21T00:00:00Z</updated>
-    <id>https://ldstephens.net/blog/more-thoughts-on-the-m4-macbook-airs/</id>
-    <content type="html">&lt;p&gt;Ben Lovejoy &lt;a href=&quot;https://9to5mac.com/2025/03/21/buying-a-five-year-old-macbook-air-was-the-right-decision-for-me/&quot;&gt;wrote this on 9to5Mac&lt;/a&gt;, and it hit home. He said, “Having had the chance to try out the new machine in an Apple Store, I&#39;m not &lt;em&gt;100%&lt;/em&gt; sure I&#39;d favor an upgrade even if it were the same price … […] But it doesn&#39;t offer any real benefit to me[…] In fact, when I visited an Apple Store to compare the M1 and M4 models side-by-side[…] But if like me your usage will be a mix of writing, other light tasks like email and web, and perhaps a bit of photo editing, then any Apple Silicon MacBook Air is good enough. At that point, you have to figure out whether any of the M4 features are worth the price difference to you.”&lt;/p&gt;
-&lt;p&gt;Ben&#39;s experience reinforces what &lt;a href=&quot;https://ldstephens.me/posts/thinking-about-the-m4-macbook-air/&quot;&gt;I wrote&lt;/a&gt; the other day. He actually went to an Apple Store and compared the M1 and M4 models side-by-side! And even after that, he wasn&#39;t convinced the upgrade was necessary for his workflow. That&#39;s exactly how I feel. I&#39;ve been using my M1 for everyday tasks, and it handles everything without breaking a sweat. If someone who&#39;s tested both models doesn&#39;t see a significant benefit, then I definitely don&#39;t need to upgrade.&lt;/p&gt;
-&lt;p&gt;It&#39;s tempting to get caught up in the hype of new tech, but Ben&#39;s quote is a great reminder to be realistic about my needs. Why spend extra money on something I won&#39;t even fully utilize? Ben&#39;s words have solidified my decision to stick with my M1 Air.&lt;/p&gt;
 </content>
   </entry>
 </feed>
