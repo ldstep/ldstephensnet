@@ -5,11 +5,27 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-07T10:47:43Z</updated>
+  <updated>2025-04-07T14:59:53Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>iA Writer and Grammarly</title>
+    <link href="https://ldstephens.net/blog/ia-writer-and-grammarly/" />
+    <updated>2025-04-07T14:59:53Z</updated>
+    <id>https://ldstephens.net/blog/ia-writer-and-grammarly/</id>
+    <content type="html">&lt;p&gt;I like to run my blog posts through Grammarly before publishing to catch spelling and grammar mistakes. However, one thing that bugs me about iA Writer is that it doesn’t work well with Grammarly. It kind of works, but not really. iA Writer won’t accept rephrase suggestions.&lt;/p&gt;
+&lt;p&gt;Since I’d like to use iA Writer for blog posts, notes, and journaling, I contacted their support team to see if there’s a fix. Here’s what they said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Our apps, iA Writer and iA Presenter, do not support Grammarly.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Grammarly and iA Writer handle user data differently. While we don’t collect any of your information, Grammarly does. Because of this data privacy conflict, we’ve decided not to integrate the Grammarly API.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Not the answer I was hoping for. I’ll figure out a workaround.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Link Post - Our Tools Shape Us</title>
     <link href="https://ldstephens.net/blog/link-post-our-tools-shape-us/" />
@@ -165,68 +181,6 @@
 &lt;li&gt;Automating tasks with Shortcuts, AppleScript, and Automator&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you’re not using ChatGPT for tech support, give it a shot. It’s like having an expert on call minus the frustration of Googling.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Uses</title>
-    <link href="https://ldstephens.net/blog/uses-2025-03-24/" />
-    <updated>2025-03-24T14:06:13Z</updated>
-    <id>https://ldstephens.net/blog/uses-2025-03-24/</id>
-    <content type="html">&lt;p&gt;Updated: March 24, 2025&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Desktop: M1 13” Macbook Air&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Peripherals:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Magic Mouse 2&lt;/li&gt;
-&lt;li&gt;Air Pods Pro 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Apps:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;macOS: 15.x&lt;/li&gt;
-&lt;li&gt;Mail Server: &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mail App: Mail&lt;/li&gt;
-&lt;li&gt;Calendar: Fantastical&lt;/li&gt;
-&lt;li&gt;Notes: Apple Notes / Drafts / Plain Text&lt;/li&gt;
-&lt;li&gt;To-Do: Things&lt;/li&gt;
-&lt;li&gt;Cloud File Storage: iCloud&lt;/li&gt;
-&lt;li&gt;Browser: Safari / Firefox&lt;/li&gt;
-&lt;li&gt;Text Editor: Drafts&lt;/li&gt;
-&lt;li&gt;Code: GitHub&lt;/li&gt;
-&lt;li&gt;Code Editor: VS Code&lt;/li&gt;
-&lt;li&gt;Journal: Drafts / Day One&lt;/li&gt;
-&lt;li&gt;Launcher: Alfred&lt;/li&gt;
-&lt;li&gt;RSS Service: Feedbin&lt;/li&gt;
-&lt;li&gt;RSS App: Reeder Classic&lt;/li&gt;
-&lt;li&gt;Bookmarks: Goodlinks&lt;/li&gt;
-&lt;li&gt;Read It Later: Goodlinks&lt;/li&gt;
-&lt;li&gt;Password Manager: Bitwarden&lt;/li&gt;
-&lt;li&gt;VPN: TunnelBear&lt;/li&gt;
-&lt;li&gt;Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Moom, Witch, Hidden Bar, ScreenFloat&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Mobile: iPhone 15 Pro Max and M2 11” iPad Air&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Peripherals:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Air Pods Pro 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Apps:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;iOS: 18.x&lt;/li&gt;
-&lt;li&gt;Mail Server: &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mail App: Mail&lt;/li&gt;
-&lt;li&gt;Messages: Messages&lt;/li&gt;
-&lt;li&gt;Calendar: Fantastical&lt;/li&gt;
-&lt;li&gt;Notes: Apple Notes / Drafts / Plain Text&lt;/li&gt;
-&lt;li&gt;To-Do: Things&lt;/li&gt;
-&lt;li&gt;Browser: Safari&lt;/li&gt;
-&lt;li&gt;Text: Drafts&lt;/li&gt;
-&lt;li&gt;RSS Service: Feedbin&lt;/li&gt;
-&lt;li&gt;RSS App: Reeder Classic&lt;/li&gt;
-&lt;li&gt;Bookmarks: Goodlinks&lt;/li&gt;
-&lt;li&gt;Read It Later: Goodlinks&lt;/li&gt;
-&lt;li&gt;Journal: Drafts / Day One&lt;/li&gt;
-&lt;li&gt;Password Manager: Bitwarden&lt;/li&gt;
-&lt;li&gt;Weather: Carrot Weather&lt;/li&gt;
-&lt;li&gt;Health and Fitness: Fitness, FoodNoms&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
