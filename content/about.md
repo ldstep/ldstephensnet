@@ -15,9 +15,7 @@ When adding new posts, changing the design, or adding new features, that is done
 
 New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in VS Code.
 
-No ads. No tracking. No cookies. Ever!
-
-Slash pages:
+**Slash pages:**
 
 <a href="/uses/">/ Uses</a>
 
