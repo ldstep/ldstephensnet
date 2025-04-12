@@ -5,11 +5,23 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-08T14:38:20Z</updated>
+  <updated>2025-04-12T09:29:19Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Link post - If your content is only on social media, I&#39;m not going to see it</title>
+    <link href="https://ldstephens.net/blog/link-post-if-your-content-is-only-on-social-media-im-not-going-to-see-it/" />
+    <updated>2025-04-12T09:29:19Z</updated>
+    <id>https://ldstephens.net/blog/link-post-if-your-content-is-only-on-social-media-im-not-going-to-see-it/</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Because I&#39;ve elected to eschew all of these platforms, I find myself in a position in which discovery can (and often is) problematic and curation is of paramount importance. It&#39;s a slow moving process of following blogs, following blogs and authors they link to and doing the same with news services. It&#39;s an approach to the internet that&#39;s both slower and freer. I can finish scrolling what I follow because none of it&#39;s designed to keep me engaged in perpetuity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.coryd.dev/posts/2025/if-your-content-is-only-on-social-media-im-not-going-to-see-it/&quot;&gt;Cory Dransfeldt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Well put, Cory. It takes time and effort to build a good set of personal blogs to follow, ones you actually enjoy reading. Every day, as I go through my reading list, I check out any blogs people link to. That&#39;s exactly how I found Cory&#39;s blog.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>I almost fell for it</title>
     <link href="https://ldstephens.net/blog/i-almost-fell-for-it/" />
@@ -143,19 +155,6 @@
 &lt;p&gt;Over the past several months, I’ve been experimenting with static sites, and I’ve grown particularly fond of the static site generator Eleventy. The other day, I came across an article on &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;migrating from WordPress to Eleventy&lt;/a&gt;. Using the &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/#use-11ty-import&quot;&gt;11ty/import tool&lt;/a&gt;, I could import all my content into an Eleventy build. Now, &lt;strong&gt;ldstephens.net&lt;/strong&gt; is a static site built with Eleventy, using HTML and CSS, and deployed on Netlify.&lt;/p&gt;
 &lt;p&gt;The final step: Today, I transferred the domain ldstephens.net from WordPress.com to Hover. I’m now completely free from WordPress.&lt;/p&gt;
 &lt;p&gt;I’ll be posting here on a regular basis going forward.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Link Post - I&#39;m an American software developer and the &quot;broligarchs&quot; don&#39;t speak for me</title>
-    <link href="https://ldstephens.net/blog/link-post-im-an-american-software-developer-and-the-broligarchs-dont-speak-for-me/" />
-    <updated>2025-03-25T11:09:32Z</updated>
-    <id>https://ldstephens.net/blog/link-post-im-an-american-software-developer-and-the-broligarchs-dont-speak-for-me/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://ratfactor.com/tech-nope&quot;&gt;Dave Gauer&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Sometimes you just want to be understood.&lt;/p&gt;
-&lt;p&gt;Here I am, a software developer in the year 2025. I look around at &amp;quot;tech&amp;quot; in the news and in culture and I don’t like what I see. Something has gone really, really wrong with the Big Tech &amp;quot;bros&amp;quot; and I cannot keep silent about it any longer. Because the broligarchs do not represent me &lt;em&gt;at all&lt;/em&gt;.[…] If all I can accomplish here is to be understood, that’s enough. I can, after all, only speak for myself. But I have a feeling I’m not alone. I have a feeling that there are a lot of other people in the tech world who do not want to be thought of as the cold-blooded instruments of mad kings bent on destroying everything in order to remake the world as a dystopian techno-state.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is an excellent read, even if you’re not a developer.&lt;/p&gt;
 </content>
   </entry>
 </feed>
