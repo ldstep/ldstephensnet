@@ -282,7 +282,3 @@ header {
 footer {
    font-size: 14px; /* Set to your desired size */
 }
-/* Add this at the very end */
-blockquote {
-   font-style: italic !important;
-}
