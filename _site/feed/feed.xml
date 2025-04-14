@@ -5,11 +5,19 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-12T09:29:19Z</updated>
+  <updated>2025-04-14T14:07:39Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Drafts subscription</title>
+    <link href="https://ldstephens.net/blog/drafts-subscription/" />
+    <updated>2025-04-14T14:07:39Z</updated>
+    <id>https://ldstephens.net/blog/drafts-subscription/</id>
+    <content type="html">&lt;p&gt;I&#39;ve been whittling down my subscription apps, and the last one on the list was &lt;a href=&quot;https://getdrafts.com&quot;&gt;Drafts&lt;/a&gt;. I let it expire on April 7th, thinking I could get by with the free version. I could, but decided I didn&#39;t want to. So I resubscribed yesterday.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Link post - If your content is only on social media, I&#39;m not going to see it</title>
     <link href="https://ldstephens.net/blog/link-post-if-your-content-is-only-on-social-media-im-not-going-to-see-it/" />
@@ -144,17 +152,6 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Instead of redirecting, this proxies requests to the new feed. The 200! ensures the feed loads from ldstephens.net instead of bouncing users around. The catch, both sites need to be on Netlify for this to work.&lt;/p&gt;
 &lt;p&gt;I&#39;m new to this kind of thing, so being able to set up redirects felt like fucking magic. You just can&#39;t do this if your site is locked into a hosted platform. This is why owning your blog matters.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Update regarding ldstephens - March 27, 2025</title>
-    <link href="https://ldstephens.net/blog/update-regarding-ldstephens-march-27-2025/" />
-    <updated>2025-03-27T15:55:06Z</updated>
-    <id>https://ldstephens.net/blog/update-regarding-ldstephens-march-27-2025/</id>
-    <content type="html">&lt;p&gt;Hey friends, you may have noticed a flurry of activity here at ldstephens in the last few days. As long-time followers know, this site started on WordPress.com in 2016. Around the time WordPress made changes to the editor forcing users to use the new block editor that I fucking hated I basically stopped posting here.&lt;/p&gt;
-&lt;p&gt;Over the past several months, I’ve been experimenting with static sites, and I’ve grown particularly fond of the static site generator Eleventy. The other day, I came across an article on &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/&quot;&gt;migrating from WordPress to Eleventy&lt;/a&gt;. Using the &lt;a href=&quot;https://www.11ty.dev/docs/migrate/wordpress/#use-11ty-import&quot;&gt;11ty/import tool&lt;/a&gt;, I could import all my content into an Eleventy build. Now, &lt;strong&gt;ldstephens.net&lt;/strong&gt; is a static site built with Eleventy, using HTML and CSS, and deployed on Netlify.&lt;/p&gt;
-&lt;p&gt;The final step: Today, I transferred the domain ldstephens.net from WordPress.com to Hover. I’m now completely free from WordPress.&lt;/p&gt;
-&lt;p&gt;I’ll be posting here on a regular basis going forward.&lt;/p&gt;
 </content>
   </entry>
 </feed>
