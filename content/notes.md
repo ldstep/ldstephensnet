@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 15, 2025, at 8:56:56 AM
+
+I made a small tweak to the site CSS yesterday, added some styling to block quotes.
+
+---
+
 April 12, 2025, at 1:57:25 PM
 
 After tinkering with Todoist for a while, I’ve decided it’ll be my backup in case Things releases version 4 and it’s either a pricey upgrade or goes subscription. I’m done trying to make Reminders work.
