@@ -5,11 +5,21 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-16T09:28:50Z</updated>
+  <updated>2025-04-16T15:33:31Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Post Number 500</title>
+    <link href="https://ldstephens.net/blog/post-number-500/" />
+    <updated>2025-04-16T15:33:31Z</updated>
+    <id>https://ldstephens.net/blog/post-number-500/</id>
+    <content type="html">&lt;p&gt;I didn’t start this blog in 2016 with any big plan. I just wanted a place to share how I use my tech: apps, workflows, devices, the setups that make things click for me. Write a post, hit publish, move on to the next thing.&lt;/p&gt;
+&lt;p&gt;Sometimes I’m figuring things out as I go. Sometimes I’m just documenting what works or doesn’t work. Either way, the goal’s always been the same: share what I’ve learned in case it helps someone else or future me.&lt;/p&gt;
+&lt;p&gt;If you’ve read any of these 500 posts, thanks. I’m glad you’re here.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Link Post - Just Put It On Your Blog</title>
     <link href="https://ldstephens.net/blog/link-post-just-put-it-on-your-blog/" />
@@ -104,20 +114,6 @@
     <id>https://ldstephens.net/blog/still-waffling-on-feedbin/</id>
     <content type="html">&lt;p&gt;Yesterday, I was flipping back and forth between Feedbin and iCloud sync in Reeder, still debating whether I could drop my Feedbin subscription, even though I had already &lt;a href=&quot;https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/&quot;&gt;decided to keep it&lt;/a&gt;. In the middle of all that, I noticed the “On My iPhone” feed option. I hadn’t really thought about using that before (oops). So I uploaded all my feeds to it and have been using it since. And you know what? It works great. It’s not quite as fast as Feedbin, but it’s fast enough.&lt;/p&gt;
 &lt;p&gt;One big plus is privacy, since everything’s stored on my iPhone, no service is tracking what I follow or read. That might not work for folks who need their feeds to sync across devices, but I do all my RSS reading on my iPhone, so it’s a perfect fit for me. This means I can finally ditch my Feedbin subscription.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Update - on ditching my Feedbin subscription</title>
-    <link href="https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/" />
-    <updated>2025-04-02T15:39:50Z</updated>
-    <id>https://ldstephens.net/blog/update-on-ditching-my-feedbin-subscription/</id>
-    <content type="html">&lt;p&gt;A while back, I &lt;a href=&quot;https://ldstephens.net/blog/ditching-my-feedbin-subscription/&quot;&gt;mentioned&lt;/a&gt; ditching my Feedbin subscription.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;My Feedbin renewal is coming up in a couple of months, and I’ve made up my mind I’m not renewing. So today, I updated my feeds in NetNewsWire and started using it full-time. That way, by the time my Feedbin subscription expires, I’ll be comfortable with the switch.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Here’s an update.&lt;/p&gt;
-&lt;p&gt;iCloud sync is a total pain in the ass. It’s especially bad in Reeder Classic. NetNewsWire handles it a bit better, but I just can’t keep using it. It’s a fantastic free app, and I’d definitely recommend it to others, but it’s not for me.&lt;/p&gt;
-&lt;p&gt;So, I’ve decided to change my mind, I’ll keep my Feedbin subscription and stick with Reeder.&lt;/p&gt;
 </content>
   </entry>
 </feed>
