@@ -5,11 +5,22 @@
   <subtitle></subtitle>
   <link href="https://ldstephens.net/feed/feed.xml" rel="self" />
   <link href="https://ldstephens.net/" />
-  <updated>2025-04-15T12:34:00Z</updated>
+  <updated>2025-04-16T09:28:50Z</updated>
   <id>https://ldstephens.net/</id>
   <author>
     <name>Loren Stephens</name>
   </author>
+  <entry>
+    <title>Link Post - Just Put It On Your Blog</title>
+    <link href="https://ldstephens.net/blog/link-post-just-put-it-on-your-blog/" />
+    <updated>2025-04-16T09:28:50Z</updated>
+    <id>https://ldstephens.net/blog/link-post-just-put-it-on-your-blog/</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;If you’ve got something to say, something to share, something that others might be interested in—why not &lt;strong&gt;just put it on your blog&lt;/strong&gt;?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://shellsharks.com/just-put-it-on-your-blog&quot;&gt;Michael Sass&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>My thoughts on analytics and this site</title>
     <link href="https://ldstephens.net/blog/my-thoughts-on-analytics-and-this-site/" />
@@ -107,17 +118,6 @@
 &lt;p&gt;Here’s an update.&lt;/p&gt;
 &lt;p&gt;iCloud sync is a total pain in the ass. It’s especially bad in Reeder Classic. NetNewsWire handles it a bit better, but I just can’t keep using it. It’s a fantastic free app, and I’d definitely recommend it to others, but it’s not for me.&lt;/p&gt;
 &lt;p&gt;So, I’ve decided to change my mind, I’ll keep my Feedbin subscription and stick with Reeder.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Reminders MenuBar</title>
-    <link href="https://ldstephens.net/blog/reminders-menubar/" />
-    <updated>2025-04-01T14:46:51Z</updated>
-    <id>https://ldstephens.net/blog/reminders-menubar/</id>
-    <content type="html">&lt;p&gt;Hey friends, I’ve been bouncing between Things 3 and GoodTask with Reminders as the back-end for a few years. Lately, I&#39;ve been using Things. But yesterday, I was bored (that happens when you&#39;re retired), so I decided to brush off GoodTask and start using it again.&lt;/p&gt;
-&lt;p&gt;The only problem? I have GoodTask on my iPhone and iPad, but not on my MacBook. I&#39;ve tried the Mac trial, but I don&#39;t like it. Plus, it’s a $40 purchase that I don&#39;t want to make. I dislike the Reminders app even more. So I needed a way to access Reminders on my Mac.&lt;/p&gt;
-&lt;p&gt;Turns out, I can view and add Reminders using Raycast plugins, so I don&#39;t need a dedicated app on my MacBook. But during this process, I stumbled on a new menubar utility that&#39;s pretty cool: &lt;a href=&quot;https://github.com/DamascenoRafael/reminders-menubar&quot;&gt;Reminders MenuBar&lt;/a&gt;. It&#39;s easy to access with a keyboard shortcut, making it super convenient. If you use Reminders, you might want to check it out.&lt;/p&gt;
-&lt;p&gt;I still haven’t decided which way I’m going to go. For now, I running both options side by side.&lt;/p&gt;
 </content>
   </entry>
 </feed>
