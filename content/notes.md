@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 17, 2025, at 3:19:36 PM
+
+Every time I decide to write a blog post on my iPad I'm amazed at how much faster and accurate I type on the 11" iPad keyboard compared to the 13" MacBook Air keyboard. It's probably worth while doing more of my writing on my iPad.
+
+---
+
 April 15, 2025, at 8:56:56 AM
 
 I made a small tweak to the site CSS yesterday, added some styling to block quotes.
