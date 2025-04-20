@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 20, 2025, at 10:19:12 AM
+
+Added some jogging intervals to my daily walks, figured getting the heart rate up couldn’t hurt.
+
+---
+
 April 17, 2025, at 3:19:36 PM
 
 Every time I decide to write a blog post on my iPad I'm amazed at how much faster and accurate I type on the 11" iPad keyboard compared to the 13" MacBook Air keyboard. It's probably worth while doing more of my writing on my iPad.
