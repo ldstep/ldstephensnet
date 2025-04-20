@@ -1,5 +1,5 @@
 ---
-title: My ongoing 11ty learning curve
+title: My on going 11ty learning curve
 description:
 date: 2025-04-20T11:34:02Z
 tags:
