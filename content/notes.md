@@ -10,6 +10,14 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 21, 2025, at 9:56:41 AM
+
+> Remember, anything can be a blog post. Not everything can be YouTube video, a podcast, or pithy quote for social media.
+
+[CJ Chilvers](https://www.cjchilvers.com/blog/where-does-blogging-fit-in-your-newsletter-strategy/)
+
+---
+
 April 20, 2025, at 10:19:12 AM
 
 Added some jogging intervals to my daily walks, figured getting the heart rate up couldn’t hurt.
