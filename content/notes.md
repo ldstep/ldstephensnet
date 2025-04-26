@@ -10,6 +10,22 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+April 26, 2025, at 10:37:05 AM
+
+Script to run npm start in the terminal 
+
+-- Change this to your actual project path
+set projectPath to "/Users/your-username/Path/To/Your/Eleventy/Site"
+
+```
+tell application "Terminal"
+	activate
+	do script "cd " & quoted form of projectPath & " && npm start"
+end tell
+```
+
+---
+
 April 21, 2025, at 9:56:41 AM
 
 > Remember, anything can be a blog post. Not everything can be YouTube video, a podcast, or pithy quote for social media.
