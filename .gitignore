@@ -1,5 +1,8 @@
 # Build directory
 _site/
 
+# But allow _redirects file
+!_site/_redirects
+
 # macOS
 .DS_Store
