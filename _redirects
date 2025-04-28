@@ -1,0 +1,16 @@
+# Redirect old feed URLs to new feed URL
+
+# Redirect old feed URLs to new feed URL
+/feed              https://ldstephens.net/feed/feed.xml    301
+/feed.xml          https://ldstephens.net/feed/feed.xml    301
+
+# Redirect year-based blog posts to new blog URL structure
+/2016/:month/:day/:slug/     /blog/:slug/  301!
+/2017/:month/:day/:slug/     /blog/:slug/  301!
+/2018/:month/:day/:slug/     /blog/:slug/  301!
+/2019/:month/:day/:slug/     /blog/:slug/  301!
+/2020/:month/:day/:slug/     /blog/:slug/  301!
+/2021/:month/:day/:slug/     /blog/:slug/  301!
+/2022/:month/:day/:slug/     /blog/:slug/  301!
+/2023/:month/:day/:slug/     /blog/:slug/  301!
+/2024/:month/:day/:slug/     /blog/:slug/  301!
