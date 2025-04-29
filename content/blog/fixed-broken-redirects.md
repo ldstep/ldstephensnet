@@ -1,3 +1,9 @@
+---
+title: Fixed broken redirects
+description:
+date: 2025-04-29T08:31:32Z
+tags:
+---
 
 Yesterday, I discovered that redirects from the old site to the new weren’t working. In my ldstephens 11ty project, the old URLs like [ldstephens.net/2023/01/13/slug/](https://ldstephens.net/2023/01/13/slug/) weren’t redirecting to the new ones at [ldstephens.net/blog/slug/](https://ldstephens.net/blog/slug/). Turns out, the redirect code was wrong. Here’s what I had:
 
@@ -13,7 +19,7 @@ Yesterday, I discovered that redirects from the old site to the new weren’t wo
 /2024/*/:slug/     /blog/:slug/  301!
 ```
 
-After a little research, I found it’s better to handle redirects in netlify.toml instead of using a _redirects file. So I updated the setup, added the correct redirects to netlify.toml and deleted the _redirects file.
+After a little research, I found it’s better to handle redirects in netlify.toml instead of using a \_redirects file. So I updated the setup, added the correct redirects to netlify.toml and deleted the \_redirects file.
 
 Here’s the new code:
 
@@ -73,4 +79,4 @@ Here’s the new code:
   force = true
 ```
 
-Now all the old links are redirecting like they should. Another lesson learned. 
+Now all the old links are redirecting like they should. Another lesson learned.
