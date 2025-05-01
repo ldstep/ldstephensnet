@@ -10,9 +10,17 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 1, 2025, at 3:23:32 PM
+
+I occasionally switch from Alfred to Raycast. When I do, I also run Keyboard Maestro for automation. But when I'm using Alfred, most of my automation is handled through its workflows, so I don't need Keyboard Maestro.
+
+That's why I switch: I prefer Alfred over Raycast, but I like Keyboard Maestro better than Alfred for automation. Today I decided to stop switching. I'm sticking with Alfred and using Keyboard Maestro for automation. Each app gets to do what it does best.
+
+---
+
 April 26, 2025, at 10:37:05 AM
 
-Script to run npm start in the terminal 
+Script to run npm start in the terminal
 
 -- Change this to your actual project path
 set projectPath to "/Users/your-username/Path/To/Your/Eleventy/Site"
