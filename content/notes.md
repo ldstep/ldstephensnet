@@ -10,6 +10,17 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 4, 2025, at 5:15:44 PM
+
+Baby Chics
+
+Starting our third backyard flock:
+
+-  3 [Lavender Orpington](https://www.getstronganimals.com/post/all-about-the-lavender-orpington-breed?srsltid=AfmBOooDF8AmJVNNVzXMNyG7uk8DD0IyyK1ppVhoDaRCR20ZkWOoXpln)
+-  3 [Easter Eggers](https://www.getstronganimals.com/post/all-about-the-easter-egger-breed?srsltid=AfmBOoqgpYYoe5ReXf71VeDd4OWKu1lGmRu1DKYUSF8FazHK1e008xDG)
+
+---
+
 May 1, 2025, at 3:23:32 PM
 
 I occasionally switch from Alfred to Raycast. When I do, I also run Keyboard Maestro for automation. But when I'm using Alfred, most of my automation is handled through its workflows, so I don't need Keyboard Maestro.
