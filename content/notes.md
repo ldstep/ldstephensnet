@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 8, 2025, at 12:01:32 PM
+
+I'm running analytics on ldstephens again, testing both Plausible and Netlify. Netlify doesn't block bots, so its stats are wildly inflated making them basically useless. Plausible blocks known bots, but some ad blockers filter it out, slightly understating the numbers.
+
+---
+
 May 6, 2025, at 10:20:24 AM
 
 The runt of the baby chicks didn’t make it. She was struggling yesterday. We rerouted the heat lamp to keep everyone warmer. We worked with her, giving her vitamin boosts, helping her eat and drink, but she just couldn’t fight this morning. We’re sad! Amazing how quickly they become pets that you love. RIP, little one.
