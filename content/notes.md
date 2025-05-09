@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 9, 2025, at 2:01:14 PM
+
+I canceled my Netlify analytics subscription today and received a refund. I’m continuing the Plausible free trial.
+
+---
+
 May 8, 2025, at 12:01:32 PM
 
 I'm running analytics on ldstephens again, testing both Plausible and Netlify. Netlify doesn't block bots, so its stats are wildly inflated making them basically useless. Plausible blocks known bots, but some ad blockers filter it out, slightly understating the numbers.
