@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 10, 2025, at 1:43:04 PM
+
+Last night, two more baby chicks died, bringing the total to four in less than a week. This is the first time we’ve ever lost baby chicks. We got this batch from a different supplier than usual. I can’t help but wonder if it’s a quality issue. Still, we went back to the same place and picked up four more today. Hopefully, these do better. We would have gone to our regular supplier, but they don’t have the breed we want.
+
+---
+
 May 9, 2025, at 2:01:14 PM
 
 I canceled my Netlify analytics subscription today and received a refund. I’m continuing the Plausible free trial.
