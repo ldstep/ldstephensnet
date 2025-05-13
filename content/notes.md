@@ -10,6 +10,16 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 13, 2025, at 5:23:19 PM
+
+AI Is Like a Crappy Consultant
+
+> You should treat AI like an untrustworthy consultant.[…] AIs can find your syntax error 100x faster than you can.
+
+[Luke Kanies ](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
+
+---
+
 May 10, 2025, at 1:43:04 PM
 
 Last night, two more baby chicks died, bringing the total to four in less than a week. This is the first time we’ve ever lost baby chicks. We got this batch from a different supplier than usual. I can’t help but wonder if it’s a quality issue. Still, we went back to the same place and picked up four more today. Hopefully, these do better. We would have gone to our regular supplier, but they don’t have the breed we want.
