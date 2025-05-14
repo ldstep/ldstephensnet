@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 14, 2025, at 3:23:46 PM
+
+Every day, I dread the possibility of breaking something in this 11ty project and being unable to fix it. To mitigate this risk, I’ve created a shell script that backs up this project to an external drive multiple times a day.
+
+---
+
 May 13, 2025, at 5:23:19 PM
 
 AI Is Like a Crappy Consultant
