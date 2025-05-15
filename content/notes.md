@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 15, 2025, at 2:59:40 PM
+
+Since I started using Plausible Analytics, I’ve discovered that ldstephens still receives a fair amount of traffic from search, particularly Google Search. Therefore, I re-enabled the site on Google Search Console.
+
+---
+
 May 14, 2025, at 3:23:46 PM
 
 Every day, I dread the possibility of breaking something in this 11ty project and being unable to fix it. To mitigate this risk, I’ve created a shell script that backs up this project to an external drive multiple times a day.
