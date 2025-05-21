@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 21, 2025, at 3:38:33 PM
+
+I’m thinking about how I search for and open documents. I have to start a search query somewhere—whether that’s Alfred, Drafts, DEVONthink, Finder, or HoudahSpot—and then I still have to open the document. With that in mind, there’s no real advantage to keeping all my archived documents in Drafts, since I can just as easily search for and open them with any of the other tools in my preferred Markdown editor.
+
+---
+
 May 15, 2025, at 2:59:40 PM
 
 Since I started using Plausible Analytics, I’ve discovered that ldstephens still receives a fair amount of traffic from search, particularly Google Search. Therefore, I re-enabled the site on Google Search Console.
