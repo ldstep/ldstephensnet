@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 26, 2025, at 4:02:38 PM
+
+The other day I decided to keep blog post ideas, write blog posts, and journal in MarkEdit instead of Drafts. Today I'm back to using Drafts, but I'm no longer archiving anything there.
+
+---
+
 May 21, 2025, at 3:38:33 PM
 
 I’m thinking about how I search for and open documents. I have to start a search query somewhere—whether that’s Alfred, Drafts, DEVONthink, Finder, or HoudahSpot—and then I still have to open the document. With that in mind, there’s no real advantage to keeping all my archived documents in Drafts, since I can just as easily search for and open them with any of the other tools in my preferred Markdown editor.
