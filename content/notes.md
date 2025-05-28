@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+May 28, 2025, at 5:10:13 PM
+
+I’ve been experimenting with BBEdit today. With the assistance of ChatGPT, I developed some shell scripts and incorporated keyboard shortcuts to mimic the process of adding markdown syntax.
+
+---
+
 May 26, 2025, at 4:02:38 PM
 
 The other day I decided to keep blog post ideas, write blog posts, and journal in MarkEdit instead of Drafts. Today I'm back to using Drafts, but I'm no longer archiving anything there.
