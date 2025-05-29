@@ -12,7 +12,7 @@ Notes are shorter random posts, kinda like a microblog.
 
 May 28, 2025, at 5:10:13 PM
 
-I’ve been experimenting with BBEdit today. With the assistance of ChatGPT, I developed some shell scripts and incorporated keyboard shortcuts to mimic the process of adding markdown syntax.
+I’ve been tinkering with BBEdit today. With the assistance of ChatGPT, I developed some shell scripts and incorporated keyboard shortcuts to mimic the process of adding markdown syntax.
 
 ---
 
