@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 3, 2025, at 3:35:58 PM
+
+I’m seriously considering a base model M4 MacBook Pro but I’m going to wait until after WWDC before pulling the trigger.
+
+---
+
 June 3, 2025, at 3:14:49 PM
 
 I’ve been messing around with other apps out of boredom, thinking maybe they could replace what I already use. They can’t. I know what works! I should just stick with it and stop wasting time pretending otherwise.
