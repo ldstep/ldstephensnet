@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 3, 2025, at 3:14:49 PM
+
+I’ve been messing around with other apps out of boredom, thinking maybe they could replace what I already use. They can’t. I know what works! I should just stick with it and stop wasting time pretending otherwise.
+
+---
+
 May 28, 2025, at 5:10:13 PM
 
 I’ve been tinkering with BBEdit today. With the assistance of ChatGPT, I developed some shell scripts and incorporated keyboard shortcuts to mimic the process of adding markdown syntax.
