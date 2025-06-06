@@ -20,21 +20,26 @@ With help from ChatGPT, I’ve created filters to wrap selected words in Markdow
 
 Here’s a list of the scripts I’ve created:
 
-* md-safari-tabs-link.scpt
-* md-numbered-list.sh
-* md-list.sh
-* md-link.scpt
-* md-link-wrapper.sh
-* md-link-current-tab.scpt
-* md-link-clipboard-url.scpt
-* md-italic.sh
-* md-inline-code.sh
-* md-footnote.scpt
-* md-code-block.sh
-* md-bold.sh
-* md-blockquote.sh
+-  md-safari-tabs-link.scpt
+-  md-numbered-list.sh
+-  md-list.sh
+-  md-link.scpt
+-  md-link-wrapper.sh
+-  md-link-current-tab.scpt
+-  md-link-clipboard-url.scpt
+-  md-italic.sh
+-  md-inline-code.sh
+-  md-footnote.scpt
+-  md-code-block.sh
+-  md-bold.sh
+-  md-blockquote.sh
 
 Now I can hit ⌘K to wrap selected text in \[Selected Text](), ⌘B for bold, ⌘I for italic just like in the apps I used to rely on. Now it’s also in BBEdit.
 
+### Update - BBEdit Markdown Text Filters available on GitHub
 
+05 June 2025
 
+After I published the [post](https://ldstephens.net/blog/bbedit-markdown-text-filters/) yesterday, several people contacted me and wanted to know if I could make the scripts available for download. In light of that, I put them on GitHub. You can access them here:
+
+[https://github.com/ldstep/bbedit-md-text-filters/tree/main](https://github.com/ldstep/bbedit-md-text-filters/tree/main)
