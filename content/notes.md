@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 8, 2025, at 3:51:12 PM
+
+Four hours of yard work today and I’ve got all the power tools. Riding zero-turn mower, power push mower, string trimmer, blower, and it still takes four hours every week. Yeah, the yard’s big. Three acres maintained, ten total, plus a trail we keep cleared around the property.
+
+---
+
 June 3, 2025, at 3:35:58 PM
 
 I’m seriously considering a base model M4 MacBook Pro but I’m going to wait until after WWDC before pulling the trigger.
