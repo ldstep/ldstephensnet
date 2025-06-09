@@ -1,5 +1,5 @@
 ---
-title: On - Putting Your Eggs in One Basket
+title: "On: Putting Your Eggs in One Basket"
 description:
 date: 2025-05-24T14:25:35Z
 tags:
@@ -17,5 +17,3 @@ I’ve read a few posts like this lately from longtime Apple users thinking abou
 Where are you going to go? Google? Microsoft? Samsung? These companies aren’t any better. In some ways, they’re worse. From Tim Cook down, Apple’s execs have shown [they’re not worthy of our trust](https://ldstephens.net/blog/on-can-we-still-love-apple-should-we-ever-have/). As stewards of the company, they’ve revealed who they are. I love my Apple products. But the company? Not so much anymore.
 
 I’ve been on both sides of the fence. Still, for all its flaws, Apple’s products are superior. The integration, the hardware, and the privacy are unmatched. Sometimes the devil you know really is better than the one you don’t.
-
-

@@ -1,5 +1,5 @@
 ---
-title: On - Old software still has value
+title: "On: Old software still has value"
 description:
 date: 2025-05-21T09:54:30Z
 tags:

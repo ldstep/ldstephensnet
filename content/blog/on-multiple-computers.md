@@ -1,5 +1,5 @@
 ---
-title: On - Multiple Computers
+title: "On: Multiple Computers"
 description:
 date: 2025-05-20T09:28:14Z
 tags:
