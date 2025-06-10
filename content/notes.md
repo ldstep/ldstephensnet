@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 10, 2025 at 05:49:48 PM
+
+WWDC was yesterday. The changes coming to iPadOS 26 sound very interesting. So interesting that I may, for the time ever, install a developer beta so that I can experience what's new in iPadOS 26.
+
+---
+
 June 8, 2025, at 3:51:12 PM
 
 Four hours of yard work today and I’ve got all the power tools. Riding zero-turn mower, power push mower, string trimmer, blower, and it still takes four hours every week. Yeah, the yard’s big. Three acres maintained, ten total, plus a trail we keep cleared around the property.
