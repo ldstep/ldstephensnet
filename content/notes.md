@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 15, 2025 at 02:32:24 PM
+
+I’m contemplating living on my iPad throughout the iPadOS 26 beta period. Once the public release is available, I’ll make a decision about how the iPad will integrate into my computing lifestyle.
+
+---
+
 June 11, 2025, at 3:28:23 PM
 
 I sorta came up with a way to see the activity of RSS readers by setting up a Netlify function listing user agents. What I'm looking for are the Reeder and NetNewsWire user agents. Got the idea from a Kev Quirk post. We'll see if it works?
