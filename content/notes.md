@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 20, 2025, at 2:17:26 PM
+
+This morning, I encountered a few issues with the iPadOS 26 beta. Consequently, I had to switch to my MacBook to complete the project I was working on. I don’t blame the iPad; it’s just a beta.
+
+---
+
 June 15, 2025 at 02:32:24 PM
 
 I’m contemplating living on my iPad throughout the iPadOS 26 beta period. Once the public release is available, I’ll make a decision about how the iPad will integrate into my computing lifestyle.
