@@ -1,21 +1,22 @@
 ---
 title: How to set up and view an Apple Card Savings account
 authors:
-  - name: ldstephens
-    url: https://gravatar.com/ldstephensblog
-    avatarUrl: >-
-      https://0.gravatar.com/avatar/0219e8318f1f4229ebe26084e7253765017f43ca0c631be37dc6d0b8ad6e40a4?s=96&d=identicon&r=G
+   - name: ldstephens
+     url: https://gravatar.com/ldstephensblog
+     avatarUrl: >-
+        https://0.gravatar.com/avatar/0219e8318f1f4229ebe26084e7253765017f43ca0c631be37dc6d0b8ad6e40a4?s=96&d=identicon&r=G
 date: 2023-06-04T14:49:15.000Z
 metadata:
-  categories:
-    - How To
-    - iPhone
-  tags: []
-  uuid: 11ty/import::wordpressapi-hosted::https://ldstephens.net/?p=4374
-  type: wordpressapi-hosted
-  url: >-
-    http://ldstephens.net/2023/06/04/how-to-set-up-and-view-an-apple-card-savings-account/
+   categories:
+      - How To
+      - iPhone
+   tags: []
+   uuid: 11ty/import::wordpressapi-hosted::https://ldstephens.net/?p=4374
+   type: wordpressapi-hosted
+   url: >-
+      http://ldstephens.net/2023/06/04/how-to-set-up-and-view-an-apple-card-savings-account/
 ---
+
 I recently made the decision to open an [Apple Card new high-yield Savings account](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/). Not only does it allow me to earn interest on my Apple Card Daily Cash, it also provides a seamless way to transfer money between my accounts. Setting up and using the Apple Savings account is incredibly easy user-friendly.
 
 Here’s how to get started:
