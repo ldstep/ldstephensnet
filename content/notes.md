@@ -10,7 +10,7 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
-June 23, 2025
+June 23, 2025, at 2:49:15 PM
 
 iPadOS 26 Beta 2 was released this afternoon, so I installed it. For how I use my iPad, I don't see much of a change.
 
