@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 23, 2025
+
+iPadOS 26 Beta 2 was released this afternoon, so I installed it. For how I use my iPad, I don't see much of a change.
+
+---
+
 June 23, 2025, at 10:44:04 AM
 
 My living on my iPad experiment is officially over. iPadOS 26 is still missing things that I depend on that are Mac-only. I'll continue to use it, which is for consumption and occasional writing.
