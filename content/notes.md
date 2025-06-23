@@ -10,6 +10,12 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 23, 2025, at 10:44:04 AM
+
+My living on my iPad experiment is officially over. iPadOS 26 is still missing things that I depend on that are Mac-only. I'll continue to use it, which is for consumption and occasional writing.
+
+---
+
 June 20, 2025, at 2:17:26 PM
 
 This morning, I encountered a few issues with the iPadOS 26 beta. Consequently, I had to switch to my MacBook to complete the project I was working on. I don’t blame the iPad; it’s just a beta.
