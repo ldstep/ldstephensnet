@@ -19,6 +19,6 @@ New posts are written in Markdown in [Drafts](https://getdrafts.com/) and adde
 
 <a href="/uses/">/ Uses</a>
 
-<a href="/notes/">/ Notes</a>
+<a href="https://notes.ldstephens.net">/ Notes</a>
 
 <a href="/search/">/ Search</a>
