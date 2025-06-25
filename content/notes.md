@@ -10,6 +10,28 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+June 25, 2025, at 1:04:44 PM
+
+**Default Activity**
+
+[axxuy](https://axxuy.xyz/blog/posts/2025/defaultactivity/)
+
+> You can overdo blogging, of course. You can overdo anything. But the way I see it, if you overdo anything, it’s better for it to be something that involves thinking and making something, rather than just passively consuming. So I like this better.
+
+---
+
+June 25, 2025, at 1:03:57 PM
+
+**$10 Off at Fandango**
+
+[Michael J. Tsai](https://mjtsai.com/blog/2025/06/24/10-off-at-fandango/)
+
+> And non-notification ads are mixed in everywhere now: the services apps, System Settings, etc. (I also got the _F1_ ad as a banner _[within](https://wandering.shop/@jwisser/114738753169537565)_ the Wallet app.)[…] But this has been going on for years with no way to opt out. We’re long past the point where key system apps have become [nagware](https://en.wikipedia.org/wiki/Shareware#Nagware).
+
+I also got the F1 ad as a banner within the Wallet app. Enshittification!
+
+---
+
 June 23, 2025, at 2:49:15 PM
 
 iPadOS 26 Beta 2 was released this afternoon, so I installed it. For how I use my iPad, I don't see much of a change.
