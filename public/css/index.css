@@ -279,10 +279,6 @@ header {
    margin-right: 1em;
 }
 
-footer {
-   font-size: 14px; /* Set to your desired size */
-}
-
 blockquote {
    font-style: italic;
    border-left: 4px solid var(--color-gray-20);
