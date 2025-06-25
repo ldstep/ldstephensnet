@@ -285,19 +285,6 @@ blockquote {
    margin-left: 0;
    padding-left: 1em;
 }
-.blog-buttons {
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
-   gap: 12px;
-   margin-top: 1.5rem;
-}
-
-.blog-buttons a {
-   display: inline-block;
-}
-
-.blog-buttons img {
-   height: 28px; /* original size */
-   vertical-align: middle;
+footer {
+   font-size: 15px;
 }
