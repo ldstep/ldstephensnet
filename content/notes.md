@@ -6,7 +6,7 @@ permalink: /notes/
 
 # Notes
 
-Notes are shorter random posts, kinda like a microblog.
+_Notes are shorter random posts, kinda like a microblog._
 
 ---
 
