@@ -10,6 +10,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+June 26, 2025, at 11:59:10 AM
+
+Update: The new version of the Notes page wasn’t functioning as intended, so I’ve reverted to the old version, which unfortunately lacks an RSS feed. I apologize for any inconvenience caused.
+
+---
+
 June 25, 2025, at 1:04:44 PM
 
 **Default Activity**
