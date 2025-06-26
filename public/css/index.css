@@ -13,7 +13,7 @@
    --color-gray-50: #c0c0c0;
    --color-gray-90: #333;
 
-   --background-color: #fff9e6;
+   --background-color: #ffffff;
 
    --text-color: var(--color-gray-90);
    --text-color-link: #082840;
@@ -25,16 +25,16 @@
 
 @media (prefers-color-scheme: dark) {
    :root {
-      --color-gray-20: #e0e0e0;
-      --color-gray-50: #c0c0c0;
-      --color-gray-90: #dad8d8;
+      --color-gray-20: #ffffff;
+      --color-gray-50: #ffffff;
+      --color-gray-90: #ffffff;
 
-      /* --text-color is assigned to --color-gray-_ above */
-      --text-color-link: #1493fb;
-      --text-color-link-active: #6969f7;
-      --text-color-link-visited: #a6a6f8;
+      /* White links for dark mode */
+      --text-color-link: #ffffff;
+      --text-color-link-active: #ffffff;
+      --text-color-link-visited: #ffffff;
 
-      --background-color: #15202b;
+      --background-color: #000000;
    }
 }
 
