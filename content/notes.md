@@ -10,6 +10,22 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+June 29, 2025, at 10:16:26 AM
+
+> While the iPad now gets much closer to the usability of a Mac, the Mac still wins out for a number of reasons:
+>
+> -  More powerful apps
+> -  More usable on my lap (the iPad with Magic Keyboard feels less balanced)
+> -  All the utilities on which I’ve come to rely
+> -  Overall comfort and familiarity with the UI
+> -  Lighter than the 12.9–inch iPad with Magic Keyboard
+
+[Ben Lovejoy](https://9to5mac.com/2025/06/27/macbook-air-diary-ipados-improvements-havent-tempted-me-back/)
+
+This is where I’m ending up.
+
+---
+
 June 27, 2025, at 5:11:13 PM
 
 After the heat wave, a cool, cloudy day is more than welcome. 🌤 Current Weather: 70°F and Cloudy. Spent the better part of the day doing yard work.
