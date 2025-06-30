@@ -10,6 +10,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+June 30, 2025, at 9:37:26 AM
+
+This morning I'm playing around with Stage Manager in iPadOS 26. I'm setting up a writing stage with Drafts, Yoink, ChatGPT, and Safari.
+
+When I'm on my iPad I'll write in Drafts, use ChatGPT to proofread, do my research in Safari, and keep track of clipboard history with Yoink.
+
+---
+
 June 29, 2025, at 10:16:26 AM
 
 > While the iPad now gets much closer to the usability of a Mac, the Mac still wins out for a number of reasons:
