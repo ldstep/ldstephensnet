@@ -10,6 +10,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 3, 2025, at 8:48:17 AM
+
+Since I’m not renewing Plausible Analytics for ldstephens, I was considering migrating ldstephens from Netlify to Vercel for Vercel’s free analytics yesterday. However, I’ve decided to leave well enough alone today.
+
+---
+
 June 30, 2025, at 9:37:26 AM
 
 This morning I'm playing around with Stage Manager in iPadOS 26. I'm setting up a writing stage with Drafts, Yoink, ChatGPT, and Safari.
