@@ -10,6 +10,16 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 9, 2025, at 10:52:17 AM
+
+> I had a few chores and appointments today, but I still found time to think about how I might do things differently. Then I did some things differently. Then I went back to how I did things before.
+
+[Jack Baty](https://baty.net/posts/2025/07/tuesday-july-8-2025/)
+
+That sounds like how I might do things.
+
+---
+
 July 3, 2025, at 8:48:17 AM
 
 Since I’m not renewing Plausible Analytics for ldstephens, I was considering migrating ldstephens from Netlify to Vercel for Vercel’s free analytics yesterday. However, I’ve decided to leave well enough alone today.
