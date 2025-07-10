@@ -10,6 +10,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 10, 2025, at 3:20:19 PM
+
+Feeling bored the past few days, I’ve been tinkering with Sublime Text. Ultimately, it’s not something I plan to use.
+
+---
+
 July 9, 2025, at 10:52:17 AM
 
 > I had a few chores and appointments today, but I still found time to think about how I might do things differently. Then I did some things differently. Then I went back to how I did things before.
