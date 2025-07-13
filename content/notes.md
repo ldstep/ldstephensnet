@@ -10,6 +10,16 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 13, 2025, at 3:24:07 PM
+
+> For personal journaling, I’ve used Org-journal in Emacs for years. However, there’s nothing like Day One for dealing with photos, geolocation, and resurfacing past entries with the “On This Day” feature. Plus, mobile. So I’ve continued using Org-journal, but at the end of each month, I import the entries into Day One.
+
+[Jack Baty](https://baty.net/posts/2025/07/duplication/)
+
+I do something similar, but instead of using Emacs, I use Drafts. Drafts has a nice [Monthly Journal Action](https://forums.getdrafts.com/t/tip-journaling-in-drafts/5803). Throughout the month, I write journal entries in Drafts, and then at the end of the month, I have an action that sends the Monthly Journal to Day One.
+
+---
+
 July 10, 2025, at 3:20:19 PM
 
 Feeling bored the past few days, I’ve been tinkering with Sublime Text. Ultimately, it’s not something I plan to use.
