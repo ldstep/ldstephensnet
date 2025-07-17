@@ -22,3 +22,5 @@ New posts are written in Markdown in [Drafts](https://getdrafts.com/) and adde
 <a href="/notes/">/ Notes</a>
 
 <a href="/search/">/ Search</a>
+
+<a href="https://weblog.ldstephens.net">/ Weblog</a>
