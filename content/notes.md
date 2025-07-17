@@ -10,6 +10,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 17, 2025, at 2:15:19 PM
+
+I changed how I’m using weblog.ldstephens.net. Instead of a separate standalone site, I have integrated it with ldstephens.net as a slash page.
+
+---
+
 July 13, 2025, at 3:24:07 PM
 
 > For personal journaling, I’ve used Org-journal in Emacs for years. However, there’s nothing like Day One for dealing with photos, geolocation, and resurfacing past entries with the “On This Day” feature. Plus, mobile. So I’ve continued using Org-journal, but at the end of each month, I import the entries into Day One.
