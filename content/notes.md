@@ -13,6 +13,18 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 21, 2025, at 7:05:02 PM
+
+I was fiddling with my blogs today and made a few updates.
+
+On ldstephens, I moved the slash pages out of the About page and into the main navigation. I also took out the link to the weblog.
+
+Over on weblog.ldstephens, I rebuilt the site using modified version of the 11ty base blog and added a background color. Now both blogs have the same layout.
+
+Still not sure if I'll link to weblog.ldstephens from ldstephens. There's already a link going the other way in the nav.
+
+---
+
 July 17, 2025, at 2:15:19 PM
 
 I changed how I’m using weblog.ldstephens.net. Instead of a separate standalone site, I have integrated it with ldstephens.net as a slash page.
