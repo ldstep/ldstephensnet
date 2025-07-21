@@ -2,6 +2,9 @@
 title: Notes
 layout: layouts/base.njk
 permalink: /notes/
+eleventyNavigation:
+   key: "Notes"
+   order: 4
 ---
 
 # Notes
