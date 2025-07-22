@@ -1,5 +1,5 @@
 ---
-title: “Re: I Don't See the Point of Smartwatches”
+title: "Re: I Don't See the Point of Smartwatches"
 description:
 date: 2025-07-22T10:14:11Z
 tags:
@@ -14,7 +14,7 @@ layout: layouts/post.njk
 I bet Kev got a lot of responses to this post with differing opinions.
 As he [replied](https://kevquirk.com/notes/20250722-0651) in a post this morning:
 
-> Lots of butthurt people responding to my _wrist phone_ post (lots of good dialogue too BTW). Remember folks, opinions are like arseholes. Everyone has one. 
+> Lots of butthurt people responding to my _wrist phone_ post (lots of good dialogue too BTW). Remember folks, opinions are like arseholes. Everyone has one.
 
 I get where Kev's coming from. He's a watch collector, so he's viewing this through a different lens than most people.
 
