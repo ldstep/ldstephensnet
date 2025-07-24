@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 24, 2025, at 3:50:43 PM
+
+I installed iA Writer on my MacBook again. We’ll see how long it lasts?
+
+---
+
 July 24, 2025, at 8:36:43 AM
 
 I’m always changing my mind about what writing tool I want to use.
