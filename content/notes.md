@@ -13,6 +13,20 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 24, 2025, at 8:36:43 AM
+
+I’m always changing my mind about what writing tool I want to use.
+
+MarkEdit is clean, file-based, and built for Markdown—great for blog posts and journal entries. It keeps me focused and fits the kind of consistent, reliable workflow I’m aiming for.
+
+Drafts has been part of my routine for years. It’s perfect for capturing text and sending it wherever I need, even if it’s not really built for longform writing.
+
+So for now, I’ll keep using Drafts for capture and quick notes, then move writing to MarkEdit. Since it’s Mac-only, I’ll use iA Writer or 1Writer on my iPhone and iPad.
+
+At least, that’s the plan—until I change my mind again.
+
+---
+
 July 21, 2025, at 7:05:02 PM
 
 I was fiddling with my blogs today and made a few updates.
