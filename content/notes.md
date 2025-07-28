@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 28, 2025, at 11:16:42 AM
+
+Done with iA Writer again. Not to self, stop trying to like!
+
+---
+
 July 28, 2025, at 9:23:17 AM
 
 One of my complaints with iPadOS 26 is that Split View and Slide Over are gone from Full Screen App.  
