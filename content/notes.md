@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 28, 2025, at 9:23:17 AM
+
+One of my complaints with iPadOS 26 is that Split View and Slide Over are gone from Full Screen App.  
+
+---
+
 July 24, 2025, at 3:50:43 PM
 
 I installed iA Writer on my MacBook again. We’ll see how long it lasts?
