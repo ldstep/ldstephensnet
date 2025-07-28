@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 28, 2025, at 2:52:04 PM
+
+MarkEdit received an update today, which referenced some additional themes. I experimented with a few, but it took me some time to figure out how to use them. Interestingly, adding one of them didn’t add it to the list of themes in MarkEdit Settings. Instead, it’s an extension that allows for editor customization and overrides the built-in themes.
+
+---
+
 July 28, 2025, at 11:16:42 AM
 
 Done with iA Writer again. Note to self, stop trying to like it!
