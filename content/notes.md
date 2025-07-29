@@ -17,7 +17,7 @@ July 29, 2025, at 12:03:56 PM
 
 I wish I had kept a record of all the books I’ve read. Now that I’m reading again, I can’t recall which books from my favorite authors I’ve read and haven’t read.
 
-I read samples of books before buying a book, and quite frequently, I find myself thinking I’ve read that before.
+I read samples of books before buying, and quite frequently, I find myself thinking I’ve read that before.
 
 ---
 
