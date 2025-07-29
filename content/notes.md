@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 29, 2025, at 12:03:56 PM
+
+I wish I had kept a record of all the books I’ve read. Now that I’m reading again, I can’t recall which books from my favorite authors I’ve read and haven’t read.
+
+I read samples of books before buying a book, and quite frequently, I find myself thinking I’ve read that before.
+
+---
+
 July 28, 2025, at 2:52:04 PM
 
 MarkEdit received an update today, which referenced some additional themes. I experimented with a few, but it took me some time to figure out how to use them. Interestingly, adding one of them didn’t add it to the list of themes in MarkEdit Settings. Instead, it’s an extension that allows for editor customization and overrides the built-in themes.
@@ -27,7 +35,7 @@ Done with iA Writer again. Note to self, stop trying to like it!
 
 July 28, 2025, at 9:23:17 AM
 
-One of my complaints with iPadOS 26 is that Split View and Slide Over are gone from Full Screen App.  
+One of my complaints with iPadOS 26 is that Split View and Slide Over are gone from Full Screen App.
 
 ---
 
