@@ -13,6 +13,16 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 30, 2025, at 9:40:25 AM
+
+> Today the Apple TV app kicked off the first of a planned 14-day ‘Summer Deal of the Day’ promo, offering steep discounts on featured titles.
+
+Well isn't that just dandy! More fucking advertising. 
+
+[Source](https://9to5mac.com/2025/07/29/apple-tv-app-launches-summer-deal-of-the-day-with-daily-discounts/)
+
+---
+
 July 30, 2025, at 9:34:33 AM
 
 To simplify my choice of text editors, I have removed iA Writer and MarkEdit from my MacBook. I'll use Drafts and BBEdit.
