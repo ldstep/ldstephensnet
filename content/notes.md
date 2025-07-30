@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+July 30, 2025, at 9:34:33 AM
+
+To simplify my choice of text editors, I have removed iA Writer and MarkEdit from my MacBook. I'll use Drafts and BBEdit.
+
+---
+
 July 29, 2025, at 12:03:56 PM
 
 I wish I had kept a record of all the books I’ve read. Now that I’m reading again, I can’t recall which books from my favorite authors I’ve read and haven’t read.
