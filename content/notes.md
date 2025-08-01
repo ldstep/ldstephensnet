@@ -13,11 +13,17 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 1, 2025, at 4:22:32 PM
+
+I received my M4 MacBook Pro today. I set it up using Migration Assistant. I had to grant several permissions, log in to a few items, and add some app licenses. Apart from these minor issues, everything seems to be working fine. However, I’ve encountered a problem with the Hidden Bar and the notch that hides menu bar items.
+
+---
+
 July 30, 2025, at 9:40:25 AM
 
 > Today the Apple TV app kicked off the first of a planned 14-day ‘Summer Deal of the Day’ promo, offering steep discounts on featured titles.
 
-Well isn't that just dandy! More fucking advertising. 
+Well isn't that just dandy! More fucking advertising.
 
 [Source](https://9to5mac.com/2025/07/29/apple-tv-app-launches-summer-deal-of-the-day-with-daily-discounts/)
 
