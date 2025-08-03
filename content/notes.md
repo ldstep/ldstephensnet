@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 3, 2025, at 9:43:05 AM
+
+> The incessant hand-wringing over the "dangers" of LLM use has become so tedious. People who have no idea what they're talking about are pasting together bits from other social media rants and telling us WHAT WILL DEFINITELY HAPPEN if we continue to use LLMs. **None of us have any idea what will happen**, so please stop pretending that you do.
+
+[Jack Baty](https://daily.baty.net/posts/2025/08/03/We-don-t-know-what-probl.html)
+
+---
+
 August 1, 2025, at 4:22:32 PM
 
 I received my M4 MacBook Pro today. I set it up using Migration Assistant. I had to grant several permissions, log in to a few items, and add some app licenses. Apart from these minor issues, everything seems to be working fine. However, I’ve encountered a problem with the Hidden Bar and the notch that hides menu bar items.
