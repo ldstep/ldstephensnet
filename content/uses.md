@@ -9,9 +9,9 @@ eleventyNavigation:
 
 # Uses
 
-Updated: March 24, 2025
+Updated: August 3, 2025
 
-**Desktop: M1 13” Macbook Air**
+**Desktop: M4 14” Macbook Pro **
 
 _Peripherals:_
 
