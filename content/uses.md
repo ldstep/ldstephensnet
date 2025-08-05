@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Updated: August 3, 2025
 
-**Desktop: M4 14” Macbook Pro **
+**Desktop: M4 14” Macbook Pro**
 
 _Peripherals:_
 
