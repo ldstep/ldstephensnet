@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 6, 2025, at 2:12:25 PM
+
+It looks like the latest iPadOS 26 beta fixed an issue I was having with Drafts. 
+
+---
+
 August 4, 2025, at 8:41:27 AM
 
 I have a lot of files in iCloud that could just as easily live on my local drive, especially now that I have a whopping 512 GB SSD on my M4 MacBook Pro. If I were to move those files to local storage, I’d need to make a few adjustments to some Hazel rules, Drafts actions, and Devonthink indexing. Just thinking out loud.
