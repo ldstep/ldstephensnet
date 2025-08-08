@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 8, 2025, at 1:20:22 PM
+
+> Choosing human-readable file formats is an act of technological sovereignty. It's about maintaining control over your data, ensuring long-term accessibility, and building systems that remain comprehensible and maintainable over time. The slight overhead of human readability pays dividends in flexibility, durability, and peace of mind. These formats also represent a philosophy: that technology should serve human understanding rather than obscure it. In choosing transparency over convenience, we build more resilient, more maintainable, and ultimately more trustworthy systems.
+
+[Adële's blog](https://adele.pages.casa/md/blog/why-I-prefer-human-readable-file-formats.md)
+
+---
+
 August 6, 2025, at 2:12:25 PM
 
 It looks like the latest iPadOS 26 beta fixed an issue I was having with Drafts. 
