@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 9, 2025, at 11:43:23 AM
+
+I packed up my M1 MacBook Air for shipping to OWC-SellYourMac. I’ve used them before, and they’ve always offered a good price and a quick turnaround time for getting my check. 
+
+---
+
 August 8, 2025, at 1:20:22 PM
 
 > Choosing human-readable file formats is an act of technological sovereignty. It's about maintaining control over your data, ensuring long-term accessibility, and building systems that remain comprehensible and maintainable over time. The slight overhead of human readability pays dividends in flexibility, durability, and peace of mind. These formats also represent a philosophy: that technology should serve human understanding rather than obscure it. In choosing transparency over convenience, we build more resilient, more maintainable, and ultimately more trustworthy systems.
