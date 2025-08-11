@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 11, 2025, at 2:34:12 PM
+
+iPadOS 26 beta 6 is out today, and I'm downloading it as I write this. With this update, I'm getting off the beta train and waiting for the public release.
+
+So far, iPadOS 26 hasn't changed the way I use my iPad. Most of the time, it sits in a drawer, unused--except for the rare occasions when I use it as a second TV.
+
+---
+
 August 9, 2025, at 11:43:23 AM
 
 I packed up my M1 MacBook Air for shipping to OWC-SellYourMac. I’ve used them before, and they’ve always offered a good price and a quick turnaround time for getting my check. 
