@@ -7,9 +7,7 @@ const eleventyNavigation = {
 
 # About
 
-Hi, I'm ldstephens. Welcome! I've been writing here since 2016 about Apple gadgets, apps, tips, tricks, and how I use my devices day to day.
-
-I also write beyond tech, personal stories, random thoughts, and the occasional rant. Since not everyone who visits this site wants that mix, I post those pieces separately on my [Weblog](https://weblog.ldstephens.net).
+Hey there! I'm ldstephens, and welcome to my little corner of the internet. I've been writing here since 2016 about Apple gadgets, apps, tips, and tricks, as well as how I use my devices on a day-to-day basis. This is where I also share my thoughts and opinions on life, technology, current events, the occasional rant, blogging, and other topics that come to mind.
 
 **Colophon**
 
