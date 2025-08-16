@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 16, 2025, at 10:08:13 AM
+
+Analytics can be tricky. The numbers look low, but they don't tell the whole story. They only count people who click through to the site, not the ones quietly following along in RSS. So the stats are really just a snapshot of the drive-bys, not the regular readers.
+
+---
+
 August 11, 2025, at 2:34:12 PM
 
 iPadOS 26 beta 6 is out today, and I'm downloading it as I write this. With this update, I'm getting off the beta train and waiting for the public release.
