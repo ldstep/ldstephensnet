@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 18, 2025, at 3:54:09 PM
+
+I listened to Steph Ango on the Decoder podcast today and realized I haven't experimented with Obsidian in a while. Perhaps it’s time to revisit it, so I downloaded the app. Then I remembered Manu's post, “Sticking with it.” As quickly as I installed it, I deleted it. I already have a solution that works, so I resisted the temptation to experiment 👏.
+
+---
+
 August 16, 2025, at 10:08:13 AM
 
 Analytics can be tricky. The numbers look low, but they don't tell the whole story. They only count people who click through to the site, not the ones quietly following along in RSS. So the stats are really just a snapshot of the drive-bys, not the regular readers.
