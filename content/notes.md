@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 20, 2025, at 11:42:13 AM
+
+I installed Raycast yesterday and now have it customized to the way I like it. It has now replaced Alfred.
+
+---
+
 August 18, 2025, at 3:54:09 PM
 
 I listened to Steph Ango on the Decoder podcast today and realized I haven't experimented with Obsidian in a while. Perhaps it’s time to revisit it, so I downloaded the app. Then I remembered Manu's post, “Sticking with it.” As quickly as I installed it, I deleted it. I already have a solution that works, so I resisted the temptation to experiment 👏.
