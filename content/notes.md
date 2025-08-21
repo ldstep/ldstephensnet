@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 21, 2025, at 2:39:43 PM
+
+I made a few minor changes to the footer of my sites today. I’ve cross-linked ldstephens.net and weblog.ldstephens.net.
+
+---
+
 August 20, 2025, at 11:42:13 AM
 
 I installed Raycast yesterday and now have it customized to the way I like it. It has now replaced Alfred.
