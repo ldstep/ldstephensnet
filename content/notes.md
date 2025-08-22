@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 22, 2025, at 10:50:30 AM
+
+I switched back to Alfred this morning. I missed Alfred’s Universal Actions, among other things. Raycast has nothing like that that I’m aware of. Let me know if I’m wrong about that.
+
+---
+
 August 21, 2025, at 2:39:43 PM
 
 I made a few minor changes to the footer of my sites today. I’ve cross-linked ldstephens.net and weblog.ldstephens.net.
