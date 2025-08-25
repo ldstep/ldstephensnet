@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 25, 2025, at 5:30:07 PM
+
+I’ve been using the uBlock Origin Lite blocker extension on my iPhone, but I switched back to Wipr today for a specific reason. Wipr blocks ads and trackers in the in-app browser (SFSafariViewController), while uBlock doesn’t.   
+
+---
+
 August 22, 2025, at 10:50:30 AM
 
 I switched back to Alfred this morning. I missed Alfred’s Universal Actions, among other things. Raycast has nothing like that that I’m aware of. Let me know if I’m wrong about that.
