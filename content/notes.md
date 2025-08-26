@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 26, 2025, at 2:31:37 PM
+
+This may have been mistake, but I renewed my annual subscription to [Bear.app](https://bear.app). I’m experimenting with using it in place of Drafts. I like the cleaner simpler Bear UI.
+
+---
+
 August 25, 2025, at 5:30:07 PM
 
 I’ve been using the uBlock Origin Lite blocker extension on my iPhone, but I switched back to Wipr today for a specific reason. Wipr blocks ads and trackers in the in-app browser (SFSafariViewController), while uBlock doesn’t.   
