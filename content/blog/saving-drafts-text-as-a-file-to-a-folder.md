@@ -14,5 +14,3 @@ That’s where [Bookmarks](https://docs.getdrafts.com/docs/settings/bookmarks) c
 For example, I keep a folder in iCloud Drive called *Ideas*. Anytime I jot something down in Drafts that I want to save there, I just run my action and Drafts puts a markdown file right into that folder. Quick, clean, and no copy-paste needed.  
 
 If you haven’t tried bookmarks, they’re worth a look. They open up a lot of possibilities for using Drafts with folders and files.
-
-<img src="https://tinylytics.app/pixel/t7gxsHgmxhCWDZB8ssoN.gif?path=/saving-drafts-text-as-a-file-to-a-folder" alt="" style="width:1px;height:1px;border:0;" />
