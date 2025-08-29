@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 29, 2025, at 11:34:58 AM
+
+The other day, I switched back to Wipr on my iPhone and iPad. Today, I switched back to Wipr on my MacBook Pro. In my experience, Wipr just performs better than uBlock Origin Lite. 
+
+---
+
 August 26, 2025, at 2:31:37 PM
 
 This may have been mistake, but I renewed my annual subscription to [Bear.app](https://bear.app). I’m experimenting with using it in place of Drafts. I like the cleaner simpler Bear UI.
