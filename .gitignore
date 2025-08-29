@@ -1,5 +1,8 @@
 # Build directory
 _site/
 
+# Eleventy cache
+.cache/
+
 # macOS
 .DS_Store
