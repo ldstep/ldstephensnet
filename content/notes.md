@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+August 31, 2025, at 3:57:32 PM
+
+I’ve been thinking about my iPad this morning and how I can make better use of it. I have the Apple Pencil and GoodNotes, but I don’t use it much unless I have a specific purpose, which I don’t. Consumption, that’s it.
+
+Shit, I’m so much faster and more accurate typing on the iPad Magic Keyboard. And Drafts on the iPad is beautiful.
+
+---
+
 August 29, 2025, at 11:34:58 AM
 
 The other day, I switched back to Wipr on my iPhone and iPad. Today, I switched back to Wipr on my MacBook Pro. In my experience, Wipr just performs better than uBlock Origin Lite. 
