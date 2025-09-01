@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+September 1, 2025, at 2:05:24 PM
+
+You know what sucks about getting old? Shit stops working, and it needs to get fixed.
+
+---
+
 August 31, 2025, at 3:57:32 PM
 
 I’ve been thinking about my iPad this morning and how I can make better use of it. I have the Apple Pencil and GoodNotes, but I don’t use it much unless I have a specific purpose, which I don’t. Consumption, that’s it.
