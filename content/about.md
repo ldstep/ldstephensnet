@@ -7,7 +7,7 @@ const eleventyNavigation = {
 
 # About
 
-Hey there! I'm ldstephens, and welcome to my little corner of the internet. I've been writing here since 2016 about Apple gadgets, apps, tips, and tricks, as well as how I use my devices on a day-to-day basis. This is where I also share my thoughts and opinions on life, technology, current events, the occasional rant, blogging, and other topics that come to mind.
+Hey there! I'm ldstephens, and welcome to my little corner of the internet. Since 2016, I've been writing here about Apple gadgets, apps, tips, and how I use my devices day to day. You'll also find stories, random thoughts, the occasional rant, quotes that stick with me, and links that I find worth sharing.
 
 I recently got featured on Manu Moreale’s [People and Blogs](https://manuelmoreale.com/pb-loren-stephens) if you’re interested in learning more about me.
 
