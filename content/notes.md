@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+September 2, 2025, at 3:10:23 PM
+
+I developed a Quick Action in Goodlinks that enables me to send highlights directly to an iA Writer inbox folder. This enhancement enhances my overall experience with iA Writer. 
+
+`ia-writer://x-callback-url/new?text=[highlights]&path=/Inbox/`
+
+---
+
 September 1, 2025, at 2:05:24 PM
 
 You know what sucks about getting old? Shit stops working, and it needs to get fixed.
