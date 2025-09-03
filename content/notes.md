@@ -13,6 +13,14 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+September 3, 2025, at 9:06:05 AM
+
+> [Salesforce](https://www.cnbc.com/quotes/CRM/) has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount.[…] “It’s just a growth at all costs mindset,” Zitron said. “The only thing that’s important is growth, even if it ruins people’s lives. Even if it makes the company worse and provides an inferior product.”
+
+[CNBC](https://www.cnbc.com/2025/09/02/salesforce-ceo-confirms-4000-layoffs-because-i-need-less-heads-with-ai.html)
+
+---
+
 September 2, 2025, at 3:10:23 PM
 
 I developed a Quick Action in Goodlinks that enables me to send highlights directly to an iA Writer inbox folder. This enhancement enhances my overall experience with iA Writer. 
