@@ -23,7 +23,7 @@ September 3, 2025, at 9:06:05 AM
 
 September 2, 2025, at 3:10:23 PM
 
-I developed a Quick Action in Goodlinks that enables me to send highlights directly to an iA Writer inbox folder. This enhancement enhances my overall experience with iA Writer. 
+I developed a Quick Action in Goodlinks that enables me to send highlights directly to an iA Writer inbox folder. 
 
 `ia-writer://x-callback-url/new?text=[highlights]&path=/Inbox/`
 
