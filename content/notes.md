@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+September 5, 2025, at 2:13:34 PM
+
+Got my COVID and flu shots today—in spite of RFK Jr. Feeling great and fully upgraded with the latest tracking chips. 💉📡
+
+---
+
 September 5, 2025, at 9:51:26 AM
 
 There are only two of us, and shit our grocery bill is almost $300 a week shopping at Walmart. I can’t imagine what a family of four or five would spend. 🫣 
