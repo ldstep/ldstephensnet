@@ -13,6 +13,12 @@ _Notes are shorter random posts, kinda like a microblog._
 
 ---
 
+September 5, 2025, at 9:51:26 AM
+
+There are only two of us, and shit our grocery bill is almost $300 a week shopping at Walmart. I can’t imagine what a family of four or five would spend. 🫣 
+
+---
+
 September 3, 2025, at 9:06:05 AM
 
 > [Salesforce](https://www.cnbc.com/quotes/CRM/) has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount.[…] “It’s just a growth at all costs mindset,” Zitron said. “The only thing that’s important is growth, even if it ruins people’s lives. Even if it makes the company worse and provides an inferior product.”
