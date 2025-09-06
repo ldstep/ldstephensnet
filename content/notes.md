@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 6, 2025, at 4:35:48 PM
+
+Health Secretary Robert F. Kennedy Jr. has canceled nearly $500 million of grants and contracts for developing mRNA vaccines, the Department of Health and Human Services [announced on Tuesday](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html).
+
+There is no cure for stupid!
+
+---
+
 September 6, 2025, at 11:15:43 AM
 
 Test
