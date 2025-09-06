@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ldstephens - notes</title>
+        <link>https://ldstephens.net/notes</link>
+        <description>My notes</description>
+        <atom:link href="https://ldstephens.net/notes-feed.xml" rel="self" type="application/rss+xml" />
+        <image>
+            <url>https://ldstephens.net/favicon.png</url>
+            <title>ldstephens - notes</title>
+            <link>https://ldstephens.net/notes</link>
+        </image>
+
+        <item>
+            <title>September 6, 2025, at 11:15:43 AM</title>
+            <link>https://ldstephens.net/notes</link>
+            <description>
+            <![CDATA[
+            Test
+            ]]>
+             </description>
+            <pubDate>Sat, 06 Sep 2025 11:22:37 -0500</pubDate>   
+        </item>
+    </channel>
+</rss>
