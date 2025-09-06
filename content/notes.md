@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Notes
 
-*Notes are shorter random posts, kinda like a microblog. They have their own RSS feed: [https://ldstephens.net/notes-feed.xml](https://ldstephens.net/notes-feed.xml)*
+*Notes are shorter random posts, kinda like a microblog. They have [their own RSS feed](https://ldstephens.net/notes-feed.xml)*
 
 ---
 
