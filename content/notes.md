@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 8, 2025, at 9:14:12 AM
+
+I used to have a lot of bookmarks that I had saved over the years, but I never referred back to them. So, a few months ago, I decided to delete them and no longer collect them. Now, I’m wondering if I should do the same with quotes that I’ve collected and never refer back to.
+
+---
+
 September 6, 2025, at 4:35:48 PM
 
 Health Secretary Robert F. Kennedy Jr. has canceled nearly $500 million of grants and contracts for developing mRNA vaccines, the Department of Health and Human Services [announced on Tuesday](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html).
