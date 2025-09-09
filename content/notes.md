@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 9, 2025, at 9:05:38 AM
+
+> Challenges and Streaks.[…] Now let’s jump back to the blogging challenges that kind of triggered this post, I see that the more people who I usually really enjoy reading posts from write these less than lorem ipsum posts, it feels like they don’t care about writing it, they write not because they want to, but because they feel an obligation to, to not be a failure in not reaching their goal, them treating their writing more as a way of pushing out “content” than wanting to share something, or writing something they even care a little bit about makes me as a reader not care either. The insidious thing though is that this also colours their other writing, the more slop someone shares, the harder it gets for me to care as well, and the itching to just unsubscribe from something that neither the writer, nor myself really seem to care about grows.
+
+[Sotolf](https://sotolf.codeberg.page/posts/challenges-and-streaks/)
+
+---
+
 September 8, 2025, at 9:14:12 AM
 
 I used to have a lot of bookmarks that I had saved over the years, but I never referred back to them. So, a few months ago, I decided to delete them and no longer collect them. Now, I’m wondering if I should do the same with quotes that I’ve collected and never refer back to.
