@@ -9,7 +9,7 @@ const eleventyNavigation = {
 
 Hey there! I'm ldstephens, and welcome to my little corner of the internet. Since 2016, I've been writing here about Apple gadgets, apps, tips, and how I use my devices day to day. You'll also find stories, random thoughts, the occasional rant, quotes that stick with me, and links that I find worth sharing.
 
-I recently got featured on Manu Moreale’s [People and Blogs](https://manuelmoreale.com/pb-loren-stephens) if you’re interested in learning more about me.
+I was recently featured on Manu Moreale’s [People and Blogs](https://manuelmoreale.com/pb-loren-stephens) if you’re interested in learning more about me.
 
 **Colophon**
 
