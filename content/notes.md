@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 11, 2025, at 9:22:50 AM
+
+My initial reaction to Drafts 48, which aims to support OS 26 for iPhone, iPad, and Mac, is negative. The loss of the Workspace Bar on iOS and iPadOS is a significant drawback for me, as it requires extra clicks or taps to perform tasks that used to be done with a single click.
+
+---
+
 September 10, 2025, at 2:10:11 PM
 
 Do I even need a read-later app?  Why not read right in the RSS reader app. Reeder and NewNewsWire both have an excellent reading experience.   
