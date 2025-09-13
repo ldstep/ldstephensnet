@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+September 13, 2025, at 10:02:21 AM
+
+> So I pop open the root directory in the terminal and init Claude Code.
+> 
+> Then I say: "please look over the 30-40 most recent files in the blog posts folder and - concentrating on the ones that aren’t like finished posts (because I will have published those) - give me half a dozen ideas of what to write a blog post about today."
+
+[Matt Webb](https://interconnected.org/home/2025/09/12/claude)
+
+---
+
 September 11, 2025, at 9:22:50 AM
 
 My initial reaction to Drafts 48, which aims to support OS 26 for iPhone, iPad, and Mac, is negative. The loss of the Workspace Bar on iOS and iPadOS is a significant drawback for me, as it requires extra clicks or taps to perform tasks that used to be done with a single click.
