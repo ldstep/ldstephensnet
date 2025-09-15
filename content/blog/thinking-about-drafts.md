@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-I was thinking about [Drafts](https://getdrafts.com) this morning. I started using it in April of 2016. My introduction was the this [Agile Tortoise Video](https://www.youtube.com/watch?v=A5062ZW0GGA) with David Sparks. And I have used every day since. 
+I was thinking about [Drafts](https://getdrafts.com) this morning. I started using it in April of 2016. My introduction was the this [Agile Tortoise Video](https://www.youtube.com/watch?v=A5062ZW0GGA) with David Sparks. And I have used it every day since. 
 
 Drafts is my ideal app for capturing, managing text, and writing. Over the years, I’ve customized it with actions that automate my workflow, executing these actions with keyboard shortcuts. Additionally, if you’re an iPad user, all the keyboard shortcuts work seamlessly on that device as well.
 
