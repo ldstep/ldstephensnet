@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 16, 2025, at 12:33:24 PM
+
+In macOS 26 Safari, when I have multiple tabs open, I can’t easily identify the active tab. Additionally, I find the color tinting that matches the active website to be distracting. 
+
+---
+
 September 13, 2025, at 10:02:21 AM
 
 > So I pop open the root directory in the terminal and init Claude Code.
