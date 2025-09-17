@@ -278,6 +278,11 @@ header {
 .post-metadata time {
    margin-right: 1em;
 }
+/* New rule to add */
+article header .post-metadata {
+   justify-content: flex-start !important;
+   text-align: left;
+}
 
 blockquote {
    font-style: italic;
