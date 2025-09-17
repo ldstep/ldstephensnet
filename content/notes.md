@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 17, 2025, at 10:44:21 AM
+
+Been experimenting with the new Spotlight in macOS 26, thinking it could replace Alfred. The conclusion is it can’t. Spotlight basically does everything the free version of Alfred does, and I use several of the Power Pack’s features.
+
+---
+
 September 16, 2025, at 12:33:24 PM
 
 In macOS 26 Safari, when I have multiple tabs open, I can’t easily identify the active tab. Additionally, I find the color tinting that matches the active website to be distracting. 
