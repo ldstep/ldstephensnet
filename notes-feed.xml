@@ -12,14 +12,20 @@
         </image>
 
         <item>
-            <title>September 17, 2025, at 10:44:21 AM</title>
+            <title>September 18, 2025, at 1:55:52 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-           Been experimenting with the new Spotlight in macOS 26, thinking it could replace Alfred. The conclusion is it can’t. Spotlight basically does everything the free version of Alfred does, and I use several of the Power Pack’s features.
+           <p><a href="https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges">The Verge</a></p>
+
+			<blockquote>
+			<p>A software update rolling out to Samsung’s Family Hub refrigerators in the US is putting ads on the fridges for the first time. <strong>The “promotions and curated advertisements” are coming despite Samsung insisting to The Verge in April that it had “no plans” to do so.</strong></p>
+			</blockquote>
+
+			<p>Sure glad we have a dumb refrigerator.</p>
             ]]>
              </description>
-            <pubDate>Wed, 17 Sep 2025 09:57:24 -0500</pubDate>   
+            <pubDate>Thu, 18 Sep 2025 13:01:21 -0500</pubDate>   
         </item>
     </channel>
 </rss>

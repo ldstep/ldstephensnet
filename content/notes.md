@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+September 18, 2025, at 1:55:52 PM
+
+[The Verge](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
+
+> A software update rolling out to Samsung’s Family Hub refrigerators in the US is putting ads on the fridges for the first time. **The “promotions and curated advertisements” are coming despite Samsung insisting to The Verge in April that it had “no plans” to do so.**
+
+Sure glad we have a dumb refrigerator. 
+
+---
+
 September 17, 2025, at 10:44:21 AM
 
 Been experimenting with the new Spotlight in macOS 26, thinking it could replace Alfred. The conclusion is it can’t. Spotlight basically does everything the free version of Alfred does, and I use several of the Power Pack’s features.
