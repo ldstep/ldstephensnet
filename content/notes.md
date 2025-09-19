@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+September 19, 2025, at 1:15:28 PM
+
+[Brandon on Commercials](https://brandons-journal.com/2025/09/16/commercials.html)
+
+> It’s almost like you can’t escape certain genres of commercials and the two right now that I’m fucking done with are: sports betting and pharmaceuticals.
+
+Yep, agreed!
+
+---
+
 September 18, 2025, at 1:55:52 PM
 
 [The Verge](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
