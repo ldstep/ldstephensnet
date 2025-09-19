@@ -4,7 +4,7 @@ layout: layouts/base.njk
 permalink: /notes/
 eleventyNavigation:
    key: "Notes"
-   order: 4
+   order: 3
 ---
 
 # Notes
