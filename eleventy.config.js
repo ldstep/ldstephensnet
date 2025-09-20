@@ -77,9 +77,6 @@ export default async function (eleventyConfig) {
             name: "Loren Stephens",
          },
       },
-      postprocess: (content, entry) => {
-      return `${content}<img src="https://tinylytics.app/pixel/PWGjxfHPxTTSBQmcuetp.gif" alt="" width="1" height="1" />`;
-      }
    });
 
    // Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
