@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 20, 2025, at 4:35:31 PM
+
+I'm finding the Liquid Glass UI in Drafts on the iPad a bit tricky to get used to. I don't use my iPad that much so it's not a big deal. And even at that, I do most of my writing on MacBook Pro. But as I often say, I'm faster and more accurate typing on the iPad 11" keyboard. Ya know, short fingers. 
+
+I’ll use my iPad more for the next few days to get used its Liquid Glass UI.
+
+---
+
 September 19, 2025, at 1:15:28 PM
 
 [Brandon on Commercials](https://brandons-journal.com/2025/09/16/commercials.html)
