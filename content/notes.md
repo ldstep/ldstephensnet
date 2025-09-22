@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 22, 2025, at 8:45:30 AM
+
+Fall is here in the Northeast. A couple of weeks ago, we had the annual service on the heater boiler done. Yesterday, we took the air conditioners out of the windows and are now in the basement for storage until next summer. So now we’re all set for the colder weather that’s to come.
+
+---
+
 September 20, 2025, at 4:35:31 PM
 
 I'm finding the Liquid Glass UI in Drafts on the iPad a bit tricky to get used to. I don't use my iPad that much so it's not a big deal. And even at that, I do most of my writing on MacBook Pro. But as I often say, I'm faster and more accurate typing on the iPad 11" keyboard. Ya know, short fingers. 
