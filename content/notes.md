@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 25, 2025, at 8:48:25 AM
+
+I wasted a lot of time testing my site on micro.blog yesterday. I was bored, so that’s what I decided to do to fill my day.
+
+---
+
+September 23, 2025, at 8:46:58 AM
+
 I gave up experimenting with Spotlight, hoping that I could replace Alfred with it. I got close, but that involved some jury rigging that I wasn’t comfortable with. So Alfred it is.
 
 ---
