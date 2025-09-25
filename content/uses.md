@@ -30,7 +30,7 @@ _Apps:_
 -  Browser: Safari / Firefox
 -  Text Editor: Drafts
 -  Code: GitHub
--  Code Editor: VS Code
+-  Code Editor: BBEdit
 -  Journal: Drafts / Day One
 -  Launcher: Alfred
 -  RSS Service: Feedbin
