@@ -23,6 +23,6 @@ This is a static site built with [11ty](https://www.11ty.dev/), using [HTML an
 
 When adding new posts, changing the design, or adding new features, that is done in [BBEdit](https://www.barebones.com/products/bbedit/).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in VS Code.
+New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in BBEdit.
 
 Thanks for visiting!
