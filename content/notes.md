@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 29, 2025, at 10:05:17 AM
+
+I’ve adjusted to Liquid Glass, but I'm finding it hard to adapt to the search bar being at the bottom in iOS 26. Years of muscle memory with the search bar at the top is hard to break. It would be nice if Apple offered the option to place the search bar at either the top or bottom, like in Safari, but they probably won’t. I’ll just have to get used to it.
+
+---
+
 September 25, 2025, at 8:48:25 AM
 
 I wasted a lot of time testing my site on micro.blog yesterday. I was bored, so that’s what I decided to do to fill my day.
