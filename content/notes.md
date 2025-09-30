@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 30, 2025, at 2:06:56 PM
+
+I was looking for something to do this morning, and since I enjoy learning new things, I decided to download and install Sublime Text. I've been configuring it to manage this 11ty site, and it's been a fun way to learn something new.
+
+---
+
 September 29, 2025, at 10:05:17 AM
 
 I’ve adjusted to Liquid Glass, but I'm finding it hard to adapt to the search bar being at the bottom in iOS 26. Years of muscle memory with the search bar at the top is hard to break. It would be nice if Apple offered the option to place the search bar at either the top or bottom, like in Safari, but they probably won’t. I’ll just have to get used to it.
