@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+October 1, 2025, at 11:15:29 AM
+
+I have the Bear Notes app installed on my MacBook for occasional use. A few weeks ago, I renewed my subscription to test something in the iOS app. However, what I was testing didn’t work, so I requested a refund and received it. I deleted the app from my iPhone and continued to use it occasionally on my MacBook with no syncing.
+
+A couple of days ago, I received a notification that Bear Web Clipper 2.0 is out, and I wanted to test it on my iPhone, so I reinstalled the app. To my surprise, when I opened it, I found that Pro was enabled and valid through August 26, 2026. The app shows that my subscription is canceled, yet Pro is still enabled. ¯\_(ツ)_/
+
+---
+
 September 30, 2025, at 2:06:56 PM
 
 I was looking for something to do this morning, and since I enjoy learning new things, I decided to download and install Sublime Text. I've been configuring it to manage this 11ty site, and it's been a fun way to learn something new.
