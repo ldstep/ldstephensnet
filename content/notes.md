@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+October 4, 2025, at 4:17:48 PM
+
+Today, I completed several projects in preparation for winter. I fired up the Yardmax 35-ton splitter to make sure it’s ready for a workout this week. I also cleaned out the old ash from the burn barrel to prepare it for use. Additionally, I did some cleaning in one of the chicken coops.
+
+The one big tasks coming up this week is cutting logs from trees that were felled in the spring. I plan to cut the logs into 14-inch pieces, which is the ideal length for our wood burner, and then split them into firewood-sized pieces with the splitter. When all is said and done, I expect to have a cord and a half of firewood.
+
+---
+
 October 1, 2025, at 11:15:29 AM
 
 I have the Bear Notes app installed on my MacBook for occasional use. A few weeks ago, I renewed my subscription to test something in the iOS app. However, what I was testing didn’t work, so I requested a refund and received it. I deleted the app from my iPhone and continued to use it occasionally on my MacBook with no syncing.
