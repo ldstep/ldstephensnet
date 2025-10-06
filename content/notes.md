@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 6, 2025, at 1:35:04 PM
+
+I’ve experimented with other apps that could potentially replace Drafts. I’m not sure about my motivation for doing that. However, what I’ve concluded is that all the automations I’ve created and rely on in Drafts can’t be easily replicated, if at all, in apps like MarkEdit, iA Writer, Bear, etc.
+
+---
+
 October 4, 2025, at 4:17:48 PM
 
 Today, I completed several projects in preparation for winter. I fired up the Yardmax 35-ton splitter to make sure it’s ready for a workout this week. I also cleaned out the old ash from the burn barrel to prepare it for use. Additionally, I did some cleaning in one of the chicken coops.
