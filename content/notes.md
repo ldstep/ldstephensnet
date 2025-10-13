@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 13, 2025, at 1:59:07 PM
+
+The weather has been shit for the past couple of days. A nor'easter has been relentlessly dumping rain with strong winds.
+
+---
+
 October 6, 2025, at 1:35:04 PM
 
 I’ve experimented with other apps that could potentially replace Drafts. I’m not sure about my motivation for doing that. However, what I’ve concluded is that all the automations I’ve created and rely on in Drafts can’t be easily replicated, if at all, in apps like MarkEdit, iA Writer, Bear, etc.
