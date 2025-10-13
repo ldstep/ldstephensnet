@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+October 13, 2025, at 7:43:27 PM
+
+Writes and Write-Nots
+
+> writing is thinking. In fact there's a kind of thinking that can only be done by writing.[…] If you're thinking without writing, you only think you're thinking.
+
+[Paul Graham](https://paulgraham.com/writes.html)
+
+---
+
 October 13, 2025, at 1:59:07 PM
 
 The weather has been shit for the past couple of days. A nor'easter has been relentlessly dumping rain with strong winds.
