@@ -1,8 +1,10 @@
----js
-const eleventyNavigation = {
-	key: "About",
-	order: 5
-};
+---
+title: About
+layout: layouts/base.njk
+permalink: /about/
+eleventyNavigation:
+   key: "About"
+   order: 5
 ---
 
 # About
