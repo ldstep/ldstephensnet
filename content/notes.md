@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 16, 2025, at 2:19:36 PM
+
+I relocated this website from Netlify to Vercel because of the faster build times and the complimentary 30-day analytics.
+
+---
+
 October 13, 2025, at 7:43:27 PM
 
 Writes and Write-Nots

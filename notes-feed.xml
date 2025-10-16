@@ -12,20 +12,14 @@
         </image>
 
         <item>
-            <title>October 13, 2025, at 7:43:27 PM</title>
+            <title>October 16, 2025, at 2:19:36 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-             <p>Writes and Write-Nots</p>
-
-            <blockquote>
-            <p>writing is thinking. In fact there&#8217;s a kind of thinking that can only be done by writing.[…] If you&#8217;re thinking without writing, you only think you&#8217;re thinking.</p>
-            </blockquote>
-
-            <p><a href="https://paulgraham.com/writes.html">Paul Graham</a></p>
+             <p>I relocated this website from Netlify to Vercel because of the faster build times and the complimentary 30-day analytics.</p>
             ]]>
              </description>
-            <pubDate>Mon, 13 Oct 2025 18:46:05 -0500</pubDate>
+            <pubDate>Thu, 16 Oct 2025 13:23:31 -0500</pubDate>
         </item>
     </channel>
 </rss>
