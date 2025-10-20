@@ -1,5 +1,5 @@
 ---
-title: When ice freezes your menu bar
+title: When Ice freezes your menu bar
 description:
 date: 2025-10-20T09:12:56Z
 tags:
