@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 24, 2025, at 2:22:43 PM
+
+A couple weeks ago, I mentioned wrapping up a few projects to get ready for winter. One of them was firing up the Yardmax 30-ton splitter to make sure it was ready to go. Yesterday, I split and stacked about a third of a cord of wood. Still more to go.
+
+---
+
 October 16, 2025, at 2:19:36 PM
 
 I relocated this website from Netlify to Vercel because of the faster build times and the complimentary 30-day analytics.
