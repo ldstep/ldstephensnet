@@ -13,6 +13,20 @@ eleventyNavigation:
 
 ---
 
+October 26, 2025
+
+10:48:25 AM
+
+It's been in the 30s the last few mornings here in central New Jersey. We're close to peak fall color. This afternoon I'm going to mow the grass for what will be the last time until next spring. Of course, I use it along with the leaf blower to clean up all the leaves that are starting to fall.
+
+2:37:51 PM
+
+I mowed the entire lawn, and the last thing was the trail that goes around the property. Unfortunately, the transmission belt on my Cub Cadet ZT1 zero-turn mower broke about a quarter mile back in the woods. Shit!
+
+Now I’ll have to tow it out and get it fixed, as it doesn’t look like a repair I can handle myself.
+
+---
+
 October 24, 2025, at 2:22:43 PM
 
 A couple weeks ago, I mentioned wrapping up a few projects to get ready for winter. One of them was firing up the Yardmax 30-ton splitter to make sure it was ready to go. Yesterday, I split and stacked about a third of a cord of wood. Still more to go.
