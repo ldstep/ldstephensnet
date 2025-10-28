@@ -12,16 +12,22 @@
         </image>
 
         <item>
-            <title>October 28, 2025, at 1:50:36 PM</title>
+            <title>October 28, 2025, at 4:45:43 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-             <p>“Happiness is not about having everything you want, but loving what you have.”</p>
+                <p>I have been inconsistent with my Daily Note lately; it has been hit or miss.</p>
 
-             <p>Charlotte Chopin</p>
+                <p>Inspired by <a href="https://thomasrigby.com/posts/jrnl/">Thomas Rigby</a></p>
+
+                <blockquote>
+                <p>I operate a &quot;Day Note&quot; kind of set up whereby I have a single markdown file for each work day that I fill with scratches, brain dumps, and to-do's.</p>
+                </blockquote>
+
+                <p>I created a Keyboard Maestro macro to run a Daily Note entry using the keyboard shortcut ⌃+⌘+D for iA Writer.</p>
             ]]>
              </description>
-            <pubDate>Tue, 28 Oct 2025 12:53:34 -0500</pubDate>
+            <pubDate>Tue, 28 Oct 2025 15:48:59 -0500</pubDate>
         </item>
     </channel>
 </rss>

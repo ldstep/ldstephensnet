@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+I have been inconsistent with my Daily Note lately; it has been hit or miss.
+
+Inspired by [Thomas Rigby](https://thomasrigby.com/posts/jrnl/)
+
+> I operate a "Day Note" kind of set up whereby I have a single markdown file for each work day that I fill with scratches, brain dumps, and to-do's.
+
+I created a Keyboard Maestro macro to run a Daily Note entry using the keyboard shortcut ⌃+⌘+D for iA Writer.
+
+---
+
 October 28, 2025, at 1:50:36 PM
 
 “Happiness is not about having everything you want, but loving what you have.”
