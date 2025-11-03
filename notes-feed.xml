@@ -12,22 +12,16 @@
         </image>
 
         <item>
-            <title>October 28, 2025, at 4:45:43 PM</title>
+            <title>November 3, 2025, at 1:54:00 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-                <p>I have been inconsistent with my Daily Note lately; it has been hit or miss.</p>
-
-                <p>Inspired by <a href="https://thomasrigby.com/posts/jrnl/">Thomas Rigby</a></p>
-
                 <blockquote>
-                <p>I operate a &quot;Day Note&quot; kind of set up whereby I have a single markdown file for each work day that I fill with scratches, brain dumps, and to-do's.</p>
+                <p>We are in what might be called the golden age of productivity discourse. There are more systems, frameworks, and philosophies for organizing your life than ever before in human history.[…] The optimal approach isn&#8217;t to pledge allegiance to one system and defend it against all competitors. The optimal approach is to steal liberally from everything and build something that actually functions for your specific brain.</p>
                 </blockquote>
-
-                <p>I created a Keyboard Maestro macro to run a Daily Note entry using the keyboard shortcut ⌃+⌘+D for iA Writer.</p>
             ]]>
              </description>
-            <pubDate>Tue, 28 Oct 2025 15:48:59 -0500</pubDate>
+            <pubDate>Mon, 03 Nov 2025 13:57:40 -0500</pubDate>
         </item>
     </channel>
 </rss>

@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+November 3, 2025, at 1:54:00 PM
+
+[Joan Westenberg](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done)
+
+> We are in what might be called the golden age of productivity discourse. There are more systems, frameworks, and philosophies for organizing your life than ever before in human history.[…] The optimal approach isn't to pledge allegiance to one system and defend it against all competitors. The optimal approach is to steal liberally from everything and build something that actually functions for your specific brain.
+
+---
+
 October 28, 2025, at 4:45:43 PM
 
 I have been inconsistent with my Daily Note lately; it has been hit or miss.
