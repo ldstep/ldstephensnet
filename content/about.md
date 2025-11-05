@@ -25,6 +25,6 @@ This is a static site built with [11ty](https://www.11ty.dev/), using [HTML an
 
 When adding new posts, changing the design, or adding new features, that is done in [VS Code](https://code.visualstudio.com).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in Sublime Text.
+New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in VS Code.
 
 Thanks for visiting!
