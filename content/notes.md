@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+November 7, 2025, at 3:38:23 PM
+
+"The smarter, more capable version of Siri that Apple is developing will be powered by Google Gemini, reports Bloomberg. Apple will pay Google approximately $1 billion per year for a 1.2 trillion parameter artificial intelligence model that was developed by Google."
+
+This could be either good or bad. We’ll just have to wait and see.
+
+[Source](https://www.macrumors.com/2025/11/05/apple-siri-google-gemini-partnership/)
+
+---
+
 November 3, 2025, at 1:54:00 PM
 
 [Joan Westenberg](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done)
