@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+November 13, 2025, at 3:28:08 PM
+
+This afternoon, while reading the MPU forum, I came across a post discussing menu bar managers. Several posters mentioned that they had stopped using third-party managers and were now using the built-in macOS 26 manager. Intrigued, I decided to give it a try. By being selective and only including items in the menu bar that I actually used, I managed to access everything I needed without any hidden items behind the MacBook Pro notch. I was even able to delete Ice.
+
+---
+
 November 7, 2025, at 3:38:23 PM
 
 "The smarter, more capable version of Siri that Apple is developing will be powered by Google Gemini, reports Bloomberg. Apple will pay Google approximately $1 billion per year for a 1.2 trillion parameter artificial intelligence model that was developed by Google."
