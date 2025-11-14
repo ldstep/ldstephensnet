@@ -25,7 +25,7 @@ Here’s how it works out with some recent numbers over 30 days: 792 MB of bandw
 
 **Human page views**  
 
-792 MB × 3.5 = 2,772 page views** from actual people.
+792 MB × 3.5 = 2,772 page views from actual people.
 
 **Human web requests** 
 
