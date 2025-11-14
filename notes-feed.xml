@@ -12,14 +12,20 @@
         </image>
 
         <item>
-            <title>November 13, 2025, at 3:28:08 PM</title>
+            <title>November 14, 2025, at 2:46:39 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>This afternoon, while reading the MPU forum, I came across a post discussing menu bar managers. Several posters mentioned that they had stopped using third-party managers and were now using the built-in macOS 26 manager. Intrigued, I decided to give it a try. By being selective and only including items in the menu bar that I actually used, I managed to access everything I needed without any hidden items behind the MacBook Pro notch. I was even able to delete Ice.</p>
+            <p>My first few days <a href="https://ldstephens.net/blog/back-to-ulysses/">using Ulysses</a> have been an adjustment. I&#39;m rethinking my workflow for processing blog posts and adding notes.</p>
+
+            <p>I&#39;ve figured out the blog post part figured out. I&#39;m enjoying writing in Ulysses and prefer the organization of using groups and folders instead of tags. I can easily drag a completed post directly into my 11ty site&#39;s post folder, which is straightforward.</p>
+
+            <p>The friction arises when I add a new note entry. I need the content in HTML format for the RSS feed.xml, but when Ulysses copies as HTML, all the syntax is escaped, making it messy to clean up. I&#39;m working on a workaround for that. One option is to use PopClip&#39;s copy to HTML feature.</p>
+
+            <p>This is still a work in progress.</p>
             ]]>
              </description>
-            <pubDate>Thu, 13 Nov 2025 15:35:45 -0500</pubDate>
+            <pubDate>Fri, 14 Nov 2025 14:51:29 -0500</pubDate>
         </item>
     </channel>
 </rss>

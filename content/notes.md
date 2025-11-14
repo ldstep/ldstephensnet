@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+November 14, 2025, at 2:46:39 PM
+
+My first few days [using Ulysses](https://ldstephens.net/blog/back-to-ulysses/) have been an adjustment. I'm rethinking my workflow for processing blog posts and adding notes.
+
+I've figured out the blog post part figured out. I'm enjoying writing in Ulysses and prefer the organization of using groups and folders instead of tags. I can easily drag a completed post directly into my 11ty site's post folder, which is straightforward.
+
+The friction arises when I add a new note entry. I need the content in HTML format for the RSS feed.xml, but when Ulysses copies as HTML, all the syntax is escaped, making it messy to clean up. I'm working on a workaround for that. One option is to use PopClip's copy to HTML feature.
+
+This is still a work in progress.
+
+---
+
 November 13, 2025, at 3:28:08 PM
 
 This afternoon, while reading the MPU forum, I came across a post discussing menu bar managers. Several posters mentioned that they had stopped using third-party managers and were now using the built-in macOS 26 manager. Intrigued, I decided to give it a try. By being selective and only including items in the menu bar that I actually used, I managed to access everything I needed without any hidden items behind the MacBook Pro notch. I was even able to delete Ice.
