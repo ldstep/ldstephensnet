@@ -13,6 +13,15 @@ eleventyNavigation:
 
 ---
 
+November 15, 2025, at 9:31:12 AM
+
+Yesterday, while working on a new post for ldstephens, I had a couple of research pieces open. I kept bouncing back and forth between what I was writing and the reference docs, clicking around way more than I wanted to. I've been doing it this way for years.
+
+Frustrated I said to myself, “There has to be a better way to do this.”
+Turns out there is. Tabs. I opened each document in its own tab, and switching between them became effortless. Sometimes the simplest solutions right in front of your nose.
+
+---
+
 November 14, 2025, at 2:46:39 PM
 
 My first few days [using Ulysses](https://ldstephens.net/blog/back-to-ulysses/) have been an adjustment. I'm rethinking my workflow for processing blog posts and adding notes.
