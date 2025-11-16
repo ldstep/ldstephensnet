@@ -1,5 +1,5 @@
 ---
-title: Ulysses didn’t work out 
+title: Ulysses didn’t workout 
 description:
 date: 2025-11-16T10:35:01Z
 tags:
