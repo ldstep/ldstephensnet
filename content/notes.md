@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+November 18, 2025, at 9:00:13 AM
+
+I was thinking this morning that maybe my setup should be Drafts and iA Writer instead of Drafts and Ulysses. I prefer keeping everything in plain text files anyway, not in proprietary databases like Drafts, Ulysses, or Bear. I could just as easily pair Drafts with Devonthink since it already indexes all my folders. And if I need a file-based editor, I’ve got BBEdit, though I already own Devonthink and iA Writer, so iA Writer could fill that role too.
+
+The other thing that crossed my mind is that Drafts is really a text capture and processing app that can also handle writing. Ulysses and iA Writer are dedicated writing apps.
+
+At some point I should just make a decision and quit flip-flopping. Wishful thinking ¯\_(ツ)_/
+
+---
+
 November 15, 2025, at 9:31:12 AM
 
 Yesterday, while working on a new post for ldstephens, I had a couple of research pieces open. I kept bouncing back and forth between what I was writing and the reference docs, clicking around way more than I wanted to. I've been doing it this way for years.

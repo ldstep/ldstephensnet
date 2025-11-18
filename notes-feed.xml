@@ -12,18 +12,18 @@
         </image>
 
         <item>
-            <title>November 15, 2025, at 9:31:12 AM</title>
+            <title>November 18, 2025, at 9:00:13 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>Yesterday, while working on a new post for ldstephens, I had a couple of research pieces open. I kept bouncing back and forth between what I was writing and the reference docs, clicking around way more than I wanted to. I&#39;ve been doing it this way for years.</p>
+            <p>I was thinking this morning that maybe my setup should be Drafts and iA Writer instead of Drafts and Ulysses. I prefer keeping everything in plain text files anyway, not in proprietary databases like Drafts, Ulysses, or Bear. I could just as easily pair Drafts with Devonthink since it already indexes all my folders. And if I need a file-based editor, I’ve got BBEdit, though I already own Devonthink and iA Writer, so iA Writer could fill that role too.</p>
 
-			<p>Frustrated I said to myself, “There has to be a better way to do this.”</p>
+			<p>The other thing that crossed my mind is that Drafts is really a text capture and processing app that can also handle writing. Ulysses and iA Writer are dedicated writing apps.</p>
 
-			<p>Turns out there is. Tabs. I opened each document in its own tab, and switching between them became effortless. Sometimes the simplest solutions right in front of your nose.</p>
+			<p>At some point I should just make a decision and quit flip-flopping. Wishful thinking ¯_(ツ)_/</p>
             ]]>
              </description>
-            <pubDate>Sat, 15 Nov 2025 09:35:08 -0500</pubDate>
+            <pubDate>Tue, 18 Nov 2025 09:03:46 -0500</pubDate>
         </item>
     </channel>
 </rss>
