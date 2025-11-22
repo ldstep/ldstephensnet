@@ -13,6 +13,17 @@ eleventyNavigation:
 
 ---
 
+November 22, 2025, at 11:07:27 AM
+
+> An Opinionated Guide to Using AI Right Now
+>
+> What AI to use in late 2025
+
+[Ethan Mollick](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai
+)
+
+---
+
 November 18, 2025, at 9:00:13 AM
 
 I was thinking this morning that maybe my setup should be Drafts and iA Writer instead of Drafts and Ulysses. I prefer keeping everything in plain text files anyway, not in proprietary databases like Drafts, Ulysses, or Bear. I could just as easily pair Drafts with Devonthink since it already indexes all my folders. And if I need a file-based editor, I’ve got BBEdit, though I already own Devonthink and iA Writer, so iA Writer could fill that role too.
