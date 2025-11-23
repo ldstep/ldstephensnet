@@ -13,6 +13,23 @@ eleventyNavigation:
 
 ---
 
+November 23, 2025, at 10:46:08 AM
+
+App Store refund denied!
+
+I requested a refund for Ulysses through the App Store, but it was denied. I explained that its markdown isn't compatible with my 11ty site. Given this, I doubt I'll receive the refund, so I might as well use it. 
+
+So, here I am, setting it up once more. I need to decide on its purpose. The most suitable option would be to make it my writing repository.
+
+* Ideas
+* Drafts
+* Published
+* Journal
+* Notes
+* Quotes
+
+---
+
 November 22, 2025, at 11:07:27 AM
 
 > An Opinionated Guide to Using AI Right Now

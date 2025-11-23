@@ -12,20 +12,27 @@
         </image>
 
         <item>
-            <title>November 22, 2025, at 11:07:27 AM</title>
+            <title>November 23, 2025, at 10:46:08 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <blockquote>
-			<p>An Opinionated Guide to Using AI Right Now</p>
+            <p>App Store refund denied!</p>
 
-			<p>What AI to use in late 2025</p>
-			</blockquote>
+			<p>I requested a refund for Ulysses through the App Store, but it was denied. I explained that its markdown isn&#39;t compatible with my 11ty site. Given this, I doubt I&#39;ll receive the refund, so I might as well use it. </p>
 
-			<p><a href="https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai">Ethan Mollick</a></p>
+			<p>So, here I am, setting it up once more. I need to decide on its purpose. The most suitable option would be to make it my writing repository.</p>
+
+            <ul>
+                <li>Ideas</li>
+                <li>Drafts</li>
+                <li>Published</li>
+                <li>Journal</li>
+                <li>Notes</li>
+                <li>Quotes</li>
+            </ul>
             ]]>
              </description>
-            <pubDate>Sat, 22 Nov 2025 11:11:12 -0500</pubDate>
+            <pubDate>Sun, 23 Nov 2025 10:52:47 -0500</pubDate>
         </item>
     </channel>
 </rss>
