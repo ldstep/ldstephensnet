@@ -12,27 +12,18 @@
         </image>
 
         <item>
-            <title>November 23, 2025, at 10:46:08 AM</title>
+            <title>November 26, 2025, at 10:00:08 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>App Store refund denied!</p>
+            <blockquote>
+            <p>Take 30 minutes this week to list every critical service you rely on. Ask yourself: If this service vanished tomorrow, how would I recover? The answer will guide your first step toward true data sovereignty.</p>
+            </blockquote>
 
-			<p>I requested a refund for Ulysses through the App Store, but it was denied. I explained that its markdown isn&#39;t compatible with my 11ty site. Given this, I doubt I&#39;ll receive the refund, so I might as well use it. </p>
-
-			<p>So, here I am, setting it up once more. I need to decide on its purpose. The most suitable option would be to make it my writing repository.</p>
-
-            <ul>
-                <li>Ideas</li>
-                <li>Drafts</li>
-                <li>Published</li>
-                <li>Journal</li>
-                <li>Notes</li>
-                <li>Quotes</li>
-            </ul>
+            <p><a href="https://claytonerrington.com/blog/local-archiving/">Clayton Errington</a></p>
             ]]>
              </description>
-            <pubDate>Sun, 23 Nov 2025 10:52:47 -0500</pubDate>
+            <pubDate>Wed, 26 Nov 2025 10:02:27 -0500</pubDate>
         </item>
     </channel>
 </rss>

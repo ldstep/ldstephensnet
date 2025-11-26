@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+November 26, 2025, at 10:00:08 AM
+
+> Take 30 minutes this week to list every critical service you rely on. Ask yourself: If this service vanished tomorrow, how would I recover? The answer will guide your first step toward true data sovereignty.
+
+[Clayton Errington](https://claytonerrington.com/blog/local-archiving/)
+
+---
+
 November 23, 2025, at 10:46:08 AM
 
 App Store refund denied!
