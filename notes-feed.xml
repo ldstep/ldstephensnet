@@ -12,18 +12,14 @@
         </image>
 
         <item>
-            <title>November 26, 2025, at 10:00:08 AM</title>
+            <title>November 27, 2025, at 3:16:34 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <blockquote>
-            <p>Take 30 minutes this week to list every critical service you rely on. Ask yourself: If this service vanished tomorrow, how would I recover? The answer will guide your first step toward true data sovereignty.</p>
-            </blockquote>
-
-            <p><a href="https://claytonerrington.com/blog/local-archiving/">Clayton Errington</a></p>
+            <p>The <a href="https://orionbrowser.com/">Orion browser</a> is now officially out of beta, with version 1.0 released. I tested it several times during the beta phase and wanted to revisit it now that it has launched. I installed it yesterday, customized the settings, and will be testing it over the next few days to see if it offers any advantages over Safari.</p>
             ]]>
              </description>
-            <pubDate>Wed, 26 Nov 2025 10:02:27 -0500</pubDate>
+            <pubDate>Thu, 27 Nov 2025 15:18:39 -0500</pubDate>
         </item>
     </channel>
 </rss>

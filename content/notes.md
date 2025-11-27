@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+November 27, 2025, at 3:16:34 PM
+
+The [Orion browser](https://orionbrowser.com/) is now officially out of beta, with version 1.0 released. I tested it several times during the beta phase and wanted to revisit it now that it has launched. I installed it yesterday, customized the settings, and will be testing it over the next few days to see if it offers any advantages over Safari.
+
+---
+
 November 26, 2025, at 10:00:08 AM
 
 > Take 30 minutes this week to list every critical service you rely on. Ask yourself: If this service vanished tomorrow, how would I recover? The answer will guide your first step toward true data sovereignty.
