@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+November 28, 2025, at 2:22:37 PM
+
+I’ve been digging into Scott Galloway’s take on healthcare, something he talks about a lot on [Pivot](https://podcasts.voxmedia.com/show/pivot) and honestly, his phased Medicare expansion idea makes a lot of sense for America. He thinks the path to a national system isn’t some overnight revolution. It’s a slow rollout: cut the Medicare age by two years every two years until it covers everyone.
+
+65 → 63 → 61 → all the way down to zero.
+
+It’s a simple way to move to a real Medicare for All. Hospitals and insurers get time to adjust. People get coverage without waiting for Congress to agree on the perfect plan. 
+
+I don’t agree with Scott on everything he says, but this one strikes me as both practical and humane. *Healthcare as a right*, implemented with a plan.
+
+---
+
 November 27, 2025, at 3:16:34 PM
 
 The [Orion browser](https://orionbrowser.com/) is now officially out of beta, with version 1.0 released. I tested it several times during the beta phase and wanted to revisit it now that it has launched. I installed it yesterday, customized the settings, and will be testing it over the next few days to see if it offers any advantages over Safari.
