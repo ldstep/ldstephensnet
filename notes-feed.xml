@@ -12,22 +12,22 @@
         </image>
 
         <item>
-            <title>November 28, 2025, at 2:22:37 PM</title>
+            <title>November 29, 2025, at 11:10:13 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>November 28, 2025, at 2:22:37 PM</p>
+            <p><a href="https://jamesg.blog/2025/11/28/validate-everything">Validate Everything | James' Coffee Blog</a></p>
 
-            <p>I’ve been digging into Scott Galloway’s take on healthcare, something he talks about a lot on <a href="https://podcasts.voxmedia.com/show/pivot">Pivot</a> and honestly, his phased Medicare expansion idea makes a lot of sense for America. He thinks the path to a national system isn’t some overnight revolution. It’s a slow rollout: cut the Medicare age by two years every two years until it covers everyone.</p>
+            <blockquote>
+            <p>I made a new page on my website called “Validate Everything”. The web page lets you paste in a URL and automatically generates links to validators like the WAVE accessibility validator, the Google Rich Results Test tool, microformats testers, and more. I added tools I have used in the past to validate or understand the markup behind web pages.</p>
 
-            <p>65 → 63 → 61 → all the way down to zero.</p>
+            <p>​[…]</p>
 
-            <p>It’s a simple way to move to a real Medicare for All. Hospitals and insurers get time to adjust. People get coverage without waiting for Congress to agree on the perfect plan.</p>
-
-            <p>I don’t agree with Scott on everything he says, but this one strikes me as both practical and humane. <em>Healthcare as a right</em>, implemented with a plan.</p>
+            <p>You can <a href="https://jamesg.blog/validate-everything">try out the page today</a>, and <a href="https://github.com/capjamesg/validate-everything">see the source code on GitHub</a>.</p>
+            </blockquote>
             ]]>
              </description>
-            <pubDate>Fri, 28 Nov 2025 14:27:11 -0500</pubDate>
+            <pubDate>Sat, 29 Nov 2025 11:17:50 -0500</pubDate>
         </item>
     </channel>
 </rss>

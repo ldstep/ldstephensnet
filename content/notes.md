@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+November 29, 2025, at 11:10:13 AM
+
+[Validate Everything | James' Coffee Blog](https://jamesg.blog/2025/11/28/validate-everything)
+
+> I made a new page on my website called “Validate Everything”. The web page lets you paste in a URL and automatically generates links to validators like the WAVE accessibility validator, the Google Rich Results Test tool, microformats testers, and more. I added tools I have used in the past to validate or understand the markup behind web pages.
+> 
+> ​[…]
+> 
+> You can [try out the page today](https://jamesg.blog/validate-everything), and [see the source code on GitHub](https://github.com/capjamesg/validate-everything).
+
+---
+
 November 28, 2025, at 2:22:37 PM
 
 I’ve been digging into Scott Galloway’s take on healthcare, something he talks about a lot on [Pivot](https://podcasts.voxmedia.com/show/pivot) and honestly, his phased Medicare expansion idea makes a lot of sense for America. He thinks the path to a national system isn’t some overnight revolution. It’s a slow rollout: cut the Medicare age by two years every two years until it covers everyone.
