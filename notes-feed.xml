@@ -12,22 +12,20 @@
         </image>
 
         <item>
-            <title>November 29, 2025, at 11:10:13 AM</title>
+            <title>December 1, 2025, at 9:35:42 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p><a href="https://jamesg.blog/2025/11/28/validate-everything">Validate Everything | James' Coffee Blog</a></p>
-
             <blockquote>
-            <p>I made a new page on my website called “Validate Everything”. The web page lets you paste in a URL and automatically generates links to validators like the WAVE accessibility validator, the Google Rich Results Test tool, microformats testers, and more. I added tools I have used in the past to validate or understand the markup behind web pages.</p>
+            <p><a href="https://www.macstories.net/stories/wading-back-into-the-liquid-glass-pool-the-macstories-os-26-app-roundup-continued/">Federico</a>: 2025 has been the year that I’ve fully embraced <a href="https://getdrafts.com/">Drafts</a> as my Markdown text editor/notepad of choice, and that’s all thanks to AI. Let me explain: thanks to the advancements in coding for models like GPT-5 and Sonnet 4.5, I’ve been able to turn Drafts into a highly personalized, extensible plain text editor that – unlike Obsidian – is <em>natively</em> integrated with Apple’s design language and latest platform features. That was never the case with Obsidian, which is an Electron app at its core and can’t match the pace of truly native apps for iOS and iPadOS. With Drafts, I get to have my cake and eat it too; I can “vibe-code” my own actions thanks to Claude, and I don’t have to give up on the nice perks that come with an application that is frequently updated for the latest Apple APIs.</p>
 
-            <p>​[…]</p>
+            <p>[…]</p>
 
-            <p>You can <a href="https://jamesg.blog/validate-everything">try out the page today</a>, and <a href="https://github.com/capjamesg/validate-everything">see the source code on GitHub</a>.</p>
+            <p>In a sea of so-called “opinionated” text editors that often use that adjective as an excuse for their lack of features, Drafts has managed to keep its simplicity while unlocking incredible potential for power users. If you haven’t played around with Drafts in a while, its latest updates for iOS, iPadOS, and macOS 26 are a great opportunity to test the app again.</p>
             </blockquote>
             ]]>
              </description>
-            <pubDate>Sat, 29 Nov 2025 11:17:50 -0500</pubDate>
+            <pubDate>Mon, 01 Dec 2025 09:41:29 -0500</pubDate>
         </item>
     </channel>
 </rss>
