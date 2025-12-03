@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+December 3, 2025, at 10:15:47 AM
+
+I waste a lot of time trying to create automations for situations that rarely occur.
+
+---
+
 December 1, 2025, at 9:35:42 AM
 
 > [Federico](https://www.macstories.net/stories/wading-back-into-the-liquid-glass-pool-the-macstories-os-26-app-roundup-continued/): 2025 has been the year that I’ve fully embraced [Drafts](https://getdrafts.com/) as my Markdown text editor/notepad of choice, and that’s all thanks to AI. Let me explain: thanks to the advancements in coding for models like GPT-5 and Sonnet 4.5, I’ve been able to turn Drafts into a highly personalized, extensible plain text editor that – unlike Obsidian – is _natively_ integrated with Apple’s design language and latest platform features. That was never the case with Obsidian, which is an Electron app at its core and can’t match the pace of truly native apps for iOS and iPadOS. With Drafts, I get to have my cake and eat it too; I can “vibe-code” my own actions thanks to Claude, and I don’t have to give up on the nice perks that come with an application that is frequently updated for the latest Apple APIs.
