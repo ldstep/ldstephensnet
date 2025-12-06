@@ -9,13 +9,9 @@ eleventyNavigation:
 
 # About
 
-Hey there! I'm ldstephens. I love experimenting with technology, tinkering with ideas, and writing about my discoveries. There's something satisfying about figuring something out and sharing it with others who might be facing the same challenges.
+Hey, I’m ldstephens. I’ve been writing online since the late 1990s, and I can’t count how many times I’ve pulled the plug on previous blogs. For now, this is my little corner of the web where I share whatever’s on my mind: stories, random thoughts, tech stuff I'm tinkering with, and the occasional rant. You’ll also find quotes that resonate with me and links I believe are worth sharing.
 
-My focus here has always been practical: I aim to create posts that others can benefit from, particularly in the technology space. If I've spent hours solving a technical challenge, why not document it so someone else can save that time?
-
-You'll also find the occasional rant, quotes that resonate with me, and links that I find worth sharing.
-
-At the end of the day, this site is my little corner of the web where I share what I learn, hoping to make someone else's path a bit easier.
+Anyway, like I said, this is my little corner of the web. Could be great, could be a mess. Either way, stick around. Or don’t. It’s your call.
 
 I was recently featured on Manu Moreale's [People and Blogs](https://manuelmoreale.com/interview/loren-stephens) if you're interested in learning more about me.
 
