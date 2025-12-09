@@ -19,8 +19,8 @@ I was recently featured on Manu Moreale's [People and Blogs](https://manuelmorea
 
 This is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and deployed on [Vercel](https://www.netlify.com). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/ldstephensnet).
 
-When adding new posts, changing the design, or adding new features, that is done in [VS Code](https://code.visualstudio.com).
+When adding new posts, changing the design, or adding new features, that is done in [Zed](https://zed.dev).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in VS Code.
+New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in Zed.
 
 Thanks for visiting!

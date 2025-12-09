@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Uses
 
-Updated: August 3, 2025
+Updated: December 9, 2025
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -24,13 +24,13 @@ _Apps:_
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 -  Mail App: Mail
 -  Calendar: Fantastical
--  Notes: Apple Notes / Drafts / Plain Text
+-  Notes: Apple Notes / Plain Text
 -  To-Do: Things
 -  Cloud File Storage: iCloud
 -  Browser: Safari / Firefox
 -  Text Editor: Drafts
 -  Code: GitHub
--  Code Editor: BBEdit
+-  Code Editor: Zed
 -  Journal: Drafts / Day One
 -  Launcher: Alfred
 -  RSS Service: Feedbin
@@ -39,7 +39,7 @@ _Apps:_
 -  Read It Later: Goodlinks
 -  Password Manager: Bitwarden
 -  VPN: TunnelBear
--  Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Moom, Witch, Hidden Bar, ScreenFloat
+-  Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Witch, ScreenFloat
 
 **Mobile: iPhone 15 Pro Max and M2 11” iPad Air**
 
@@ -54,7 +54,7 @@ _Apps:_
 -  Mail App: Mail
 -  Messages: Messages
 -  Calendar: Fantastical
--  Notes: Apple Notes / Drafts / Plain Text
+-  Notes: Apple Notes / Plain Text
 -  To-Do: Things
 -  Browser: Safari
 -  Text: Drafts
