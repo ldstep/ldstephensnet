@@ -1,5 +1,5 @@
 ---
-title: Link post: Updated Apple Mail Link AppleScript - MacSparky
+title: "Link post: Updated Apple Mail Link AppleScript - MacSparky"
 description:
 date: 2025-12-10T10:31:18Z
 tags:
