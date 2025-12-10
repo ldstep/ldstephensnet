@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+December 10, 2025, at 10:01:06 AM
+
+[Chris Hannah](https://chrishannah.me/where-i-write-on-the-internet/)
+
+> Ever since I started writing on the internet, I've had a tendency to want to constantly start from scratch, switch platforms, change domain name, etc.
+
+Sounds familiar ¯\_(ツ)_/
+
+---
+
 December 3, 2025, at 10:15:47 AM
 
 I waste a lot of time trying to create automations for situations that rarely occur.
