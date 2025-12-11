@@ -34,7 +34,7 @@ _Apps:_
 -  Journal: Drafts / Day One
 -  Launcher: Alfred
 -  RSS Service: Feedbin
--  RSS App: Reeder Classic
+-  RSS App: NetNewsWire
 -  Bookmarks: Goodlinks
 -  Read It Later: Goodlinks
 -  Password Manager: Bitwarden
@@ -59,7 +59,7 @@ _Apps:_
 -  Browser: Safari
 -  Text: Drafts
 -  RSS Service: Feedbin
--  RSS App: Reeder Classic
+-  RSS App: NetNewsWire
 -  Bookmarks: Goodlinks
 -  Read It Later: Goodlinks
 -  Journal: Drafts / Day One
