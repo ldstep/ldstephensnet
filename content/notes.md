@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+December 13, 2025, at 11:08:27 AM
+
+[macosxguru, Window Managers? Why?](http://bicycleforyourmind.com/window_managers)
+
+> Window managers don’t make sense to me. I have tried a whole host of them.[…] I am a one document, one application at a time, kind of guy.
+
+I work with one document and one app at a time on my 14” MacBook Pro, rarely needing more than one window open. I switch between applications using ⌘+Tab.
+
+---
+
 December 10, 2025, at 10:01:06 AM
 
 [Chris Hannah](https://chrishannah.me/where-i-write-on-the-internet/)
