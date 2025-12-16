@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+December 16, 2025, at 9:01:08 AM
+
+[Greg Morris](https://gregmorris.co.uk/the-questions-ill-never-see/)
+
+> I've been noticing some traffic on my blog from LLM based search. Small little drips of visitors from ChatGPT, Perplexity, and similar search tools. Not huge amounts, but enough to make me curious about what's actually happening.[…] The reality is this is probably just what publishing on the web looks like now. Your work gets ground up, fed through an LLM, and spat out as part of someone else's answer. You get a referral if you're lucky. Most of the time you probably don't even get that.
+
+I've noticed the same thing.
+
+---
+
 December 13, 2025, at 11:08:27 AM
 
 [macosxguru, Window Managers? Why?](http://bicycleforyourmind.com/window_managers)
