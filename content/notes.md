@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+December 18, 2025, at 3:29:17 PM
+
+I updated the Uses page on this site today and realized that I hadn't included [HoudahSpot](https://www.houdah.com/houdahSpot/) in the Mac Utilities section.
+
+HoudahSpot is my go-to tool for file searches. It consistently finds what I'm looking for when Finder or Alfred often fail. Now, I don't even bother searching for files in Finder, Spotlight, or Alfred; I go straight to HoudahSpot.
+
+---
+
 December 16, 2025, at 9:01:08 AM
 
 [Greg Morris](https://gregmorris.co.uk/the-questions-ill-never-see/)
