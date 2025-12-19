@@ -20,7 +20,7 @@ _Peripherals:_
 
 _Apps:_
 
--  macOS: 15.x
+-  macOS: 26.x
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 -  Mail App: Mail
 -  Calendar: Fantastical
