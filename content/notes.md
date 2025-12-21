@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+December 21, 2025, at 2:52:47 PM
+
+> NFL Streaming Fragmentation: I’m tired of these leagues sprinkling their games across a million different outlets so I have to have a million different subscriptions to watch them all.
+
+[jcarucci](https://talk.macpowerusers.com/t/nfl-streaming-fragmentation/43661?)
+
+It's not just the NFL; it's true for all sports. I used to watch way more sports than I do now because of this very reason.
+
+---
+
 December 18, 2025, at 3:29:17 PM
 
 I updated the Uses page on this site today and realized that I hadn't included [HoudahSpot](https://www.houdah.com/houdahSpot/) in the Mac Utilities section.
