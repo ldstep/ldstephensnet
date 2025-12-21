@@ -49,7 +49,7 @@ _Peripherals:_
 
 _Apps:_
 
--  iOS: 18.x
+-  iOS: 26.x
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 -  Mail App: Mail
 -  Messages: Messages
