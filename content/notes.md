@@ -13,6 +13,15 @@ eleventyNavigation:
 
 ---
 
+December 22, 2025, at 9:27:41 AM
+
+[Jim Nielsen](https://blog.jim-nielsen.com/2025/dont-use-ai-browsers-they-say/
+)
+
+> [I recommended](https://blog.jim-nielsen.com/2025/ai-browsers-frontier-security/) against using an AI browser unless you wanted to participate in a global experiment in security.[…] Well, now the experts (that you pay for) have weighed in. Gartner, the global research and advisory firm, has come to the conclusion that agentic browsers are too risky for most organizations.
+
+---
+
 December 21, 2025, at 2:52:47 PM
 
 > NFL Streaming Fragmentation: I’m tired of these leagues sprinkling their games across a million different outlets so I have to have a million different subscriptions to watch them all.
