@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+January 1, 2026, at 9:25:49 AM
+
+The new year begins with more snow, wind, and cold. 🥶
+
+Happy New Year!
+
+---
+
 December 22, 2025, at 9:27:41 AM
 
 [Jim Nielsen](https://blog.jim-nielsen.com/2025/dont-use-ai-browsers-they-say/
