@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+January 4, 2026, at 10:04:16 AM
+
+In 2026, I’m letting go of the last couple of subscription apps I still use. I won’t be renewing my Drafts subscription in April or my Simple Scan subscription in May.
+
+Leaving Drafts behind is harder than I expected. I’ve used it since 2014, and so much of how I think and work is wrapped up in its workflows and muscle memory. But I’ve realized I can get where I need to go with a combination of iA Writer and Apple Notes. 
+
+---
+
 January 1, 2026, at 9:25:49 AM
 
 The new year begins with more snow, wind, and cold. 🥶
