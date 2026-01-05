@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+January 5, 2026, at 9:40:01 AM
+
+[Andre Franca](https://afranca.com.br/the-saas-takeover/)
+
+> Some days I imagined the time when I could actually buy software. Pay once, install it, use it for years, done. It looks like every tool wants to live in my credit card, and even the simplest app insists on a monthly relationship. That didn’t happen by accident. I mean, the world didn’t wake up one day and decide SaaS was more elegant. It took shape as a practical solution, and over time it became the model users were expected to accept.[…] But then comes the uncomfortable side.[…] I’ve seen products ship updates no one asked for, just to justify another email saying "we’re evolving...". I've seen softwares growing heavier, more complex, and somehow less useful, all in service of looking busy enough to deserve its monthly fee.
+
+Interesting post by Andre. As I mentioned in my previous note, I'm eliminating my last few app subscriptions in 2026. For everything I need to accomplish on a computer, I have either a paid or free app that meets my requirements.
+
+---
+
 January 4, 2026, at 10:04:16 AM
 
 In 2026, I’m letting go of the last couple of subscription apps I still use. I won’t be renewing my Drafts subscription in April or my Simple Scan subscription in May.
