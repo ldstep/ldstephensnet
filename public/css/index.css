@@ -1,334 +1,360 @@
-/* Defaults */
+/* =========================
+   Root variables / theme
+   ========================= */
 :root {
-   --font-family: -apple-system, system-ui, sans-serif;
-   --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
-      Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
-      Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
-      Courier, monospace;
+    --font-family: -apple-system, system-ui, sans-serif;
+    --font-family-monospace:
+        Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console,
+        Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+        Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+
+    --background-color: #282a36;
+    --text-color: #f8f8f2;
+
+    --link-color: #8be9fd;
+    --link-color-active: #8be9fd;
+    --link-color-visited: #8be9fd;
+
+    --heading-color: #bd93f9;
+    --accent-color: #ff79c6;
+
+    --color-muted: #6272a4;
+    --color-border: #44475a;
+
+    --code-background-color: #313244;
+    --code-color: #cdd6f4;
+
+    --syntax-tab-size: 2;
 }
 
-/* Theme colors */
-:root {
-   --color-gray-20: #e0e0e0;
-   --color-gray-50: #c0c0c0;
-   --color-gray-90: #333;
-
-   --background-color: #ffffff;
-
-   --text-color: var(--color-gray-90);
-   --text-color-link: #082840;
-   --text-color-link-active: #5f2b48;
-   --text-color-link-visited: #17050f;
-
-   --syntax-tab-size: 2;
-}
-
-@media (prefers-color-scheme: dark) {
-   :root {
-      --color-gray-20: #ffffff;
-      --color-gray-50: #ffffff;
-      --color-gray-90: #ffffff;
-
-      /* White links for dark mode */
-      --text-color-link: #ffffff;
-      --text-color-link-active: #ffffff;
-      --text-color-link-visited: #ffffff;
-
-      --background-color: #000000;
-   }
-}
-
-/* Global stylesheet */
+/* =========================
+   Global reset / base
+   ========================= */
 * {
-   box-sizing: border-box;
-}
-
-@view-transition {
-   navigation: auto;
+    box-sizing: border-box;
 }
 
 html,
 body {
-   padding: 0;
-   margin: 0 auto;
-   font-family: var(--font-family);
-   color: var(--text-color);
-   background-color: var(--background-color);
+    padding: 0;
+    margin: 0 auto;
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
+
 html {
-   overflow-y: scroll;
+    overflow-y: scroll;
 }
+
 body {
-   max-width: 40em;
+    max-width: 40em;
 }
 
-/* https://www.a11yproject.com/posts/how-to-hide-content/ */
-.visually-hidden {
-   clip: rect(0 0 0 0);
-   clip-path: inset(50%);
-   height: 1px;
-   overflow: hidden;
-   position: absolute;
-   white-space: nowrap;
-   width: 1px;
-}
-
-/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
-img {
-   max-width: 100%;
-}
-img[width][height] {
-   height: auto;
-}
-img[src$=".svg"] {
-   width: 100%;
-   height: auto;
-   max-width: none;
-}
-video,
-iframe {
-   width: 100%;
-   height: auto;
-}
-iframe {
-   aspect-ratio: 16/9;
+/* =========================
+   Typography
+   ========================= */
+p,
+li {
+    line-height: 1.5;
 }
 
 p:last-child {
-   margin-bottom: 0;
-}
-p {
-   line-height: 1.5;
+    margin-bottom: 0;
 }
 
-li {
-   line-height: 1.5;
+strong,
+b {
+    color: var(--text-color);
 }
 
+time {
+    font-family: var(--font-family-monospace);
+    font-size: 0.9em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--heading-color);
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+/* =========================
+   Links
+   ========================= */
 a[href] {
-   color: var(--text-color-link);
+    color: var(--link-color);
+    text-decoration: none;
 }
+
 a[href]:visited {
-   color: var(--text-color-link-visited);
+    color: var(--link-color-visited);
 }
+
 a[href]:hover,
 a[href]:active {
-   color: var(--text-color-link-active);
+    color: var(--link-color-active);
+    text-decoration: underline;
 }
 
+/* =========================
+   Layout
+   ========================= */
+header,
 main,
 footer {
-   padding: 1rem;
-}
-main :first-child {
-   margin-top: 0;
+    padding: 1rem;
 }
 
 header {
-   border-bottom: 1px dashed var(--color-gray-20);
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dashed var(--color-border);
 }
 
-.links-nextprev {
-   display: flex;
-   justify-content: space-between;
-   gap: 0.5em 1em;
-   list-style: "";
-   border-top: 1px dashed var(--color-gray-20);
-   padding: 1em 0;
-}
-.links-nextprev > * {
-   flex-grow: 1;
-}
-.links-nextprev-next {
-   text-align: right;
+footer {
+    font-size: 13px;
+    text-align: center;
 }
 
-table {
-   margin: 1em 0;
-}
-table td,
-table th {
-   padding-right: 1em;
+/* =========================
+   Navigation
+   ========================= */
+.nav {
+    display: flex;
+    gap: 0.5em 1em;
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
+.nav-item {
+    display: inline-block;
+}
+
+.nav-item a:not(:hover) {
+    text-decoration: none;
+}
+
+.nav a[aria-current="page"] {
+    text-decoration: underline;
+}
+
+/* =========================
+   Home link / blog title
+   ========================= */
+.home-link,
+.home-link h1 {
+    color: #ff79c6; /* Dracula pink */
+}
+
+.home-link {
+    flex-grow: 1;
+    font-weight: 700;
+}
+
+.home-link:link:not(:hover) {
+    text-decoration: none;
+}
+
+/* =========================
+   Images / media
+   ========================= */
+img {
+    max-width: 100%;
+}
+
+img[width][height] {
+    height: auto;
+}
+
+video,
+iframe {
+    width: 100%;
+    height: auto;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+}
+
+/* =========================
+   Post list
+   ========================= */
+.postlist {
+    list-style: none;
+    padding: 0;
+    padding-left: 1.5rem;
+}
+
+.postlist-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    counter-increment: start-from -1;
+    margin-bottom: 1em;
+}
+
+.postlist-item::before {
+    content: "" counter(start-from, decimal-leading-zero) ". ";
+    margin-left: -1.5rem;
+    font-size: 0.8em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+.postlist-date {
+    font-size: 0.8em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+.postlist-link {
+    flex-basis: calc(100% - 1.5rem);
+    padding-left: 0.25em;
+}
+
+.postlist-item-active .postlist-link {
+    font-weight: 700;
+}
+
+/* =========================
+   Blog post list (alternate)
+   ========================= */
+ul.blog-posts {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.blog-posts li {
+    display: flex;
+}
+
+ul.blog-posts li span {
+    flex: 0 0 130px;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+ul.blog-posts li a:visited {
+    color: var(--link-color-visited);
+}
+
+/* =========================
+   Tags / metadata
+   ========================= */
+.post-metadata {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-tag {
+    font-style: italic;
+    color: var(--color-muted);
+}
+
+/* =========================
+   Code
+   ========================= */
 pre,
 code {
-   font-family: var(--font-family-monospace);
+    font-family: var(--font-family-monospace);
 }
+
+code {
+    padding: 2px 4px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+}
+
 pre:not([class*="language-"]) {
-   margin: 0.5em 0;
-   line-height: 1.375; /* 22px /16 */
-   -moz-tab-size: var(--syntax-tab-size);
-   -o-tab-size: var(--syntax-tab-size);
-   tab-size: var(--syntax-tab-size);
-   -webkit-hyphens: none;
-   -ms-hyphens: none;
-   hyphens: none;
-   direction: ltr;
-   text-align: left;
-   white-space: pre;
-   word-spacing: normal;
-   word-break: normal;
-   overflow-x: auto;
-}
-code {
-   word-break: break-all;
+    margin: 0.75em 0;
+    padding: 0.75em 1em;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    line-height: 1.4;
+    overflow-x: auto;
+    tab-size: var(--syntax-tab-size);
 }
 
-/* Header */
-header {
-   display: flex;
-   gap: 1em;
-   flex-wrap: wrap;
-   justify-content: space-between;
-   align-items: center;
-   padding: 1em;
-}
-.home-link {
-   flex-grow: 1;
-   font-size: 1em; /* 16px /16 */
-   font-weight: 700;
-}
-.home-link:link:not(:hover) {
-   text-decoration: none;
-}
-
-/* Nav */
-.nav {
-   display: flex;
-   gap: 0.5em 1em;
-   padding: 0;
-   margin: 0;
-   list-style: none;
-}
-.nav-item {
-   display: inline-block;
-}
-.nav-item a[href]:not(:hover) {
-   text-decoration: none;
-}
-.nav a[href][aria-current="page"] {
-   text-decoration: underline;
-}
-
-/* Posts list */
-.postlist {
-   list-style: none;
-   padding: 0;
-   padding-left: 1.5rem;
-}
-.postlist-item {
-   display: flex;
-   flex-wrap: wrap;
-   align-items: baseline;
-   counter-increment: start-from -1;
-   margin-bottom: 1em;
-}
-.postlist-item:before {
-   display: inline-block;
-   pointer-events: none;
-   content: "" counter(start-from, decimal-leading-zero) ". ";
-   line-height: 100%;
-   text-align: right;
-   margin-left: -1.5rem;
-}
-.postlist-date,
-.postlist-item:before {
-   font-size: 0.8125em; /* 13px /16 */
-   color: var(--color-gray-90);
-}
-.postlist-date {
-   word-spacing: -0.5px;
-}
-.postlist-link {
-   font-size: 1em; /* 19px /16 */
-   font-weight: 400;
-   flex-basis: calc(100% - 1.5rem);
-   padding-left: 0.25em;
-   padding-right: 0.5em;
-   text-underline-position: from-font;
-   text-underline-offset: 0;
-   text-decoration-thickness: 1px;
-}
-.postlist-item-active .postlist-link {
-   font-weight: bold;
-}
-
-/* Tags */
-.post-tag {
-   display: inline-flex;
-   align-items: center;
-   justify-content: center;
-   text-transform: capitalize;
-   font-style: italic;
-}
-.postlist-item > .post-tag {
-   align-self: center;
-}
-
-/* Tags list */
-.post-metadata {
-   display: inline-flex;
-   flex-wrap: wrap;
-   gap: 0.5em;
-   list-style: none;
-   padding: 0;
-   margin: 0;
-}
-.post-metadata time {
-   margin-right: 1em;
-}
-/* New rule to add */
-article header .post-metadata {
-   justify-content: flex-start !important;
-   text-align: left;
-}
-
+/* =========================
+   Blockquotes
+   ========================= */
 blockquote {
-   font-style: italic;
-   border-left: 4px solid var(--color-gray-20);
-   margin-left: 0;
-   padding-left: 1em;
-}
-footer {
-   font-size: 15px;
-   text-align: center;
-}
-/* Enhanced code blocks added October 12, 2025 */
-pre {
-   background-color: #f5f5f5;
-   border: 1px solid var(--color-gray-20);
-   border-radius: 4px;
-   padding: 1em;
-   overflow-x: auto;
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: 4px solid var(--accent-color);
+    font-style: italic;
+    color: var(--text-color);
 }
 
-code {
-   background-color: #f5f5f5;
-   padding: 0.2em 0.4em;
-   border-radius: 3px;
-   font-size: 0.9em;
+/* =========================
+   Tables
+   ========================= */
+table {
+    width: 100%;
+    margin: 1em 0;
 }
 
-/* Remove background from inline code inside pre blocks */
-pre code {
-   background-color: transparent;
-   padding: 0;
-   border-radius: 0;
+table td,
+table th {
+    padding-right: 1em;
 }
 
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-   pre {
-      background-color: #1e1e1e;
-      border-color: #444;
-   }
+/* =========================
+   Horizontal rule
+   ========================= */
+hr {
+    border: none;
+    height: 2px;
+    background-color: var(--accent-color);
+    margin: 2em 0;
+}
 
-   code {
-      background-color: #1e1e1e;
-   }
+/* =========================
+   Accessibility
+   ========================= */
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
 
-   pre code {
-      background-color: transparent;
-   }
+/* =========================
+   Misc
+   ========================= */
+.inline {
+    width: auto !important;
+}
+header a.home-link,
+header a.home-link:visited {
+    color: #ff79c6;
+}
+/* Navigation links – Dracula green */
+header .nav a,
+header .nav a:visited {
+    color: #50fa7b;
+}
+
+header .nav a:hover,
+header .nav a:active {
+    text-decoration: underline;
 }
