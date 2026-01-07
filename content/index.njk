@@ -7,28 +7,50 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 10;
 ---
 
+<div class="intro-section">
+    <p>
+        Hey, I’m ldstephens. I’ve been writing online since the late 1990s, and
+        I can’t count how many times I’ve pulled the plug on previous blogs. For
+        now, this is my little corner of the web where I share whatever’s on my
+        mind: stories, random thoughts, tech stuff I&#8217;m tinkering with, and
+        the occasional rant. You’ll also find quotes that resonate with me and
+        links I believe are worth sharing.
+    </p>
+
+    <p>
+        Anyway, like I said, this is my little corner of the web. Could be
+        great, could be a mess. Either way, stick around. Or don’t. It’s your
+        call.
+    </p>
+
+    <p>
+        I was recently featured on Manu Moreale&#8217;s <a
+            href="https://manuelmoreale.com/interview/loren-stephens"
+            >People and Blogs</a
+        > if you&#8217;re interested in learning more about me.
+    </p>
+</div>
+
 {% set postsCount = collections.posts | length %} {% set latestPostsCount =
 postsCount | min(numberOfLatestPostsToShow) %}
 <h1>
-   My {{ latestPostsCount }} Most Recent Post{% if latestPostsCount != 1 %}s{%
-   endif %}
+    My {{ latestPostsCount }} Most Recent Post{% if latestPostsCount != 1 %}s{%
+    endif %}
 </h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %} {% include "postslist.njk" %} {% set
 morePosts = postsCount - numberOfLatestPostsToShow %} {% if morePosts > 0 %}
 <p>
-   {{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in
-   <a href="blog.njk">the archive</a>.
+    {{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in
+    <a href="blog.njk">the archive</a>.
 </p>
 {% endif %} {# List every content page in the project #} {#
 <ul>
-   {%- for entry in collections.all %}
-   <li>
-      <a href="{{ entry.url }}"
-         ><code>{{ entry.url }}</code></a
-      >
-   </li>
-   {%- endfor %}
+    {%- for entry in collections.all %}
+    <li>
+        <a href="{{ entry.url }}"><code>{{ entry.url }}</code></a>
+    </li>
+    {%- endfor %}
 </ul>
 #}
