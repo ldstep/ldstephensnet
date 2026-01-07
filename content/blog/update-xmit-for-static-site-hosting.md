@@ -1,5 +1,5 @@
 ---
-title: Update: xmit for static site hosting
+title: "Update: xmit for static site hosting"
 description:
 date: 2026-01-06T19:15:33Z
 tags:
