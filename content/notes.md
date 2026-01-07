@@ -25,9 +25,9 @@ Interesting post by Andre. As I mentioned in my previous note, I'm eliminating m
 
 January 4, 2026, at 10:04:16 AM
 
-In 2026, I’m letting go of the last couple of subscription apps I still use. I won’t be renewing my Drafts subscription in April or my Simple Scan subscription in May.
+In 2026, I’m letting go of the last couple of subscription apps I still use. I won’t be renewing my <strike>Drafts subscription in April</strike> my Simple Scan subscription in May.
 
-Leaving Drafts behind is harder than I expected. I’ve used it since 2014, and so much of how I think and work is wrapped up in its workflows and muscle memory. But I’ve realized I can get where I need to go with a combination of iA Writer and Apple Notes. 
+Leaving Drafts behind is harder than I expected. I’ve used it since 2014, and so much of how I think and work is wrapped up in its workflows and muscle memory. <strike>But I’ve realized I can get where I need to go with a combination of iA Writer and Apple Notes.</strike> 
 
 ---
 
