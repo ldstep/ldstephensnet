@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+January 8, 2026, at 10:50:06 AM
+
+Lately, I’ve noticed something about how and where I write. When I sit down to write on my MacBook Pro, I often miss keys or lose my place on the keyboard. I chalk that up to having short fingers. Some keys just aren’t comfortable to reach.
+
+On my 11" iPad with the Magic Keyboard, it’s a different story. I type faster and more accurately, probably because the keyboard is more compact.
+
+This makes it pretty clear that I should be doing most of my writing on the iPad, and using the MacBook Pro for final editing and processing.
+
+I wrote this on my M2 iPad Air in Drafts.
+
+---
+
 January 5, 2026, at 9:40:01 AM
 
 [Andre Franca](https://afranca.com.br/the-saas-takeover/)
