@@ -13,6 +13,29 @@ eleventyNavigation:
 
 ---
 
+January 10, 2026, at 4:05:52 PM
+
+**Render Migration**
+- ldstephens.net moved from Netlify → Vercel → Render due to Netlify’s credit-based free plan.
+- Chose Render for predictable pricing, static-first hosting, and fewer surprises.
+
+*Redirects*
+- All redirects defined in `render.yaml`.
+
+*Bots & Crawlers*
+- `robots.txt` works normally on Render as a static file.
+
+*Verification*
+- Confirmed redirects for 2017 and 2018 posts.
+- Redirect behavior validated for all posts and RSS.
+
+*Result*
+- Site is live on Render.
+- Redirects and RSS preserved.
+- Migration complete.
+
+---
+
 January 8, 2026, at 10:50:06 AM
 
 Lately, I’ve noticed something about how and where I write. When I sit down to write on my MacBook Pro, I often miss keys or lose my place on the keyboard. I chalk that up to having short fingers. Some keys just aren’t comfortable to reach.

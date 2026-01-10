@@ -16,20 +16,46 @@
         </image>
 
         <item>
-            <title>January 8, 2026, at 10:50:06 AM</title>
+            <title>January 10, 2026, at 4:05:52 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>Lately, I’ve noticed something about how and where I write. When I sit down to write on my MacBook Pro, I often miss keys or lose my place on the keyboard. I chalk that up to having short fingers. Some keys just aren’t comfortable to reach.</p>
+            <p><strong>Render Migration</strong></p>
 
-			<p>On my 11&quot; iPad with the Magic Keyboard, it’s a different story. I type faster and more accurately, probably because the keyboard is more compact.</p>
+            <ul>
+            <li>ldstephens.net moved from Netlify → Vercel → Render due to Netlify’s credit-based free plan.</li>
+            <li>Chose Render for predictable pricing, static-first hosting, and fewer surprises.</li>
+            </ul>
 
-			<p>This makes it pretty clear that I should be doing most of my writing on the iPad, and using the MacBook Pro for final editing and processing.</p>
+            <p><em>Redirects</em></p>
 
-			<p>I wrote this on my M2 iPad Air in Drafts.</p>
+            <ul>
+            <li>All redirects defined in <code>render.yaml</code>.</li>
+            </ul>
+
+            <p><em>Bots &amp; Crawlers</em></p>
+
+            <ul>
+            <li><code>robots.txt</code> works normally on Render as a static file.</li>
+            </ul>
+
+            <p><em>Verification</em></p>
+
+            <ul>
+            <li>Confirmed redirects for 2017 and 2018 posts.</li>
+            <li>Redirect behavior validated for all posts and RSS.</li>
+            </ul>
+
+            <p><em>Result</em></p>
+
+            <ul>
+            <li>Site is live on Render.</li>
+            <li>Redirects and RSS preserved.</li>
+            <li>Migration complete.</li>
+            </ul>
             ]]>
              </description>
-            <pubDate>Thu, 08 Jan 2026 10:53:06 -0500</pubDate>
+            <pubDate>Sat, 10 Jan 2026 16:14:01 -0500</pubDate>
         </item>
     </channel>
 </rss>

@@ -34,7 +34,7 @@ const numberOfLatestPostsToShow = 10;
 {% set postsCount = collections.posts | length %} {% set latestPostsCount =
 postsCount | min(numberOfLatestPostsToShow) %}
 <h1>
-    My {{ latestPostsCount }} Most Recent Post{% if latestPostsCount != 1 %}s{%
+    {{ latestPostsCount }} Most Recent Post{% if latestPostsCount != 1 %}s{%
     endif %}
 </h1>
 
