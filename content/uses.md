@@ -24,7 +24,7 @@ _Apps:_
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 -  Mail App: Mail
 -  Calendar: Fantastical
--  Notes: Apple Notes / Files
+-  Notes: Apple Notes / Text Files
 -  To-Do: Things
 -  Cloud File Storage: iCloud
 -  Browser: Safari / Firefox
@@ -54,7 +54,7 @@ _Apps:_
 -  Mail App: Mail
 -  Messages: Messages
 -  Calendar: Fantastical
--  Notes: Apple Notes / Files
+-  Notes: Apple Notes / Text Files
 -  To-Do: Things
 -  Browser: Safari
 -  Text: iA Writer / Drafts
