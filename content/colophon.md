@@ -13,4 +13,4 @@ This is a static site built with [11ty](https://www.11ty.dev/), using [HTML an
 
 When adding new posts, changing the design, or adding new features, that is done in [Zed](https://zed.dev).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com/) and added to a new post in Zed.
+New posts are written in Markdown in [iA Writer](https://ia.net/writer) and added to a new post in Zed.
