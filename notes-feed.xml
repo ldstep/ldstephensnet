@@ -16,46 +16,40 @@
         </image>
 
         <item>
-            <title>January 10, 2026, at 4:05:52 PM</title>
+            <title>January 14, 2026, at 9:37:46 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p><strong>Render Migration</strong></p>
+            <p><a href="https://afranca.com.br/why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog/">Andre Franca, Why People Should Not Ask for Donations or Money to Run Their Own Personal Blog</a></p>
 
-            <ul>
-            <li>ldstephens.net moved from Netlify → Vercel → Render due to Netlify’s credit-based free plan.</li>
-            <li>Chose Render for predictable pricing, static-first hosting, and fewer surprises.</li>
-            </ul>
+            <blockquote>
+            <p>Why do you run a blog? Is it to make a living, or is it a hobby? If you write from your small corner of the internet for pleasure, to meet new people, or simply for engagement, then you probably shouldn’t ask for money for it. Here&#8217;s why:</p>
 
-            <p><em>Redirects</em></p>
+            <p>[…]</p>
 
-            <ul>
-            <li>All redirects defined in <code>render.yaml</code>.</li>
-            </ul>
+            <p>First, asking for donations creates an implicit transaction, even when framed as &#8220;optional&#8221;. Readers may feel entitled to certain topics, frequency, or opinions.</p>
 
-            <p><em>Bots &amp; Crawlers</em></p>
+            <p>Second, financial incentives often (if not always) influence behavior. Writers may unconsciously avoid controversial opinions, difficult topics, or experimental ideas out of fear of alienating supporters. This certainly leads to self-censorship, where authenticity is sacrificed in favor of maintaining income. There are many examples of this among content creators out there.</p>
 
-            <ul>
-            <li><code>robots.txt</code> works normally on Render as a static file.</li>
-            </ul>
+            <p>Third, the barrier to entry for blogging has never been lower. Today, there are countless ways to build an online presence, and running a blog can cost little to nothing. When the costs of running a blog are minimal or nonexistent, requesting money becomes harder to justify, especially for a purely personal website.</p>
 
-            <p><em>Verification</em></p>
+            <p>[…]</p>
 
-            <ul>
-            <li>Confirmed redirects for 2017 and 2018 posts.</li>
-            <li>Redirect behavior validated for all posts and RSS.</li>
-            </ul>
+            <p>Finally, without financial pressure, writers are free to write irregularly, change direction, or even stop altogether. At least, that is how I feel about this blog.</p>
+            </blockquote>
 
-            <p><em>Result</em></p>
+            <p><em>For my own site</em>, I agree in principle.</p>
 
-            <ul>
-            <li>Site is live on Render.</li>
-            <li>Redirects and RSS preserved.</li>
-            <li>Migration complete.</li>
-            </ul>
+            <p>A personal blog, for me, is my space where I share how I&#8217;m using my tech, random thoughts, and the occasional rant. I don&#8217;t want to feel obligated to produce posts, stick to specific topics, or maintain consistency. Even optional donations can alter that dynamic, at least in my own mind.</p>
+
+            <p>Blogging isn&#8217;t expensive anymore. A domain and basic hosting cost very little, and I&#8217;m happy to cover that expense myself.</p>
+
+            <p>I appreciate that my blog doesn&#8217;t have to perform. It doesn&#8217;t need to grow or justify its existence. It can be valuable to a few people, or just to me.</p>
+
+            <p>What are your thoughts?</p>
             ]]>
              </description>
-            <pubDate>Sat, 10 Jan 2026 16:14:01 -0500</pubDate>
+            <pubDate>Wed, 14 Jan 2026 09:43:09 -0500</pubDate>
         </item>
     </channel>
 </rss>
