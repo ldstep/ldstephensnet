@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Uses
 
-Updated: January 12, 2026
+Updated: January 14, 2026
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -24,14 +24,14 @@ _Apps:_
 -  Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 -  Mail App: Mail
 -  Calendar: Fantastical
--  Notes: Apple Notes / Text Files
+-  Notes: Drafts / Apple Notes
 -  To-Do: Things
 -  Cloud File Storage: iCloud
 -  Browser: Safari / Firefox
--  Text Editor: iA Writer / Drafts
+-  Text Editor: Drafts / iA Writer
 -  Code: GitHub
 -  Code Editor: Zed
--  Journal: iA Writer / Day One
+-  Journal: Drafts / Day One
 -  Launcher: Alfred
 -  RSS Service: Feedbin
 -  RSS App: NetNewsWire
@@ -54,15 +54,15 @@ _Apps:_
 -  Mail App: Mail
 -  Messages: Messages
 -  Calendar: Fantastical
--  Notes: Apple Notes / Text Files
+-  Notes: Drafts / Apple Notes
 -  To-Do: Things
 -  Browser: Safari
--  Text: iA Writer / Drafts
+-  Text: Drafts / iA Writer
 -  RSS Service: Feedbin
 -  RSS App: NetNewsWire
 -  Bookmarks: Goodlinks
 -  Read It Later: Goodlinks
--  Journal: iA Writer / Day One
+-  Journal: Drafts / Day One
 -  Password Manager: Bitwarden
 -  Weather: Carrot Weather
 -  Health and Fitness: Fitness, FoodNoms
