@@ -16,40 +16,19 @@
         </image>
 
         <item>
-            <title>January 14, 2026, at 9:37:46 AM</title>
+            <title>January 14, 2026, at 2:09:59 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p><a href="https://afranca.com.br/why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog/">Andre Franca, Why People Should Not Ask for Donations or Money to Run Their Own Personal Blog</a></p>
+            <p><a href="https://adactio.com/journal/22355">Adactio: Journal—Switch</a></p>
 
             <blockquote>
-            <p>Why do you run a blog? Is it to make a living, or is it a hobby? If you write from your small corner of the internet for pleasure, to meet new people, or simply for engagement, then you probably shouldn’t ask for money for it. Here&#8217;s why:</p>
-
-            <p>[…]</p>
-
-            <p>First, asking for donations creates an implicit transaction, even when framed as &#8220;optional&#8221;. Readers may feel entitled to certain topics, frequency, or opinions.</p>
-
-            <p>Second, financial incentives often (if not always) influence behavior. Writers may unconsciously avoid controversial opinions, difficult topics, or experimental ideas out of fear of alienating supporters. This certainly leads to self-censorship, where authenticity is sacrificed in favor of maintaining income. There are many examples of this among content creators out there.</p>
-
-            <p>Third, the barrier to entry for blogging has never been lower. Today, there are countless ways to build an online presence, and running a blog can cost little to nothing. When the costs of running a blog are minimal or nonexistent, requesting money becomes harder to justify, especially for a purely personal website.</p>
-
-            <p>[…]</p>
-
-            <p>Finally, without financial pressure, writers are free to write irregularly, change direction, or even stop altogether. At least, that is how I feel about this blog.</p>
+            <p>A bit has been flipped on Google Search.
+            Previously, the Googlebot would index any web page it came across, unless a robots.txt file said otherwise. Now, a robots.txt file is required in order for the Googlebot to index a website.</p>
             </blockquote>
-
-            <p><em>For my own site</em>, I agree in principle.</p>
-
-            <p>A personal blog, for me, is my space where I share how I&#8217;m using my tech, random thoughts, and the occasional rant. I don&#8217;t want to feel obligated to produce posts, stick to specific topics, or maintain consistency. Even optional donations can alter that dynamic, at least in my own mind.</p>
-
-            <p>Blogging isn&#8217;t expensive anymore. A domain and basic hosting cost very little, and I&#8217;m happy to cover that expense myself.</p>
-
-            <p>I appreciate that my blog doesn&#8217;t have to perform. It doesn&#8217;t need to grow or justify its existence. It can be valuable to a few people, or just to me.</p>
-
-            <p>What are your thoughts?</p>
             ]]>
              </description>
-            <pubDate>Wed, 14 Jan 2026 09:43:09 -0500</pubDate>
+            <pubDate>Wed, 14 Jan 2026 14:12:02 -0500</pubDate>
         </item>
     </channel>
 </rss>

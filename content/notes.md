@@ -13,6 +13,15 @@ eleventyNavigation:
 
 ---
 
+January 14, 2026, at 2:09:59 PM
+
+[Adactio: Journal—Switch](https://adactio.com/journal/22355)
+
+> A bit has been flipped on Google Search.
+Previously, the Googlebot would index any web page it came across, unless a robots.txt file said otherwise. Now, a robots.txt file is required in order for the Googlebot to index a website.
+
+---
+
 January 14, 2026, at 9:37:46 AM
 
 [Andre Franca, Why People Should Not Ask for Donations or Money to Run Their Own Personal Blog](https://afranca.com.br/why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog/)
