@@ -16,48 +16,8 @@ services:
         destination: https://ldstephens.net/feed/feed.xml
         status: 301
 
-      # Blog post redirects for 2016–2024
+      # Redirect old posts (year/month/day/slug) → /blog/slug
       - type: redirect
-        source: /2016/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2017/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2018/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2019/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2020/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2021/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2022/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2023/:splat*
-        destination: /blog/:splat
-        status: 301
-
-      - type: redirect
-        source: /2024/:splat*
-        destination: /blog/:splat
+        source: /*/*/*/*
+        destination: /blog/*
         status: 301
