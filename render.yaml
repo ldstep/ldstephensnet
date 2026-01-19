@@ -5,59 +5,47 @@ services:
     outputDirectory: _site
     trailingSlash: true
     routes:
-      # Feed redirects
       - type: redirect
         source: /feed
-        destination: https://ldstephens.net/feed/feed.xml
+        destination: /feed/feed.xml
         status: 301
-
       - type: redirect
         source: /feed.xml
-        destination: https://ldstephens.net/feed/feed.xml
+        destination: /feed/feed.xml
         status: 301
-
-      # Blog post redirects for 2016–2024
       - type: redirect
-        source: /2016/*
-        destination: /blog/:splat
+        source: /2016/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2017/*
-        destination: /blog/:splat
+        source: /2017/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2018/*
-        destination: /blog/:splat
+        source: /2018/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2019/*
-        destination: /blog/:splat
+        source: /2019/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2020/*
-        destination: /blog/:splat
+        source: /2020/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2021/*
-        destination: /blog/:splat
+        source: /2021/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2022/*
-        destination: /blog/:splat
+        source: /2022/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2023/*
-        destination: /blog/:splat
+        source: /2023/(.*)
+        destination: /blog/%1
         status: 301
-
       - type: redirect
-        source: /2024/*
-        destination: /blog/:splat
+        source: /2024/(.*)
+        destination: /blog/%1
         status: 301
