@@ -1,22 +1,24 @@
-services:
-  - type: static
-    name: ldstephens
-    buildCommand: npm run build
-    outputDirectory: _site
-    trailingSlash: true
-    routes:
-      # Automatically captures /YYYY/MM/DD/title and redirects to /blog/title
-      - type: redirect
-        source: /([0-9]{4})/([0-9]{2})/([0-9]{2})/(.*)
-        destination: /blog/%4
-        status: 301
+routes:
+  # Redirects /2017/11/26/post-title/ to /blog/post-title/
+  - type: redirect
+    source: /2016/:month/:day/:slug
+    destination: /blog/:slug
+    status: 301
 
-      # Feed redirects
-      - type: redirect
-        source: /feed
-        destination: /feed/feed.xml
-        status: 301
-      - type: redirect
-        source: /feed.xml
-        destination: /feed/feed.xml
-        status: 301
+  - type: redirect
+    source: /2017/:month/:day/:slug
+    destination: /blog/:slug
+    status: 301
+
+  - type: redirect
+    source: /2018/:month/:day/:slug
+    destination: /blog/:slug
+    status: 301
+
+  # ... repeat this pattern for each year ...
+
+  # Feed redirects
+  - type: redirect
+    source: /feed
+    destination: /feed/feed.xml
+    status: 301
