@@ -16,19 +16,14 @@
         </image>
 
         <item>
-            <title>January 14, 2026, at 2:09:59 PM</title>
+            <title>January 20, 2026, at 4:37:26 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p><a href="https://adactio.com/journal/22355">Adactio: Journal—Switch</a></p>
-
-            <blockquote>
-            <p>A bit has been flipped on Google Search.
-            Previously, the Googlebot would index any web page it came across, unless a robots.txt file said otherwise. Now, a robots.txt file is required in order for the Googlebot to index a website.</p>
-            </blockquote>
+            <p>For the past few days, I&#8217;ve been using Raycast. Today, I&#8217;m back to Alfred, my go-to.</p>
             ]]>
              </description>
-            <pubDate>Wed, 14 Jan 2026 14:12:02 -0500</pubDate>
+            <pubDate>Tue, 20 Jan 2026 16:39:23 -0500</pubDate>
         </item>
     </channel>
 </rss>

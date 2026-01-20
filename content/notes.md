@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+January 20, 2026, at 4:37:26 PM
+
+For the past few days, I've been using Raycast. Today, I'm back to Alfred, my go-to. 
+
+---
+
 January 14, 2026, at 2:09:59 PM
 
 [Adactio: Journal—Switch](https://adactio.com/journal/22355)
