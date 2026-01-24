@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+January 24, 2026, at 9:25:14 AM
+
+It's really fucking cold this morning. The temperature is currently 11 degrees, with a wind chill of -3. A major storm is expected tomorrow, bringing snow, sleet, and ice. We spent yesterday preparing for it. I checked the heating oil, and we have plenty. I'll bring in a good supply of firewood this afternoon.
+
+---
+
 January 20, 2026, at 4:37:26 PM
 
 For the past few days, I've been using Raycast. Today, I'm back to Alfred, my go-to. 
