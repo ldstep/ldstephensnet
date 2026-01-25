@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+January 25, 2026, at 3:19:21 PM
+
+It's snowing and blowing, with a temperature of 24 degrees but a windchill making it feel like 10. We've already accumulated a solid 8 to 10 inches of snow. I've cleared the back porch, the roofs of the shed and chicken coop, and the cars twice already, and I need to do it again. I also used the snowblower to clear some walkways in the yard. So far, we haven't lost power, fingers crossed 🤞.
+
+---
+
 January 24, 2026, at 9:25:14 AM
 
 It's really fucking cold this morning. The temperature is currently 11 degrees, with a wind chill of -3. A major storm is expected tomorrow, bringing snow, sleet, and ice. We spent yesterday preparing for it. I checked the heating oil, and we have plenty. I'll bring in a good supply of firewood this afternoon.
