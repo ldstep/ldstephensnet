@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+January 26, 2026, at 3:17:19 PM
+
+[Giles Turnbull](https://gilest.org/notes/2026/not-moaning-ai/) 
+
+> Gemini and other tools like it aren’t intended for me - they’re for people who find writing hard. I find it easy. Of course I’m going to be dismissive, of course I’m going to want it to stop pestering me. Some people will welcome that.[…] So, sure, I don’t value LLM words for my own purposes, but I can see why some people might.
+
+---
+
 January 25, 2026, at 3:19:21 PM
 
 It's snowing and blowing, with a temperature of 24 degrees but a windchill making it feel like 10. We've already accumulated a solid 8 to 10 inches of snow. I've cleared the back porch, the roofs of the shed and chicken coop, and the cars twice already, and I need to do it again. I also used the snowblower to clear some walkways in the yard. So far, we haven't lost power, fingers crossed 🤞.
