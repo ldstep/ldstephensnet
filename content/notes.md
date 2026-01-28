@@ -13,6 +13,25 @@ eleventyNavigation:
 
 ---
 
+January 28, 2026, at 9:28:53 AM
+
+[Howard Oakley](https://eclecticlight.co/2026/01/27/should-you-restart-or-cold-boot/)
+
+**Should you restart or cold boot?**
+
+> Summary
+> 
+>  * Perform a cold boot by shutting down, waiting at least ten seconds, then starting up again.
+>  * A cold boot may sometimes be more effective at fixing problems than a restart.
+>  * If you have tried restarting your Mac to address a problem and that didn’t help, try a cold boot.
+>  * Cold booting may be more effective at addressing problems with external boot disks, or possibly with other peripherals.
+>  * We don’t fully understand why a cold boot might differ in effect from a restart, but it could.
+>  * There is no evidence that a Mac should always, or usually, be cold-booted rather than restarted.
+
+Helpful information to have.
+
+---
+
 January 26, 2026, at 3:17:19 PM
 
 [Giles Turnbull](https://gilest.org/notes/2026/not-moaning-ai/) 
