@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+January 31, 2026, at 10:48:38 AM
+
+I came across [plaintextproject.online](http://plaintextproject.online) and, after reading a few posts, was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.
+
+[Source](https://ellanew.com/2025/01/19/ptpl-191-answer-8-questions-why-plain-text) 
+
+---
+
 January 28, 2026, at 9:28:53 AM
 
 [Howard Oakley](https://eclecticlight.co/2026/01/27/should-you-restart-or-cold-boot/)
