@@ -13,6 +13,107 @@ eleventyNavigation:
 
 ---
 
+
+April 8, 2026, at 9:32:15 AM
+
+This caught my attention this morning:
+
+[Jack Baty](https://copingmechanism.com/wednesday-april-8-2026/)
+
+> Almost no one visits my blogs directly. 90% of visits are via RSS. This means that what the pages look like doesn't matter to anyone but me. I wish it didn't matter to me. Things sure would be simpler.
+
+Same with this blog, 90% of visits are via RSS.
+
+---
+
+March 28, 2026, at 2:35:34 PM
+
+> Vibe coding may not take a professional developer from 10 to 100, but it takes a lot of regular folks from 0 to 1 or more. That's huge and amazing.
+
+[Jack Baty](https://copingmechanism.com/where-are-all-the-ai-apps-everywhere/)
+
+---
+
+March 28, 2026, at 11:22:03 AM
+
+I love [Drafts](https://getdrafts.com). It's been my staple for capture and writing for years, and I have it automated exactly the way I want it. Familiar like an old friend. I keep experimenting with other apps, but I always come back to Drafts. I'm done experimenting.
+
+---
+
+March 22, 2026, at 10:30:01 AM
+
+Images for 11ty blog posts via GitHub + Statically CDN
+
+Keep images out of the main site repo. Store them in a separate public GitHub repo and serve them through Statically, which resizes and converts on the fly.
+
+**Setup**
+- Created a public GitHub repo for images 
+- Upload images as `.jpeg` (not `.heic` — browsers can't display HEIC natively)
+
+**URL Template**
+
+https://cdn.statically.io/img/gh/USER/REPO/BRANCH/FILENAME?width=800&format=webp
+
+**Usage**
+
+Standard Markdown — no 11ty config changes needed
+
+---
+
+March 14, 2026, at 9:41:39 AM
+
+I've been using Firefox instead of Safari lately. A few reasons:
+
+It clears cookies and history on close and you can set exceptions for sites you want to stay logged into. Every site I use works in Firefox without issues. And the Bitwarden extension is solid.
+
+That's it. No regrets.
+
+---
+
+March 10, 2026, at 2:34:49 PM
+
+> How Anyone Can Score Apple's Educational Discount 
+> 
+> According to Apple, the Education Store only applies to "current and newly accepted college students and their parents, as well as faculty, staff, and homeschool teachers of all grade levels." But this is the (open) secret of Apple's Education Store: While the discounts are supposed to be for students, educators, and parents, anyone can shop the Education Store and take advantage of the same savings. There is no proof required when accessing the Education Store online in the U.S.—it's just a different section of the Apple Store website. Once you're in, you're in, and you can get the same discounts as anyone Apple would intend the discount for.
+> 
+> That includes, of course, the MacBook Neo, which starts at just $499 on the Education Store (for the 256GB model).
+
+[Lifehacker](https://lifehacker.com/tech/apple-education-discount-explained)
+
+I tested this and it works. I'm not sure how ethical it is, but if you want to give it a shot, here's the [link to the Education Store](https://www.apple.com/us-edu/store). 
+
+---
+
+March 9, 2026, at 9:47:20 AM
+
+I'm experimenting with Bear as a replacement for Drafts — for blog posts, notes, journal entries, and archive storage.
+
+One thing I like: if I ever need to recover a specific note, I don't have to overwrite my current data. I can restore from a Bear backup by renaming the `.bear2bk` file to `.zip`, unzipping it, and pulling out individual notes as `.textbundle` files. Plain text, accessible, no drama.
+
+---
+
+March 5, 2026, at 5:06:39 PM
+
+[I Write Like](https://iwl.me/) from [Coding Robots](https://www.codingrobots.com/) is a free Mac web app that packs a surprising amount into one place — Markdown preview, style analysis, readability scoring, AI editing. It's not how I write, but if you're looking for a no-install, just-open-and-go Markdown editor for occasional writing, it's a solid option.
+
+---
+
+March 4, 2026, at 10:09:46 AM
+
+M5 MacBook Pros: Fine Computers With an Asterisk
+
+> That said, there’s an asterisk here. The M6 MacBook Pro is expected before the end of this year, and it’s rumored to be a substantial redesign with OLED displays, a touchscreen, the notch replaced by a Dynamic Island, and chips built on TSMC’s 2nm process. If even half of those rumors pan out, it will be the biggest MacBook Pro refresh in years. If you’re thinking about buying an M5, go into it with open eyes.
+
+[MacSparky](https://www.macsparky.com/blog/2026/03/m5-macbook-pros-fine-computers-with-an-asterisk/)
+
+---
+
+March 3, 2026, at 2:51:36 PM
+
+I'm adding notes back to my site. This is a test post to make sure that the RSS feed is working?
+
+---
+
 January 31, 2026, at 10:48:38 AM
 
 I came across [plaintextproject.online](http://plaintextproject.online) and, after reading a few posts, was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.
