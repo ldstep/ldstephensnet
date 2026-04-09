@@ -1,0 +1,360 @@
+/* =========================
+   Root variables / theme
+   ========================= */
+:root {
+    --font-family: -apple-system, system-ui, sans-serif;
+    --font-family-monospace:
+        Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console,
+        Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+        Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+
+    --background-color: #282a36;
+    --text-color: #f8f8f2;
+
+    --link-color: #8be9fd;
+    --link-color-active: #8be9fd;
+    --link-color-visited: #8be9fd;
+
+    --heading-color: #bd93f9;
+    --accent-color: #ff79c6;
+
+    --color-muted: #6272a4;
+    --color-border: #44475a;
+
+    --code-background-color: #313244;
+    --code-color: #cdd6f4;
+
+    --syntax-tab-size: 2;
+}
+
+/* =========================
+   Global reset / base
+   ========================= */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0 auto;
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    max-width: 40em;
+}
+
+/* =========================
+   Typography
+   ========================= */
+p,
+li {
+    line-height: 1.5;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+strong,
+b {
+    color: var(--text-color);
+}
+
+time {
+    font-family: var(--font-family-monospace);
+    font-size: 0.9em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--heading-color);
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+/* =========================
+   Links
+   ========================= */
+a[href] {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a[href]:visited {
+    color: var(--link-color-visited);
+}
+
+a[href]:hover,
+a[href]:active {
+    color: var(--link-color-active);
+    text-decoration: underline;
+}
+
+/* =========================
+   Layout
+   ========================= */
+header,
+main,
+footer {
+    padding: 1rem;
+}
+
+header {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dashed var(--color-border);
+}
+
+footer {
+    font-size: 13px;
+    text-align: center;
+}
+
+/* =========================
+   Navigation
+   ========================= */
+.nav {
+    display: flex;
+    gap: 0.5em 1em;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-item a:not(:hover) {
+    text-decoration: none;
+}
+
+.nav a[aria-current="page"] {
+    text-decoration: underline;
+}
+
+/* =========================
+   Home link / blog title
+   ========================= */
+.home-link,
+.home-link h1 {
+    color: #ff79c6; /* Dracula pink */
+}
+
+.home-link {
+    flex-grow: 1;
+    font-weight: 700;
+}
+
+.home-link:link:not(:hover) {
+    text-decoration: none;
+}
+
+/* =========================
+   Images / media
+   ========================= */
+img {
+    max-width: 100%;
+}
+
+img[width][height] {
+    height: auto;
+}
+
+video,
+iframe {
+    width: 100%;
+    height: auto;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+}
+
+/* =========================
+   Post list
+   ========================= */
+.postlist {
+    list-style: none;
+    padding: 0;
+    padding-left: 1.5rem;
+}
+
+.postlist-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    counter-increment: start-from -1;
+    margin-bottom: 1em;
+}
+
+.postlist-item::before {
+    content: "" counter(start-from, decimal-leading-zero) ". ";
+    margin-left: -1.5rem;
+    font-size: 0.8em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+.postlist-date {
+    font-size: 0.8em;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+.postlist-link {
+    flex-basis: calc(100% - 1.5rem);
+    padding-left: 0.25em;
+}
+
+.postlist-item-active .postlist-link {
+    font-weight: 700;
+}
+
+/* =========================
+   Blog post list (alternate)
+   ========================= */
+ul.blog-posts {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.blog-posts li {
+    display: flex;
+}
+
+ul.blog-posts li span {
+    flex: 0 0 130px;
+    color: #f1fa8c; /* Dracula yellow */
+}
+
+ul.blog-posts li a:visited {
+    color: var(--link-color-visited);
+}
+
+/* =========================
+   Tags / metadata
+   ========================= */
+.post-metadata {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-tag {
+    font-style: italic;
+    color: var(--color-muted);
+}
+
+/* =========================
+   Code
+   ========================= */
+pre,
+code {
+    font-family: var(--font-family-monospace);
+}
+
+code {
+    padding: 2px 4px;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    border-radius: 3px;
+}
+
+pre:not([class*="language-"]) {
+    margin: 0.75em 0;
+    padding: 0.75em 1em;
+    background-color: var(--code-background-color);
+    color: var(--code-color);
+    line-height: 1.4;
+    overflow-x: auto;
+    tab-size: var(--syntax-tab-size);
+}
+
+/* =========================
+   Blockquotes
+   ========================= */
+blockquote {
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: 4px solid var(--accent-color);
+    font-style: italic;
+    color: var(--text-color);
+}
+
+/* =========================
+   Tables
+   ========================= */
+table {
+    width: 100%;
+    margin: 1em 0;
+}
+
+table td,
+table th {
+    padding-right: 1em;
+}
+
+/* =========================
+   Horizontal rule
+   ========================= */
+hr {
+    border: none;
+    height: 2px;
+    background-color: var(--accent-color);
+    margin: 2em 0;
+}
+
+/* =========================
+   Accessibility
+   ========================= */
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+/* =========================
+   Misc
+   ========================= */
+.inline {
+    width: auto !important;
+}
+header a.home-link,
+header a.home-link:visited {
+    color: #ff79c6;
+}
+/* Navigation links – Dracula green */
+header .nav a,
+header .nav a:visited {
+    color: #50fa7b;
+}
+
+header .nav a:hover,
+header .nav a:active {
+    text-decoration: underline;
+}
